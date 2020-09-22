@@ -6,3 +6,7 @@ Block some ads from:
 - Youtube
 - Yandex Zen
 - Mail.ru and some others
+
+Installation
+
+Add file to your preferred adblocker which use Adblock filtering rules.
