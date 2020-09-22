@@ -39,7 +39,7 @@ m.games.mail.ru##.custom-push
 ||viqeo.tv^
 ||www.viqeo.tv^
 !
-! Yandex Zen
+! Yandex
 !
 ||zen.yandex.ru^
 ||m.zen.yandex.ru^
