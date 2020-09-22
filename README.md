@@ -1,4 +1,4 @@
-# block-some-pesky-ads
+# Block some pesky ads
 
 Combined from several filter lists to avoid some pesky ads on sites in Russia.
 
