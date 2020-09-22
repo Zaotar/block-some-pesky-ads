@@ -55,3 +55,14 @@ m.games.mail.ru##.custom-push
 ||www.zen.yandex.com.tr^
 ||zen.yandex.com.fr^
 ||www.zen.yandex.com.fr^
+||market.yandex.ru^
+||www.market.yandex.ru^
+!
+!Others
+!
+||rpc-php.trafficfactory.biz^
+||www.rpc-php.trafficfactory.biz^
+||e-katalog.ru^
+||www.e-katalog.ru^
+||info.price.nadavi.ru^
+||www.info.price.nadavi.ru^
