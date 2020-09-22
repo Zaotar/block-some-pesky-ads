@@ -28,7 +28,10 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 ! 3DNews
 !
 3dnews.ru###crt-1291719
-3dnews.ru##.rbxglob.relatedbox.content-block > .white.content-block-data
+3dnews.ru###yandex-widget-offers
+3dnews.ru###zone-1868 > div:nth-of-type(1)
+3dnews.ru##.sp-form-outer
+3dnews.ru##.at-share-btn-elements
 !
 ! Mail.ru
 !
@@ -38,6 +41,25 @@ m.games.mail.ru##.custom-push
 ||www.newstube.ru/$subdocument
 ||viqeo.tv^
 ||www.viqeo.tv^
+news.mail.ru##.article-swipe-content__item_active.m-lazy-item_complete.article-swipe-content__item.js-article-swipe__content-item.js-module.article > .margin_horizontal_m10.block > .ratio
+auto.mail.ru##.article-swipe-content__item_active.article-swipe-content__item.js-article-swipe__content-item > .m-lazy-item_complete.js-mediator-article.js-article.js-module.article_continued.article > .article__text_auto.article__text > .article__item_embed_ratio.article__item_source_smotri.article__item_embed.article__item
+! Спорт
+sportmail.ru##.article__item_conversionlink
+sportmail.ru##.bannered__right
+sportmail.ru##.box_double ~ .box_double
+sportmail.ru#?#.js-fixed-panel .box:-abp-has([class*="spring"])
+sportmail.ru##.js-fixed-panel > .box_collapse
+sportmail.ru##.js-fixed-panel > .js-smoky-single
+sportmail.ru##.js-popup_gallery .viewbox__side
+sportmail.ru#?#.mailru-visibility-check:-abp-has(> [target="_blank"][href^="https://r.mail.ru/"])
+sportmail.ru##.p-directhack
+sportmail.ru##.sub-news-list_rightcoll
+@@||sportmail.ru^$generichide
+sportmail.ru#?#body [class*="o"] .r-source:-abp-has(> * *)
+sportmail.ru#?#body [class*="o"] div[id^="trg-"]:-abp-has(> * *)
+sportmail.ru#?#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> * *)
+sportmail.ru##div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
+sportmail.ru##tr > .daynews__spring
 !
 ! Yandex
 !
@@ -55,8 +77,6 @@ m.games.mail.ru##.custom-push
 ||www.zen.yandex.com.tr^
 ||zen.yandex.com.fr^
 ||www.zen.yandex.com.fr^
-||market.yandex.ru^
-||www.market.yandex.ru^
 !
 !Others
 !
