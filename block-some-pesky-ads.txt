@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads
-! Version: 1.6
-! Last modified: 22 Sep 2020
+! Version: 1.7
+! Last modified: 23 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
 !
@@ -164,3 +164,4 @@ auto.mail.ru##.article-swipe-content__item_active.article-swipe-content__item.js
 ||www.e-katalog.ru^
 ||info.price.nadavi.ru^
 ||www.info.price.nadavi.ru^
+nnmclub.to##.da-list
