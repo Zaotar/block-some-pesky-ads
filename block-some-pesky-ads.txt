@@ -43,7 +43,7 @@ m.games.mail.ru##.custom-push
 ||www.viqeo.tv^
 news.mail.ru##.article-swipe-content__item_active.m-lazy-item_complete.article-swipe-content__item.js-article-swipe__content-item.js-module.article > .margin_horizontal_m10.block > .ratio
 auto.mail.ru##.article-swipe-content__item_active.article-swipe-content__item.js-article-swipe__content-item > .m-lazy-item_complete.js-mediator-article.js-article.js-module.article_continued.article > .article__text_auto.article__text > .article__item_embed_ratio.article__item_source_smotri.article__item_embed.article__item
-! Спорт
+!
 sportmail.ru##.article__item_conversionlink
 sportmail.ru##.bannered__right
 sportmail.ru##.box_double ~ .box_double
@@ -60,6 +60,92 @@ sportmail.ru#?#body [class*="o"] div[id^="trg-"]:-abp-has(> * *)
 sportmail.ru#?#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> * *)
 sportmail.ru##div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
 sportmail.ru##tr > .daynews__spring
+!
+~e.mail.ru,mail.ru,sportmail.ru##.article__item_slot
+games.mail.ru##.b-content__banner
+games.mail.ru##.b-main__wrapper > a.b-bg[href^="https://r.mail.ru/"]
+games.mail.ru##.b-pc__wrapper > a[class^="b-bg"][href^="https://r.mail.ru/redir/"][target="_blank"]
+dom.mail.ru##.cols__inner > .root-Article ~ .margin_top_20
+games.mail.ru##.js-aab_target
+dom.mail.ru##.js-fixed-panel > .box
+tv.mail.ru##.js-popup_banner
+games.mail.ru,pets.mail.ru##.js-popup_gallery .viewbox__side
+minigames.mail.ru##.left-advert-block
+minigames.mail.ru##.left-banner
+video.mail.ru##.lvi-r-ban
+games.mail.ru##.mailru-visibility-check
+mail.ru,sportmail.ru##.mywidget__link_advert
+cards.mail.ru##.pt10.center
+dom.mail.ru##.rb
+mail.ru,sportmail.ru##.rb-relap
+pets.mail.ru##.rb_banner
+tv.mail.ru##.rbtopblock
+dom.mail.ru##.sticky-springs__item
+mail.ru#?#[data-mywidget-id^="myWidgetItem_"]:-abp-has(.m-mywidget__disclaimer:-abp-contains(Реклама))
+pets.mail.ru##[data-name="bottom ad"]
+pets.mail.ru##[data-name="top ad"]
+tv.mail.ru##[data-rb]
+minigames.mail.ru,okminigames.mail.ru#?#[href^="https://minigames.imgsmail.ru/static/css/social-likes."] ~ div[class]:-abp-has([href*="/info/adblock"])
+tv.mail.ru##div[class][id^="mailru"]
+pulse.mail.ru#?#div[class^="pl_"]:-abp-has(> * > [href*="t.mail.ru/redir"])
+dom.mail.ru##div[data-qa="ArticlesList"] > [data-qa="ArticleThumb"] ~ :not([data-qa="ArticleThumb"] )
+minigames.mail.ru##div[id^="slot"][id*="sitezone"]
+maps.mail.ru##img[width="200"][height="30"]
+! 
+//r.mail.ru/b$subdocument
+//rs.mail.ru/b$domain=e.mail.ru
+//rs.mail.ru/b$subdocument
+//rs.mail.ru/b*.flv
+//rs.mail.ru/b*.swf|$domain=~my.mail.ru
+/brandingVideo.js$domain=mail.ru
+/mimic/$domain=cloud.mail.ru
+/mrg-context.$script,stylesheet,domain=mail.ru
+||ad.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~otvet.mail.ru|~target.my.com
+||bs.mail.ru^$image,domain=mail.ru
+||c-cdn.coub.com^$script,domain=mail.ru
+||hiwoenrep.ru^$csp=script-src
+||imgsmail.ru/*/video-html5/custom-preroll_
+||imgsmail.ru/js/onair2.$script
+||imgsmail.ru/r/my/brands/
+||imgsmail.ru^*/mrg-context_
+||likemore-go.imgsmail.ru/widget.js$script,domain=go.mail.ru
+||mail.ru/img/promo/
+||mail.ru/js/common/vendor/
+||mail.ru^*/rbBanner.js
+||mamba.ru/images/*/promo/
+||market.yandex.ru/widget/$script,domain=go.mail.ru
+||memytonsfor.ru^$csp=script-src
+||minigames.imgsmail.ru/swf/stock/
+||mradx.net/img/$object,subdocument
+||mradx.net^*&link1=$subdocument
+||news.mail.ru^*.parallaxSlot.
+||r.mail.ru/*=videoplayer$popup,domain=my.mail.ru
+||r.mradx.net/*link1=$subdocument
+||realty.mail.ru^*parallax.js
+||redatastore.ru^$csp=script-src
+||stepan-fe.go.mail.ru^$domain=go.mail.ru
+||tv.mail.ru/popup_banner/
+!
+~mail.ru,ru,~sportmail.ru,ua##.adv
+##.advads-background
+~mail.ru,~sportmail.ru##.advblock
+~mail.ru##.advertblock
+##.ah-teaser-wrapper
+~mail.ru##.ammblock
+##.appwidget-journalpromo
+~mail.ru##.b-banner
+##.b-journalpromo-container
+~mail.ru##.b-media-banner
+##.b-offers_type_extra
+##.banner_240x400
+by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
+##.base-page_center > .banerBottom
+##.base-page_center > .banerTop
+##.base-page_center > .banerTopOver
+##.base-page_container > .banerRight
+##.base-page_left-side > #left_ban
+##.bc-adv
+##.bc_adv_container
 !
 ! Yandex
 !
