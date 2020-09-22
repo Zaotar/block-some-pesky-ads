@@ -10,7 +10,3 @@ Block some ads from:
 Installation
 
 Add file to your preferred adblocker which use Adblock filtering rules.
-
-Click the link below to import:
-
-https://subscribe.adblockplus.org/?location=https://github.com/Zaotar/block-some-pesky-ads/blob/master/block-some-pesky-ads.txt&title=block%20some%20pesky%20ads%20List
