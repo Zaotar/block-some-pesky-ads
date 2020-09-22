@@ -179,6 +179,7 @@ by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
 ||www.zen.yandex.com.tr^
 ||zen.yandex.com.fr^
 ||www.zen.yandex.com.fr^
+||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|overclockers.ru|prochtu.ru|rbkgames.com|remontcma.ru|rozetked.me|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|tut.by|vplate.ru|winnote.ru|wylsa.com|zinref.ru
 !
 !Others
 !
