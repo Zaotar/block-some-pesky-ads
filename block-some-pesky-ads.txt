@@ -1,0 +1,57 @@
+! Youtube
+!
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
+youtube.com##ytm-promoted-sparkles-web-renderer
+youtube.com###__ffYoutube1
+youtube.com###__ffYoutube2
+youtube.com###__ffYoutube3
+youtube.com###__ffYoutube4
+youtube.com###offer-module
+youtube.com###pla-shelf > ytd-pla-shelf-renderer[class="style-scope ytd-watch"]
+youtube.com###promotion-shelf
+youtube.com###related > ytd-watch-next-secondary-results-renderer > #items > ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer
+youtube.com###watch7-branded-banner
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-search-pyv-renderer
+youtube-nocookie.com,youtube.com##+js(json-prune, adPlacements playerAds)
+||youtube.com/get_video_info?*=adunit&$important
+||youtube.com/get_video_info?$~third-party,badfilter
+@@||youtube.com/get_video_info*&el=editpage
+@@||youtube.com/get_video_info?*embedded$~third-party,other
+!
+! Habr
+!
+m.habr.com##.tm-projects-blocks_vacancies.tm-articles-list__promo-block.tm-projects-blocks
+m.habr.com##.tm-projects-blocks_courses.tm-articles-list__promo-block.tm-projects-blocks
+m.habr.com##.tm-articles-list__promo-block.tm-promo-block
+!
+! 3DNews
+!
+3dnews.ru###crt-1291719
+3dnews.ru##.rbxglob.relatedbox.content-block > .white.content-block-data
+!
+! Mail.ru
+!
+games.mail.ru##.custom-push
+m.games.mail.ru##.custom-push
+||player-smotri.mail.ru/$subdocument
+||www.newstube.ru/$subdocument
+||viqeo.tv^
+||www.viqeo.tv^
+!
+! Yandex Zen
+!
+||zen.yandex.ru^
+||m.zen.yandex.ru^
+||zen.yandex.com^
+||m.zen.yandex.com^
+||zen.yandex.by^
+||www.zen.yandex.by^
+||zen.yandex.kz^
+||www.zen.yandex.kz^
+||zen.yandex.ua^
+||www.zen.yandex.ua^
+||zen.yandex.com.tr^
+||www.zen.yandex.com.tr^
+||zen.yandex.com.fr^
+||www.zen.yandex.com.fr^
