@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads
-! Version: 1.5
+! Version: 1.6
 ! Last modified: 22 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
@@ -23,15 +23,61 @@ youtube.com##ytd-search-pyv-renderer
 youtube-nocookie.com,youtube.com##+js(json-prune, adPlacements playerAds)
 ||youtube.com/get_video_info?*=adunit&$important
 ||youtube.com/get_video_info?$~third-party,badfilter
-@@||youtube.com/get_video_info*&el=editpage
-@@||youtube.com/get_video_info?*embedded$~third-party,other
-!
-! More youtube
 youtube.com###masthead-ad
 youtube.com###movie_player > .ytp-cards-teaser
 youtube.com##.annotation.iv-promo
 youtube.com##.video-annotations .annotation-type-text
 /youtube.php|$third-party,script
+youtube-nocookie.com##.ytp-ad-progress-list
+_reklama_$domain=~youtube.com
+##.youtubeSuperLeaderBoardAdHolder
+##.youtubeSuperLeaderOverallAdArea
+youtube.com#@#.ddb
+youtube.com#@#.overlay-ads
+youtube.com#@#.video-ads
+||youtube-video.download/y-vd.php
+||youtube.com/ad_companion
+||youtube.com/pagead/
+||googleads.g.doubleclick.net^$domain=youtube.com
+||static.doubleclick.net^$domain=youtube.com
+||www.google.com/pagead/$domain=youtube.com
+||www.youtube.com/get_midroll_$domain=youtube.com
+||youtube.com/get_video_info?*adunit$~third-party
+youtube.com##.ad-container
+youtube.com##.ads-container
+youtube.com###YtKevlarVisibilityIdentifier
+youtube.com###YtSparklesVisibilityIdentifier
+youtube.com###merch-shelf
+youtube.com###pla-shelf
+youtube.com###promo-info
+youtube.com###watch-channel-brand-div
+youtube.com##.banner-promo-style-type-masthead-v2
+youtube.com##.promoted-sparkles-text-search-root-container
+youtube.com##.ytd-action-companion-ad-renderer
+youtube.com##.ytd-carousel-ad-renderer
+youtube.com##.ytd-compact-promoted-video-renderer
+youtube.com##.ytd-companion-slot-renderer
+youtube.com##.ytd-display-ad-renderer
+youtube.com##.ytd-merch-shelf-renderer
+youtube.com##.ytd-player-legacy-desktop-watch-ads-renderer
+youtube.com##.ytd-promoted-sparkles-text-search-renderer
+youtube.com##.ytd-promoted-video-renderer
+youtube.com##.ytd-search-pyv-renderer
+youtube.com##.ytd-video-masthead-ad-v3-renderer
+youtube.com##.ytp-ad-action-interstitial-background-container
+youtube.com##.ytp-ad-action-interstitial-slot
+youtube.com##.ytp-ad-image-overlay
+youtube.com##.ytp-ad-overlay-container
+youtube.com##.ytp-ad-progress
+youtube.com##.ytp-ad-progress-list
+youtube.com##YTM-PROMOTED-VIDEO-RENDERER
+youtube.com##ytd-compact-promoted-video-renderer
+youtube.com##ytd-promoted-sparkles-text-search-renderer
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-single-option-survey-renderer
+youtube.com##ytd-video-masthead-ad-v3-renderer
+youtube.com##ytm-companion-slot
+youtube.com##ytm-promoted-sparkles-text-search-renderer
 !
 ! Habr
 !
@@ -42,7 +88,6 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 ! 3DNews
 !
 3dnews.ru###crt-1291719
-3dnews.ru###yandex-widget-offers
 3dnews.ru###zone-1868 > div:nth-of-type(1)
 3dnews.ru##.sp-form-outer
 3dnews.ru##.at-share-btn-elements
@@ -58,55 +103,6 @@ m.games.mail.ru##.custom-push
 news.mail.ru##.article-swipe-content__item_active.m-lazy-item_complete.article-swipe-content__item.js-article-swipe__content-item.js-module.article > .margin_horizontal_m10.block > .ratio
 auto.mail.ru##.article-swipe-content__item_active.article-swipe-content__item.js-article-swipe__content-item > .m-lazy-item_complete.js-mediator-article.js-article.js-module.article_continued.article > .article__text_auto.article__text > .article__item_embed_ratio.article__item_source_smotri.article__item_embed.article__item
 !
-! Спорт
-sportmail.ru##.article__item_conversionlink
-sportmail.ru##.bannered__right
-sportmail.ru##.box_double ~ .box_double
-sportmail.ru#?#.js-fixed-panel .box:-abp-has([class*="spring"])
-sportmail.ru##.js-fixed-panel > .box_collapse
-sportmail.ru##.js-fixed-panel > .js-smoky-single
-sportmail.ru##.js-popup_gallery .viewbox__side
-sportmail.ru#?#.mailru-visibility-check:-abp-has(> [target="_blank"][href^="https://r.mail.ru/"])
-sportmail.ru##.p-directhack
-sportmail.ru##.sub-news-list_rightcoll
-@@||sportmail.ru^$generichide
-sportmail.ru#?#body [class*="o"] .r-source:-abp-has(> * *)
-sportmail.ru#?#body [class*="o"] div[id^="trg-"]:-abp-has(> * *)
-sportmail.ru#?#body [class*="o"] div[id^="yandex_ad"]:-abp-has(> * *)
-sportmail.ru##div[class][style^="transform: translate3d"]:not(.viewbox__slides) > div:first-child
-sportmail.ru##tr > .daynews__spring
-!
-! Разное
-~e.mail.ru,mail.ru,sportmail.ru##.article__item_slot
-games.mail.ru##.b-content__banner
-games.mail.ru##.b-main__wrapper > a.b-bg[href^="https://r.mail.ru/"]
-games.mail.ru##.b-pc__wrapper > a[class^="b-bg"][href^="https://r.mail.ru/redir/"][target="_blank"]
-dom.mail.ru##.cols__inner > .root-Article ~ .margin_top_20
-games.mail.ru##.js-aab_target
-dom.mail.ru##.js-fixed-panel > .box
-tv.mail.ru##.js-popup_banner
-games.mail.ru,pets.mail.ru##.js-popup_gallery .viewbox__side
-minigames.mail.ru##.left-advert-block
-minigames.mail.ru##.left-banner
-video.mail.ru##.lvi-r-ban
-games.mail.ru##.mailru-visibility-check
-mail.ru,sportmail.ru##.mywidget__link_advert
-cards.mail.ru##.pt10.center
-dom.mail.ru##.rb
-mail.ru,sportmail.ru##.rb-relap
-pets.mail.ru##.rb_banner
-tv.mail.ru##.rbtopblock
-dom.mail.ru##.sticky-springs__item
-mail.ru#?#[data-mywidget-id^="myWidgetItem_"]:-abp-has(.m-mywidget__disclaimer:-abp-contains(Реклама))
-pets.mail.ru##[data-name="bottom ad"]
-pets.mail.ru##[data-name="top ad"]
-tv.mail.ru##[data-rb]
-minigames.mail.ru,okminigames.mail.ru#?#[href^="https://minigames.imgsmail.ru/static/css/social-likes."] ~ div[class]:-abp-has([href*="/info/adblock"])
-tv.mail.ru##div[class][id^="mailru"]
-pulse.mail.ru#?#div[class^="pl_"]:-abp-has(> * > [href*="t.mail.ru/redir"])
-dom.mail.ru##div[data-qa="ArticlesList"] > [data-qa="ArticleThumb"] ~ :not([data-qa="ArticleThumb"] )
-minigames.mail.ru##div[id^="slot"][id*="sitezone"]
-maps.mail.ru##img[width="200"][height="30"]
 ! Блокировка ресурсов в основном на самом mail.ru
 //r.mail.ru/b$subdocument
 //rs.mail.ru/b$domain=e.mail.ru
@@ -141,27 +137,6 @@ maps.mail.ru##img[width="200"][height="30"]
 ||redatastore.ru^$csp=script-src
 ||stepan-fe.go.mail.ru^$domain=go.mail.ru
 ||tv.mail.ru/popup_banner/
-!
-~mail.ru,ru,~sportmail.ru,ua##.adv
-##.advads-background
-~mail.ru,~sportmail.ru##.advblock
-~mail.ru##.advertblock
-##.ah-teaser-wrapper
-~mail.ru##.ammblock
-##.appwidget-journalpromo
-~mail.ru##.b-banner
-##.b-journalpromo-container
-~mail.ru##.b-media-banner
-##.b-offers_type_extra
-##.banner_240x400
-by,~mail.ru,ru,~sportmail.ru,ua##.banner_box
-##.base-page_center > .banerBottom
-##.base-page_center > .banerTop
-##.base-page_center > .banerTopOver
-##.base-page_container > .banerRight
-##.base-page_left-side > #left_ban
-##.bc-adv
-##.bc_adv_container
 !
 ! Yandex
 !
