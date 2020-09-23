@@ -8,14 +8,17 @@ Block some ads from:
 - Yandex
 - Mail.ru and some others
 
+# N.B. This is beta branch. Something might go wrong.
+
+
 # Installation
 
 Add file to your preferred adblocker which use Adblock filtering rules.
 
 Click the link below
 
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/master/block-some-pesky-ads.txt&title=Block%20some%20pesky%20ads
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/beta/block-some-pesky-ads.txt&title=Block%20some%20pesky%20ads%20(beta)
 
 Or copy/paste direct link
 
-https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/master/block-some-pesky-ads.txt
+https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/beta/block-some-pesky-ads.txt
