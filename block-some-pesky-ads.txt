@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 1.8.2
+! Version: 1.8.3
 ! Last modified: 23 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
@@ -111,7 +111,6 @@ lady.mail.ru##.article__embed
 //rs.mail.ru/b*.flv
 //rs.mail.ru/b*.swf|$domain=~my.mail.ru
 /brandingVideo.js$domain=mail.ru
-/mimic/$domain=cloud.mail.ru
 /mrg-context.$script,stylesheet,domain=mail.ru
 ||ad.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~otvet.mail.ru|~target.my.com
 ||bs.mail.ru^$image,domain=mail.ru
@@ -156,47 +155,6 @@ lady.mail.ru##.article__embed
 ||zen.yandex.com.fr^
 ||www.zen.yandex.com.fr^
 ||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|overclockers.ru|prochtu.ru|rbkgames.com|remontcma.ru|rozetked.me|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|tut.by|vplate.ru|winnote.ru|wylsa.com|zinref.ru
-! Yandex cosmetic
-###banner.b-banner__content
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.container__banner
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.masonry .incut_banner
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.content.i-bem > .body__topblocks
-##.content__right > .z-market_right_yes
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.direct-view
-##.i-bem.adsrv
-##.i-bem.b-timetable__row[onclick*="awaps"]
-##.i-bem.stripe_type_promo
-##.i-bem.tv-grid__item-adv
-##.i-bem.tv-sortable-item.tv-sortable-item_sortable_no
-market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##.layout_type_search.headline__footer
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.map-copyrights ~ .sidebar-container .scroll__content .home-panel-content-view__body > div > div[class]:-abp-has(a[href="https://direct.yandex.ru/?partner"])
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.masonry .incut_b
-yandex.ru##.org.i-bem.org_js_inited > div[style^="border-bottom"]
-yandex.ru##.org__sidebar > .org__links + div[style^="margin-top"]
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.scroller__wrap > .showcase__item:-abp-has(.product-card__direct)
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.scroller__wrap > div[class^="minibadge"]:-abp-has(.serp-item .label:-abp-contains(реклама))
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.search-results__guadeloupe
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sidebar-view .business-advert-view
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sidebar-view div[style*="!important"]:not([style*="font-size"])
-##.spec-adv
-##.stat_pixel_yes[onclick][class*="_layout_"][class*="_format_"]
-##.yandex-rtb
-##.yandex-rtb-block
-@@://yandex.ru/|$generichide
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##a[href*="//ads.adfox.ru/"]
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#body > .serp_js_inited .serp-list > .serp-item:-abp-has(> div > div > .label:-abp-contains(/^реклама/i))
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##body[class*="b-page_alt-widgets_yes"] .feed ._need-stub
-yandex.ru##div[class$="ear_js_inited"] > a[href^="//awaps.yandex.ru"]
-##div[class^="yandex_rtb"]
-##div[id^="yandex_rtb"]
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##div[data-block="banner-view"]
-/^https?://yandex\.(by|kz|ru|ua|uz)/images/(?!(search\?)|(touch/search?))[^\s]{80,}/$subdocument,~third-party,xmlhttprequest
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.ads-block
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.bar__driver-container
-radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua,radio.yandex.uz##.slider > .slider__item_advert
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##[class^="audio-advert"]
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item:-abp-has(> .hydro > div > .turbo-advert_load-error)
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item:-abp-has(> div > .turbo-advert_load-error)
 !
 !Others
 !
