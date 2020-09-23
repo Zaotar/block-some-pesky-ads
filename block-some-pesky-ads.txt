@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads
-! Version: 1.7
+! Version: 1.8
 ! Last modified: 23 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
@@ -100,10 +100,11 @@ m.games.mail.ru##.custom-push
 ||www.newstube.ru/$subdocument
 ||viqeo.tv^
 ||www.viqeo.tv^
-news.mail.ru##.article-swipe-content__item_active.m-lazy-item_complete.article-swipe-content__item.js-article-swipe__content-item.js-module.article > .margin_horizontal_m10.block > .ratio
-auto.mail.ru##.article-swipe-content__item_active.article-swipe-content__item.js-article-swipe__content-item > .m-lazy-item_complete.js-mediator-article.js-article.js-module.article_continued.article > .article__text_auto.article__text > .article__item_embed_ratio.article__item_source_smotri.article__item_embed.article__item
+news.mail.ru##.article__embed
+auto.mail.ru##.article__embed
+hi-tech.mail.ru##.article__embed
+lady.mail.ru##.article__embed
 !
-! Блокировка ресурсов в основном на самом mail.ru
 //r.mail.ru/b$subdocument
 //rs.mail.ru/b$domain=e.mail.ru
 //rs.mail.ru/b$subdocument
