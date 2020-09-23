@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 1.8.1
+! Version: 1.8.2
 ! Last modified: 23 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
@@ -100,7 +100,7 @@ m.games.mail.ru##.custom-push
 ||www.newstube.ru/$subdocument
 ||viqeo.tv^
 ||www.viqeo.tv^
-news.mail.ru##.article__embed
+news.mail.ru##.ratio
 auto.mail.ru##.article__embed
 hi-tech.mail.ru##.article__embed
 lady.mail.ru##.article__embed
@@ -141,9 +141,20 @@ lady.mail.ru##.article__embed
 !
 ! Yandex
 !
-zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz###yabro-strip-element
-zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz##.feed__item-wrap > .feed__item > div[class] > div[class]:empty
-zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz##.floating-links
+||zen.yandex.ru^
+||m.zen.yandex.ru^
+||zen.yandex.com^
+||m.zen.yandex.com^
+||zen.yandex.by^
+||www.zen.yandex.by^
+||zen.yandex.kz^
+||www.zen.yandex.kz^
+||zen.yandex.ua^
+||www.zen.yandex.ua^
+||zen.yandex.com.tr^
+||www.zen.yandex.com.tr^
+||zen.yandex.com.fr^
+||www.zen.yandex.com.fr^
 ||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|overclockers.ru|prochtu.ru|rbkgames.com|remontcma.ru|rozetked.me|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|tut.by|vplate.ru|winnote.ru|wylsa.com|zinref.ru
 ! Yandex cosmetic
 ###banner.b-banner__content
