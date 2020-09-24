@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads alpha
-! Version: 1.8.4
+! Version: 1.8.5
 ! Last modified: 24 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
