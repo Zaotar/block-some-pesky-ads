@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: Block some pesky ads alpha
+! Title: Block some pesky ads
 ! Version: 2.0
 ! Last modified: 25 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
