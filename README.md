@@ -7,8 +7,9 @@ Block some ads from:
 - Youtube
 - Yandex
 - Mail.ru and some others
+- Cosmetic filters
 
-# N.B. This is alpha branch. Something might go wrong.
+# N.B. This is beta branch. Something might go wrong.
 
 
 # Installation
@@ -17,8 +18,8 @@ Add file to your preferred adblocker which use Adblock filtering rules.
 
 Click the link below
 
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/alpha/block-some-pesky-ads.txt&title=Block%20some%20pesky%20ads%20alpha
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/beta/block-some-pesky-ads.txt&title=Block%20some%20pesky%20ads%20alpha
 
 Or copy/paste direct link
 
-https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/alpha/block-some-pesky-ads.txt
+https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/beta/block-some-pesky-ads.txt
