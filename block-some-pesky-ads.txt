@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Title: Block some pesky ads beta
-! Version: 1.8.3
-! Last modified: 23 Sep 2020
+! Title: Block some pesky ads alpha
+! Version: 1.8.5
+! Last modified: 24 Sep 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
 !
@@ -241,6 +241,37 @@ rambler.ru##.gallery__item--banner
 cnews.ru###mag_banner
 cnews.ru##.banner_wrapp
 cnews.ru##.yandex_banner
+!
+! Yandex
+disk.yandex.by,disk.yandex.com,disk.yandex.com.tr,disk.yandex.fr,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,yadi.sk#@#.content_ads
+###yandex_ad
+##div[id^="yandex_ad"]
+/cdn-cgi/pe/bag2?r[]=*an.yandex.ru
+###banner.b-banner__content
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.Ad > .Ad-Container ~ .Ad-Spinner
+##.b-spec-adv
+##.b-yabrowser-promo
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.container__banner
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.content.i-bem > .body__topblocks
+##.content__right > .z-market_right_yes
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.direct-view
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.masonry .incut_banner
+yandex.ru##.org.i-bem.org_js_inited > div[style^="border-bottom"]
+yandex.ru##.org__sidebar > .org__links + div[style^="margin-top"]
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.scroller__wrap > .showcase__item:-abp-has(.product-card__direct)
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.scroller__wrap > div[class^="minibadge"]:-abp-has(.serp-item .label:-abp-contains(реклама))
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.search-results__guadeloupe
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sidebar-view .business-advert-view
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sidebar-view 
+##.yandex-rtb
+##.yandex-rtb-block
+yandex.ru##div[class$="ear_js_inited"] > a[href^="//awaps.yandex.ru"]
+##div[class^="yandex_rtb"]
+##div[id^="yandex_rtb"]
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.ads-block
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.bar__driver-container
+radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua,radio.yandex.uz##.slider > .slider__item_advert
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##[class^="audio-advert"]
 !
 ##embed[height="200"][width="100%"]
 ##embed[height="200"][width="175"]
@@ -571,3 +602,128 @@ _bannerads_
 ##.ad-banner-wrapper
 ##.ad-banners
 ##.ad-bigbanner
+##.ad-mobile-banner
+##.ad-slot-banner
+##.ad-superbanner
+##.ad-top-banner
+##.ad-topbanner
+##.adBanner
+##.adBanner300x250
+##.adMgsBanner
+##.adRectangleBanner
+##.ad_banner
+##.ad_banner2
+##.ad_banner_468
+##.ad_top_banner
+##.adbanner
+##.adbutler-div-large-banner
+##.addbanner
+##.adkingprobanner
+##.adloc-is-banner
+##.adriverBanner
+##.adsBanner
+##.ads_banner
+##.adv-banner
+##.advert--banner-wrap
+##.advert-banner
+##.advertiser-disclosure-banner
+##.advertising-banner
+##.advertising_banner
+##.banner-300
+##.banner-300-250
+##.banner-300x250
+##.banner-300x600
+##.banner-468
+##.banner-468x60
+##.banner-728
+##.banner-728x90
+##.banner-ad
+##.banner-ad-container
+##.banner-ad-row
+##.banner-ad-wrapper
+##.banner-ads
+##.banner-adsense
+##.banner-adv
+##.banner-advert
+##.banner-adverts
+##.banner-sidebar-300x250
+##.banner160
+##.banner160x600
+##.banner300
+##.banner350
+##.banner468
+##.banner728
+##.banner728-container
+##.banner728x90
+##.bannerAd
+##.bannerAdContainer
+##.bannerAdSearch
+##.bannerAds
+##.banner_160x600
+##.banner_300_250
+##.banner_300x250
+##.banner_300x600
+##.banner_468x60
+##.banner_728_90
+##.banner_728x90
+##.banner_ad
+##.banner_ads
+##.banner_ads_home_inner
+##.banner_adv
+##.banner_altervista_300X250
+##.bannerad
+##.bannerads
+##.bannergoogle
+##.banners_ad
+##.bannervcms
+##.bottom-ad-banner
+##.bottom_banner_ad
+##.cnbc_badge_banner_ad_area
+##.custom_banner_ad
+##.dac__banner__wrapper
+##.dc-banner
+##.dfp-banner
+##.dfp-banner-slot
+##.head-ad
+##.head-ads
+##.head-banner468
+##.header-banner-ad
+##.header-banner-ads
+##.longBannerAd
+##.mid-article-banner-ad
+##.mm-banner970-90-ad
+##.ng-ad-banner
+##.oio-banner-zone
+##.pm-ads-banner
+##.rotating-ads
+##.rotatingBannerWidget
+##.section-advert-banner
+##.subAdBannerArea
+##.subAdBannerHeader
+##.top-adsense-banner
+##.top-banner-ad
+##.top-banner-ad-container
+##.topAdBanner
+##.topBannerAd
+##.top_ad_banner
+##.topbannerAd
+##.trb_masthead_adBanner
+##.useful_banner_manager_banners_rotation
+##.useful_banner_manager_rotation_widget
+##.useful_banner_manager_widget
+##.widget_boss_banner_ad
+##.widget_maxbannerads
+##.widget_wp-bannerize-widget
+##.wp_bannerize
+##.wp_bannerize_container
+##.wpx-bannerize
+##.wpx_bannerize
+##.wrapper-banner-half-page-ad
+##.ww_ads_banner_wrapper
+##.yahoo-banner-ad-container
+##a[href*="/adServe/banners?"]
+##div[class^="adbanner_"]
+###banner_pos1_ddb_0
+###banner_pos2_ddb_0
+###banner_pos3_ddb_0
+###banner_pos4_ddb_0
