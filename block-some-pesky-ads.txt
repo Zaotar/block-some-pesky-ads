@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 1.8.5
-! Last modified: 24 Sep 2020
-! Homepage: https://github.com/Zaotar/block-some-pesky-ads
+! Version: 2.1
+! Last modified: 27 Sep 2020
+! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
 ! Youtube
@@ -78,6 +78,16 @@ youtube.com##ytd-single-option-survey-renderer
 youtube.com##ytd-video-masthead-ad-v3-renderer
 youtube.com##ytm-companion-slot
 youtube.com##ytm-promoted-sparkles-text-search-renderer
+||youtube.com^$domain=userupload.net
+youtube.com##.ytp-subscribe-card
+youtube.com#$##ticker.ytd-masthead
+youtube.com##.annotation.iv-branding
+youtube.com##.iv-promo-video
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-paid-content-overlay
+youtube.com###yt-lang-alert-container
 !
 ! Habr
 !
@@ -91,6 +101,7 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 3dnews.ru###zone-1868 > div:nth-of-type(1)
 3dnews.ru##.sp-form-outer
 3dnews.ru##.at-share-btn-elements
+3dnews.ru###youtube-chunk-wrapper
 !
 ! Mail.ru
 !
@@ -167,6 +178,53 @@ lady.mail.ru##.article__embed
 nnmclub.to##.da-list
 !
 ! Cosmetic
+! Rambler
+gazeta.ru##.banner
+lenta.ru##.b-header-inner__banner
+news.rambler.ru##.j-sticky-banner > div[class*="feed__banner"]
+news.rambler.ru#?#.level__card:-abp-has(> [class*="banner"])
+rambler.ru##.article__banner
+rambler.ru##.finance__banner
+rambler.ru##.gallery__item--banner
+cnews.ru###mag_banner
+cnews.ru##.banner_wrapp
+cnews.ru##.yandex_banner
+! Yandex
+###banner.b-banner__content
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.Ad > .Ad-Container ~ .Ad-Spinner
+##.b-spec-adv
+##.b-yabrowser-promo
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.container__banner
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.content.i-bem > .body__topblocks
+##.content__right > .z-market_right_yes
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.direct-view
+##.i-bem.adsrv
+##.i-bem.b-timetable__row[onclick*="awaps"]
+##.i-bem.stripe_type_promo
+##.i-bem.tv-grid__item-adv
+##.i-bem.tv-sortable-item.tv-sortable-item_sortable_no
+market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##.layout_type_search.headline__footer
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.masonry .incut_banner
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.search-results__guadeloupe
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sidebar-view .business-advert-view
+##.spec-adv
+##.yandex-rtb
+##.yandex-rtb-block
+@@://yandex.ru/|$generichide
+##div[class^="yandex_rtb"]
+##div[id^="yandex_rtb"]
+||an.yandex.ru^$domain=~e.mail.ru
+||bs-meta.yandex.$script,xmlhttprequest
+||bs.yandex.$script
+||market.yandex.ru/widget/$script,domain=zen.yandex.by|zen.yandex.kz|zen.yandex.ru|zen.yandex.ua|zen.yandex.uz
+||jstracer.yandex.ru/jstracer?videodirect=
+||static-mon.yandex.net/static/main.js
+||strm.yandex.ru/get/$media,domain=yastatic.net
+||yadi.sk^*direct?
+||yandex.net/get-direct$domain=~e.mail.ru
+||yastatic.net/daas/
+||yastatic.net/market-affiliate/$domain=zen.yandex.by|zen.yandex.kz|zen.yandex.ru|zen.yandex.ua|zen.yandex.uz
+yandex.ru##.distr-popup__content.popup2__content
 ! General
 /JumpClick?i=BannerKey_$popup
 ###fp_banner
@@ -230,49 +288,6 @@ _banner.gif
 ||ru/i/banner/
 ||ru/i/banners/
 ||xn--p1ai/banner/
-! Rambler
-gazeta.ru##.banner
-lenta.ru##.b-header-inner__banner
-news.rambler.ru##.j-sticky-banner > div[class*="feed__banner"]
-news.rambler.ru#?#.level__card:-abp-has(> [class*="banner"])
-rambler.ru##.article__banner
-rambler.ru##.finance__banner
-rambler.ru##.gallery__item--banner
-cnews.ru###mag_banner
-cnews.ru##.banner_wrapp
-cnews.ru##.yandex_banner
-!
-! Yandex
-disk.yandex.by,disk.yandex.com,disk.yandex.com.tr,disk.yandex.fr,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,yadi.sk#@#.content_ads
-###yandex_ad
-##div[id^="yandex_ad"]
-/cdn-cgi/pe/bag2?r[]=*an.yandex.ru
-###banner.b-banner__content
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.Ad > .Ad-Container ~ .Ad-Spinner
-##.b-spec-adv
-##.b-yabrowser-promo
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.container__banner
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.content.i-bem > .body__topblocks
-##.content__right > .z-market_right_yes
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.direct-view
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.masonry .incut_banner
-yandex.ru##.org.i-bem.org_js_inited > div[style^="border-bottom"]
-yandex.ru##.org__sidebar > .org__links + div[style^="margin-top"]
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.scroller__wrap > .showcase__item:-abp-has(.product-card__direct)
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.scroller__wrap > div[class^="minibadge"]:-abp-has(.serp-item .label:-abp-contains(реклама))
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.search-results__guadeloupe
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sidebar-view .business-advert-view
-yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.sidebar-view 
-##.yandex-rtb
-##.yandex-rtb-block
-yandex.ru##div[class$="ear_js_inited"] > a[href^="//awaps.yandex.ru"]
-##div[class^="yandex_rtb"]
-##div[id^="yandex_rtb"]
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.ads-block
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.bar__driver-container
-radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua,radio.yandex.uz##.slider > .slider__item_advert
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##[class^="audio-advert"]
-!
 ##embed[height="200"][width="100%"]
 ##embed[height="200"][width="175"]
 ##embed[width="100%"][height="100"]
@@ -727,3 +742,256 @@ _bannerads_
 ###banner_pos2_ddb_0
 ###banner_pos3_ddb_0
 ###banner_pos4_ddb_0
+!
+! Cookies
+! Domains
+~music.yandex.ru,~totalcasino.pl##.gdpr-popup:not(body):not(html)
+postnauka.ru##notifications
+cosmo.ru##.disclame_block
+geekbrains.ru##.gb-bottom-banners
+kvn.ru##.disclame_block
+huawei.ru###cookie__panel-help
+toldot.ru###prbl
+krasniykarandash.ru##.site-footer + div[class]:not([id])
+sibur.ru###privacyPolicy
+66.ru##.t-i-agree
+bn.ru##.cookie--form
+bitdefender.ru##.mtsnb-top
+aerobilet.ru###dialog.is-fixed-box
+netology.ru###app > div > div[class*="cookies"]
+datasystem.ru##.specialAlert
+fssprus.ru##.user-data-fixed
+admagazine.ru##.modal--bottom-right.bg-color-dark
+selectel.ru##.ui-cookies
+sakharov-center.ru###kuk
+foxford.ru###cc_container
+lisa.ru##.disclamer
+aquaphor.ru###modal-kuki
+777score.ru##.PolicyNotifications
+komtet.ru###alert-users
+ichip.ru##.disclamer
+auchan.ru###footer_agreement_area
+rosbank.ru###personal-data-processing
+rutoken.ru##.cookie
+web-axioma.ru##.confform
+henderson.ru##.politica
+bubble.ru##.notifications
+alfabank.ru###alfa > .platform > noindex, #agreement-popup
+tutu.ru##.style__disclaimer
+detmir.ru###app-container > div[class^="_"]:last-child
+rocketbank.ru###modal-root
+ozon.ru###__nuxt > .layout-page > div:last-child:not([class])
+nalogia.ru##.b-person-data
+culture.ru##.js-notify-bar
+androidapplications.ru##.user-agreement
+aliexpress.ru###ae-ru-privacy-banner
+alfabusinessweek.ru###t-footer > div[style*="padd"]
+medeqstars.ru###use-cookies
+2x2tv.ru##.cook-web
+icontext.ru##.policy-disclaimer
+kioskbt.ru##.info-massage
+yavitrina.ru##.cookie
+rosatomflot.ru##.disclaimer
+onlinesim.ru###termsbox
+hitachiaircon.ru##.cookies-modal
+lamoda.ru##.footer .vue-widget > div[class^="_"]
+makc.ru###bottom-notification
+niagara-pu.ru##div[data-storage-item*="cookiename"]
+remontnik.ru##rtk-cookies-notice
+ivd.ru##.disclamer
+joborgame.ru##.style__disclaimer
+yandex.ru##.gdpr
+bbr.ru##.is-message-ppd
+vl.ru###app-wrapper ~ section
+m-strana.ru##.agreement-cookie
+||blogspot.ru/js/cookiechoices.js$script
+||civiccomputing.com^*=CookieControl$third-party
+||cloudflare.com/ajax/libs/cookieconsent2/$domain=~ehftv.com
+||tnt-online.ru/cookie/accept_cookie.
+videovegas.ru###agreement_cookie
+eva.ru###cookie-agreement
+1000sovetov.ru,svpressa.ru###cookie-bar
+psychol-ok.ru###cookie_agreement_div
+dfiles.ru###cookie_popup
+softportal.com###cookie_wrapper
+vtb.ru###cookiemsgoffpls
+tellows.ru###cookies
+livelib.ru###cookies-agree
+vk.com###cookies_policy_wrap
+internet-technologies.ru###popup-cookie
+tv3.ru##.app-cookie-agreement
+2x2tv.ru##.bottom__cookie-block
+google.by,google.com,google.com.ua,google.kz,google.ru##.chr-cookie-banner
+it-tehnik.ru##.clearfy-cookie
+dw.com,eg.ru,hashrating.com##.cookie
+pravda.ru##.cookie-container
+video.khl.ru##.cookie-notice
+europaplus.ru##.cookie-notification
+fireman.club,labirint.ru##.cookie-policy
+cbr.ru##.cookie-warning
+gismeteo.md##.cookienotify
+expres.online,glavred.info,otus.ru,unian.info,unian.net,unian.ua,vladnews.ru##.cookies
+sipnet.net##.cookies-message-panel
+2ip.ru##.cookies-notification
+rt.com##.cookies__banner
+ren.tv##.cookies__panel
+the-village.com.ua,the-village.me,the-village.ru##.copyright.cookie
+matchpremier.ru,matchtv.ru,sportbox.ru##.gpm-cookie-accepted
+my.kaspersky.com##.js-cookie-notification-banner
+paypal.com##.notification-cookie
+oriflame.ru##.ui-cookie-notification
+onlineguru.ru##.warning-cookie-block
+ixbt.com##[aria-label="cookieconsent"]
+friday.ru##[data-block-closer-storage="cookie"]
+sberbank.ru##[data-pid^="CookieWarning-"]
+1cont.ru##cookies-notice
+qiwi.com##div[class^="cookies-self-"]
+megogo.net##div[class^="cookiesNotification"]
+leroymerlin.ru##uc-cookie-notification
+samsung.com#@#.cookie-notice
+s7.ru#@#.cookie-usage
+! Cosmetic
+-eu-cookie-law-popup.
+/cookie-service/*
+/cookie/cookie.js|$script
+/cookieconsent.js
+/cookieinfo.js
+/eurocookie.
+/home/cookieconsent.min.js|$~third-party
+/scripts/cookieconsent/cookieconsent.min.js
+###accept_cookie
+###catapult-cookie-bar
+###clearfy-cookie
+###cookie-alert
+###cookie-banner
+###cookie-bar
+###cookie-block
+###cookie-compliance
+###cookie-consent-wrapper
+###cookie-law-info-bar
+###cookie-notice
+###cookie-notification
+###cookie-warning
+###cookieBanner
+###cookieBox
+###cookieConsent
+###cookieDisclaimerContainer
+###cookieNotice
+###cookieNotification
+###cookiePolicy
+###cookie_bar
+###cookie_confirm
+###cookie_policy
+###cookiebar
+###cookieconsent
+###cookiefooter
+###cookies-msg
+###cookies-using-message
+###cookies-wrap
+###cookies.cookies
+###cookies.notice
+###cookies.row
+###cookiesBar
+###cookiesInfo
+###easy-cookies-policy-main-wrapper
+###gdpr-cookie-accept
+###gdpr-cookie-message
+###pjAcceptCookieBar
+###root div[class*="cookies-policy"]
+###wp-gdpr-cookie-notice-wrap
+##.CookieBanner
+##.CookieNotifyWidget__wrapper
+##.Navbar-cookieCompliance
+##.agree-cookie-wrap
+##.alert-cookies
+##.b-cookie-notification
+##.c-cookies
+##.cc-window[aria-label="cookieconsent"]
+##.clearfy-cookie
+##.cookie-agree
+##.cookie-agreement
+##.cookie-alert
+##.cookie-bar:not(body):not(html)
+##.cookie-block
+##.cookie-box
+##.cookie-confirm
+##.cookie-confirm-wrap
+##.cookie-consent:not(html):not(body)
+##.cookie-label
+##.cookie-message
+##.cookie-notice:not(html):not(body)
+##.cookie-notification-modal
+##.cookie-notify
+##.cookie-pane
+##.cookie-pane--shown
+##.cookie-pop
+##.cookie-usage
+##.cookie-usage-helper
+##.cookie-wr
+##.cookie-wrap
+##.cookieBox
+##.cookiePolicy
+##.cookie__container
+##.cookie__wrapper
+##.cookie_agreement
+##.cookie_banner
+##.cookie_container
+##.cookie_notice
+##.cookie_wrap
+##.cookiealert
+##.cookieconsent
+##.cookielaw-setcookiepolicy-form
+##.cookienotify
+##.cookiepolicy
+##.cookies-alert
+##.cookies-banner
+##.cookies-bar
+##.cookies-container
+##.cookies-disclaimer
+##.cookies-info:not(html):not(body)
+##.cookies-message
+##.cookies-popup
+##.cookies-wrap
+##.cookiesBanner
+##.cookiesBlock
+##.cookies__container
+##.cookies__wrapper
+##.ds2-cookie-disclaimer
+##.ds2-cookiedisclaimer
+##.forum-user-signature img
+##.gdpr-consent-banner
+##.gdprPopup
+##.gpm-cookie-accepted
+##.has-brand .b-tophead__subscribe-dropdown
+##.jnews-cookie-law-policy
+##.js-cookie-bar
+##.js-cookie-container
+##.js-cookiemodal
+##.js-lwpcngNotice
+##.lwpcngNotice
+##.module_messages_cookies
+##.notice--cookie:not(body):not(html)
+##.noticeCookiesContent
+##.notification-cookies
+##.optanon-alert-box-wrapper
+##.orakul-grey-block
+##.penci-gprd-law
+##.penci-wrap-gprd-law
+##.popup-cookies
+##.postsignature img
+##.pp-cookies-notice
+##.thb-cookie-bar
+##.user_signature img
+##.usersig img
+##.visible.cookies
+##.widget_eu_cookie_law_widget
+##.youtube_box
+##cookies-gdpr
+##div[class="cookie-disclaimer"]
+##div[class^="app_gdpr"]
+##div[data-cookie-notification]
+##div[id="redim-cookiehint"]
+/wp-content/plugins/cookie-notice/$script
+##.cookie-bottom-layer
+##.js-cookie-light
+##.cookie-notice-wrapper-newsletter
