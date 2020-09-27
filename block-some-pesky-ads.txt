@@ -80,7 +80,6 @@ youtube.com##ytm-companion-slot
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 ||youtube.com^$domain=userupload.net
 youtube.com##.ytp-subscribe-card
-youtube.com#$##ticker.ytd-masthead
 youtube.com##.annotation.iv-branding
 youtube.com##.iv-promo-video
 youtube.com##.ytp-cards-teaser
@@ -991,7 +990,6 @@ s7.ru#@#.cookie-usage
 ##div[class^="app_gdpr"]
 ##div[data-cookie-notification]
 ##div[id="redim-cookiehint"]
-/wp-content/plugins/cookie-notice/$script
 ##.cookie-bottom-layer
 ##.js-cookie-light
 ##.cookie-notice-wrapper-newsletter
