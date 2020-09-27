@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-!Title: Peter Lowe fork
+! Title: Peter Lowe fork
 !Blocklist for use with Adblock Plus. 
 !For more information about this list, see: https://pgl.yoyo.org/adservers/
 !Last modified: Thu, 24 Sep 2020 13:26:06 GMT
