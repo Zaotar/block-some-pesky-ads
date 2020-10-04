@@ -1,6 +1,6 @@
 # Peter Lowe adservers fork
 
-Main purpose - easy installation by direct link to provide it to more adblockers and browser with adblocking support which don't understand link like this - https://pgl.yoyo.org/as/serverlist.php?hostformat=adblockplus;showintro=0
+Primary goal - easy installation by direct link to provide the filter list to more adblockers and browsers with adblocking support which don't understand link like this - https://pgl.yoyo.org/as/serverlist.php?hostformat=adblockplus;showintro=0
 
 # Installation
 
