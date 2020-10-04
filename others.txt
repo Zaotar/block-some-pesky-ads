@@ -1,5 +1,4 @@
 #Others
-0.0.0.0 googleadservices.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 beian.gov.cn
 0.0.0.0 china.com.cn
@@ -79,6 +78,28 @@
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bit.ly
 0.0.0.0 static.hotjar.com
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 redirect.appmetrica.yandex.com
+0.0.0.0 19534.redirect.appmetrica.yandex.com
+0.0.0.0 3.redirect.appmetrica.yandex.com
+0.0.0.0 30488.redirect.appmetrica.yandex.com
+0.0.0.0 4.redirect.appmetrica.yandex.com
+0.0.0.0 report.appmetrica.yandex.net
+0.0.0.0 extmaps-api.yandex.net
+0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 matchid.adfox.yandex.ru
+0.0.0.0 adsdk.yandex.ru
+0.0.0.0 redirect.appmetrica.yandex.ru
+0.0.0.0 awsync.yandex.ru
+0.0.0.0 kiks.yandex.ru
+0.0.0.0 grade.market.yandex.ru
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 click.sender.yandex.ru
+0.0.0.0 share.yandex.ru
+0.0.0.0 yandexadexchange.net
+0.0.0.0 mobile.yandexadexchange.net
 # banners
 0.0.0.0 banners.affiliatefuture.com
 0.0.0.0 banners.host.bannerflow.com
