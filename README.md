@@ -2,4 +2,4 @@
 
 Direct link
 
-https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/exp-hosts/exp-hosts.txt
+https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/exp-hosts/others.txt
