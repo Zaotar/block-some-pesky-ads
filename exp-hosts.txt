@@ -1,6 +1,5 @@
 # exp hosts
 0.0.0.0 mnogo.ru
-0.0.0.0 pulse.mail.ru
 0.0.0.0 temp-mail.ru
 0.0.0.0 list.ru
 0.0.0.0 top1.list.ru
@@ -10,9 +9,9 @@
 0.0.0.0 advertising.yandex.ru
 0.0.0.0 bs-meta.yandex.ru
 0.0.0.0 bit.ly
+0.0.0.0 static.hotjar.com
 # banners
 0.0.0.0 banners.affiliatefuture.com
-0.0.0.0 banerator.net
 0.0.0.0 banners.host.bannerflow.com
 0.0.0.0 tracker.bannerflow.com
 0.0.0.0 images.host.bannerflow.com
@@ -21,24 +20,18 @@
 0.0.0.0 match.basebanner.com
 0.0.0.0 oddbanner.bet-at-home.com
 0.0.0.0 banners.betcris.com
-0.0.0.0 ads.betfair.com
 0.0.0.0 banner.betfred.com
 0.0.0.0 ad.beritasatumedia.com
 0.0.0.0 www.bettertextads.com
 0.0.0.0 ads.bgfree.com
 0.0.0.0 banners.bgmaps.com
-0.0.0.0 banner.casinodelrio.com
 0.0.0.0 banners.clips4sale.com
 0.0.0.0 banners.copyscape.com
-0.0.0.0 banner.coza.com
 0.0.0.0 static.crakbanner.com
 0.0.0.0 banners.ffsbg.com
 0.0.0.0 banner.finn.no
 0.0.0.0 banners.flingguru.com
-0.0.0.0 banners.freett.com
 0.0.0.0 banners.fulltiltpoker.com
-0.0.0.0 banner.kiev.ua
-0.0.0.0 banners.linkbuddies.com
 0.0.0.0 banners.lottoelite.com
 0.0.0.0 banners.mellowads.com
 0.0.0.0 banner.oddcast.com
@@ -47,7 +40,6 @@
 0.0.0.0 banners.perfectgonzo.com
 0.0.0.0 banner.play-asia.com
 0.0.0.0 banners.realitycash.com
-0.0.0.0 banners.resultonline.com
 0.0.0.0 banners.rushcommerce.com
 0.0.0.0 banners.takru.com
 0.0.0.0 www.ukbanners.com
@@ -83,7 +75,6 @@
 0.0.0.0 banners.adgoto.com
 0.0.0.0 banners.bghelp.co.uk
 0.0.0.0 banners.camdough.com
-0.0.0.0 banners.sys-con.com
 0.0.0.0 www.superbanner.org
 0.0.0.0 banners.videosecrets.com
 0.0.0.0 mproxy.banner.linksynergy.com
@@ -93,20 +84,11 @@
 0.0.0.0 www.hostedbanners.com
 0.0.0.0 banner1.pornhost.com
 0.0.0.0 banner.adserverpub.com
-0.0.0.0 banners.virtuagirlhd.com
-0.0.0.0 cbanners.virtuagirlhd.com
-0.0.0.0 banners.adultfriendfinder.com
-0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 banners.alt.com
-0.0.0.0 banners.amigos.com
-0.0.0.0 banners.asiafriendfinder.com
 0.0.0.0 banners.bigchurch.com
-0.0.0.0 banners.cams.com
-0.0.0.0 banners.friendfinder.com
 0.0.0.0 geobanner.friendfinder.com
 0.0.0.0 banners.fuckbookhookups.com
 0.0.0.0 banners.gayfriendfinder.com
-0.0.0.0 banners.getiton.com
 0.0.0.0 geobanner.getiton.com
 0.0.0.0 banners.icams.com
 0.0.0.0 banners.jewishfriendfinder.com
@@ -115,7 +97,6 @@
 0.0.0.0 banners.outpersonals.com
 0.0.0.0 adserver.passion.com
 0.0.0.0 banner.passion.com
-0.0.0.0 banners.passion.com
 0.0.0.0 geobanner.passion.com
 0.0.0.0 banners.penthouse.com
 0.0.0.0 glean.pop6.com
@@ -135,7 +116,6 @@
 0.0.0.0 cdn.banners.scubl.com
 0.0.0.0 banners.askmecca.com
 0.0.0.0 bannerco-op.com
-0.0.0.0 bannersgomlm.com
 0.0.0.0 www.bannersgomlm.com
 0.0.0.0 bannerexchange.troglod.com
 0.0.0.0 www.widebanner.com
@@ -148,7 +128,6 @@
 0.0.0.0 banners.securedataimages.com
 0.0.0.0 cdn.banner.thumbplay.com
 0.0.0.0 banners.yllix.com
-0.0.0.0 banners.adfox.ru
 0.0.0.0 tracking.bannerflow.com
 0.0.0.0 banner.goldenpalace.com
 0.0.0.0 banners.victor.com
@@ -160,7 +139,6 @@
 0.0.0.0 www.scambiobanner.tv
 0.0.0.0 omniturebanners.112.2o7.net
 0.0.0.0 adbanner.adxcore.com
-0.0.0.0 bannershotlink.perfectgonzo.com
 0.0.0.0 banner.titanpoker.com
 0.0.0.0 banner.casinotropez.co
 0.0.0.0 banner.europacasino.com
@@ -182,7 +160,6 @@
 0.0.0.0 ads.photosight.ru
 0.0.0.0 ad.yadro.ru
 0.0.0.0 ads.yadro.ru
-0.0.0.0 counter.yadro.ru
 0.0.0.0 sticker.yadro.ru
 0.0.0.0 upstats.yadro.ru
 0.0.0.0 www.1800banners.com
@@ -210,7 +187,6 @@
 0.0.0.0 wu.adonweb.ru
 0.0.0.0 n.pcads.ru
 0.0.0.0 engine.turboroller.ru
-0.0.0.0 mytraf.ru
 0.0.0.0 www.mytraf.ru
 0.0.0.0 banners.adfox.ru
 0.0.0.0 rq.adfox.ru
@@ -234,7 +210,6 @@
 0.0.0.0 fun.lbn.ru
 0.0.0.0 www.fun.lbn.ru
 0.0.0.0 234.media.lbn.ru
-0.0.0.0 gostats.ru
 0.0.0.0 c4.gostats.ru
 0.0.0.0 monster.gostats.ru
 0.0.0.0 adv.aport.ru
@@ -247,7 +222,6 @@
 0.0.0.0 js.ru.redtram.com
 0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 compulenta.ru.intellitxt.com
-0.0.0.0 metrics.aviasales.ru
 0.0.0.0 traffic.ru
 0.0.0.0 echo.teasernet.ru
 0.0.0.0 static.traffic.ru
