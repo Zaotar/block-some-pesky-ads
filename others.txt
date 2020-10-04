@@ -67,22 +67,6 @@
 0.0.0.0 www.api.leanplum.com
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 www.rpc-php.trafficfactory.biz
-0.0.0.0 market.yandex.ru
-0.0.0.0 www.market.yandex.ru
-0.0.0.0 e-katalog.ru
-0.0.0.0 www.e-katalog.ru
-0.0.0.0 info.price.nadavi.ru
-0.0.0.0 www.info.price.nadavi.ru
-0.0.0.0 hhcdn.ru
-0.0.0.0 www.hhcdn.ru
-0.0.0.0 flashtalking.com
-0.0.0.0 www.flashtalking.com
-0.0.0.0 viqeo.tv
-0.0.0.0 www.viqeo.tv
-0.0.0.0 player-smotri.mail.ru
-0.0.0.0 www.player-smotri.mail.ru
-0.0.0.0 www.newstube.ru
-0.0.0.0 newstube.ru
 # exp hosts
 0.0.0.0 mnogo.ru
 0.0.0.0 temp-mail.ru
