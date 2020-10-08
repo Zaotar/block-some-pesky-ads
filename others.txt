@@ -9,7 +9,6 @@
 0.0.0.0 h5.china.com.cn.w.alikunlun.com
 0.0.0.0 recostream.go.mail.ru
 0.0.0.0 yadro.ru
-#0.0.0.0 rose.ixbt.com
 0.0.0.0 top.mail.ru
 0.0.0.0 www.top.mail.ru
 0.0.0.0 ad.mail.ru
