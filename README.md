@@ -1,5 +1,5 @@
-# Some hosts blocking rules
+# Some hosts blocking rules (beta)
 
 Direct link
 
-https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/exp-hosts/others.txt
+https://github.com/Zaotar/block-some-pesky-ads/edit/exp-hosts-beta/others.txt
