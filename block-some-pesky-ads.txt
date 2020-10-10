@@ -165,6 +165,9 @@ news.mail.ru##+js(abort-on-property-read, myWidget)
 ||info.price.nadavi.ru^
 ||www.info.price.nadavi.ru^
 nnmclub.to##.da-list
+www.vesti.ru###vgtrk-mini-player
+||browser.sentry-cdn.com^
+||d2wy8f7a9ursnm.cloudfront.net^
 !
 ! Cosmetic
 ! Rambler
@@ -840,5 +843,3 @@ leroymerlin.ru##uc-cookie-notification
 samsung.com#@#.cookie-notice
 s7.ru#@#.cookie-usage
 www.neverware.com##.BUTTON.BOTTOM.LIGHT.BAR.sqs-cookie-banner-v2
-# Others
-www.vesti.ru###vgtrk-mini-player
