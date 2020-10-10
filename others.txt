@@ -1,4 +1,5 @@
 # Others
+# Others beta
 0.0.0.0 googleadservices.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 beian.gov.cn
@@ -13,6 +14,8 @@
 0.0.0.0 www.rpc-php.trafficfactory.biz
 0.0.0.0 bit.ly
 0.0.0.0 static.hotjar.com
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
+0.0.0.0 browser.sentry-cdn.com
 # mail 
 0.0.0.0 recostream.go.mail.ru
 0.0.0.0 top.mail.ru
@@ -54,6 +57,7 @@
 0.0.0.0 top-staging.mail.ru
 0.0.0.0 trk.mail.ru
 0.0.0.0 xray.mail.ru
+0.0.0.0 relap.io
 # yandex
 0.0.0.0 yadro.ru
 0.0.0.0 ad.yadro.ru
