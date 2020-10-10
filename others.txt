@@ -13,6 +13,8 @@
 0.0.0.0 www.rpc-php.trafficfactory.biz
 0.0.0.0 bit.ly
 0.0.0.0 static.hotjar.com
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
+0.0.0.0 browser.sentry-cdn.com
 # mail 
 0.0.0.0 recostream.go.mail.ru
 0.0.0.0 top.mail.ru
