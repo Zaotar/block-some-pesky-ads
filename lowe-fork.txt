@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Wed, 21 Oct 2020 19:20:44 GMT
+!Last modified: Mon, 02 Nov 2020 18:36:23 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3549
+!Entries:       3555
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -58,6 +58,7 @@
 ||a.xanga.com^
 ||a135.wftv.com^
 ||a5.overclockers.ua^
+||a8a8altrk.com^
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.recruit-card.jp^
 ||aa-metrics.trip-ai.jp^
@@ -136,7 +137,6 @@
 ||ad.gt^
 ||ad.hbv.de^
 ||ad.hodomobile.com^
-||ad.httpool.com^
 ||ad.hyena.cz^
 ||ad.iinfo.cz^
 ||ad.ilove.ch^
@@ -879,7 +879,6 @@
 ||adskeeper.co.uk^
 ||adsklick.de^
 ||adskpak.com^
-||adsmarket.com^
 ||adsmart.com^
 ||adsmart.net^
 ||adsmogo.com^
@@ -1200,7 +1199,6 @@
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
 ||banners.asiafriendfinder.com^
-||banners.babylon-x.com^
 ||banners.bol.com.br^
 ||banners.cams.com^
 ||banners.clubseventeen.com^
@@ -1583,6 +1581,7 @@
 ||dashingdirt.com^
 ||dashingsweater.com^
 ||data.namesakeoscilloscopemarquis.com^
+||data8a8altrk.com^
 ||dbbsrv.com^
 ||dc-storm.com^
 ||de17a.com^
@@ -1660,7 +1659,6 @@
 ||dstillery.com^
 ||dyntrk.com^
 ||e-adimages.scrippsnetworks.com^
-||e-bannerx.com^
 ||e-m.fr^
 ||e-planning.net^
 ||e.kde.cz^
@@ -1887,6 +1885,7 @@
 ||googleadservices.com^
 ||googleanalytics.com^
 ||googlesyndication.com^
+||googletagmanager.com^
 ||googletagservices.com^
 ||gorgeousground.com^
 ||gostats.com^
@@ -2110,6 +2109,7 @@
 ||justrelevant.com^
 ||justuno.com^
 ||k.iinfo.cz^
+||kameleoon.com^
 ||kanoodle.com^
 ||kargo.com^
 ||karisimbi.net^
@@ -3146,6 +3146,7 @@
 ||tappx.com^
 ||targad.de^
 ||target.microsoft.com^
+||targeting.api.drift.com^
 ||targeting.nzme.arcpublishing.com^
 ||targetingnow.com^
 ||targetnet.com^
@@ -3255,6 +3256,7 @@
 ||trackedweb.net^
 ||tracker-pm2.spilleren.com^
 ||tracker.bannerflow.com^
+||tracker.cdnbye.com^
 ||tracker.comunidadmarriott.com^
 ||tracker.icerocket.com^
 ||tracker.mmdlv.it^
@@ -3320,6 +3322,7 @@
 ||triplelift.com^
 ||triptease.io^
 ||trix.net^
+||trk.bee-data.com^
 ||trk.techtarget.com^
 ||trk42.net^
 ||trkn.us^
@@ -3354,6 +3357,7 @@
 ||undertone.com^
 ||universcine.com^
 ||unknowntray.com^
+||unless.com^
 ||unrulymedia.com^
 ||untd.com^
 ||untidyquestion.com^
@@ -3398,6 +3402,7 @@
 ||videoadex.com^
 ||videoamp.com^
 ||videoegg.com^
+||videostats.kakao.com^
 ||vidora.com^
 ||view4cash.de^
 ||viglink.com^
@@ -3421,6 +3426,7 @@
 ||vs.tucows.com^
 ||vtracy.de^
 ||vungle.com^
+||vwo.com^
 ||w55c.net^
 ||wa.and.co.uk^
 ||waardex.com^
