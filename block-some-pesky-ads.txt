@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads
-! Version: 2.1
-! Last modified: 27 Sep 2020
-! Homepage: https://github.com/Zaotar/block-some-pesky-ads
+! Version: 2.5
+! Last modified: 10 Oct 2020
+! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
 ! Youtube
@@ -104,49 +104,39 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 !
 ! Mail.ru
 !
-games.mail.ru##.custom-push
-m.games.mail.ru##.custom-push
+||ad.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~otvet.mail.ru|~target.my.com
+||relap.io^$3p,domain=~2mm.ru|~adme.ru|~briefly.ru|~dynamo.kiev.ua|~fitseven.ru|~inforeactor.ru|~inmyroom.ru|~izvestia.ru|~kulturologia.ru|~life.ru|~nevasport.ru|~newstube.ru|~politexpert.net|~ria.ru|~tut.by|~www.goha.ru|~zhzh.com.ua|~zhzh.info
 ||player-smotri.mail.ru/$subdocument
 ||www.newstube.ru/$subdocument
 ||viqeo.tv^
-||www.viqeo.tv^
+||cdn.viqeo.tv^
 news.mail.ru##.ratio
 auto.mail.ru##.article__embed
 hi-tech.mail.ru##.article__embed
 lady.mail.ru##.article__embed
-!
-//r.mail.ru/b$subdocument
-//rs.mail.ru/b$domain=e.mail.ru
-//rs.mail.ru/b$subdocument
-//rs.mail.ru/b*.flv
-//rs.mail.ru/b*.swf|$domain=~my.mail.ru
-/brandingVideo.js$domain=mail.ru
-/mrg-context.$script,stylesheet,domain=mail.ru
-||ad.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~otvet.mail.ru|~target.my.com
-||bs.mail.ru^$image,domain=mail.ru
-||c-cdn.coub.com^$script,domain=mail.ru
-||hiwoenrep.ru^$csp=script-src
-||imgsmail.ru/*/video-html5/custom-preroll_
-||imgsmail.ru/js/onair2.$script
-||imgsmail.ru/r/my/brands/
-||imgsmail.ru^*/mrg-context_
-||likemore-go.imgsmail.ru/widget.js$script,domain=go.mail.ru
-||mail.ru/img/promo/
-||mail.ru/js/common/vendor/
-||mail.ru^*/rbBanner.js
-||mamba.ru/images/*/promo/
-||market.yandex.ru/widget/$script,domain=go.mail.ru
-||memytonsfor.ru^$csp=script-src
-||minigames.imgsmail.ru/swf/stock/
-||mradx.net/img/$object,subdocument
-||mradx.net^*&link1=$subdocument
-||news.mail.ru^*.parallaxSlot.
-||r.mail.ru/*=videoplayer$popup,domain=my.mail.ru
-||r.mradx.net/*link1=$subdocument
-||realty.mail.ru^*parallax.js
-||redatastore.ru^$csp=script-src
-||stepan-fe.go.mail.ru^$domain=go.mail.ru
-||tv.mail.ru/popup_banner/
+news.mail.ru##.js-module.article__item_embed_ratio.article__item_source_smotri.article__item_embed.article__item_alignment_left.article__item > .article__container
+auto.mail.ru##.article__item_embed_ratio.article__item_source_smotri.article__item_embed.article__item_alignment_left.article__item > .article__container
+news.mail.ru##.svelte-14lhr7p.ph-balloon__content
+auto.mail.ru##.svelte-14lhr7p.ph-balloon__content
+lady.mail.ru##.svelte-14lhr7p.ph-balloon__content
+kino.mail.ru##.svelte-14lhr7p.ph-balloon__content
+hi-tech.mail.ru##.svelte-14lhr7p.ph-balloon__content
+deti.mail.ru##.svelte-14lhr7p.ph-balloon__content
+health.mail.ru##.svelte-14lhr7p.ph-balloon__content
+games.mail.ru##.custom-push
+m.games.mail.ru##.custom-push
+games.mail.ru##.b-header-agreement
+games.mail.ru##.informer__content
+~e.mail.ru,mail.ru,sportmail.ru##.article__item_slot
+sportmail.ru##.cols__column_sidebar.cols__column_large_25.cols__column_medium_25.cols__column_small_23.cols__column > .cols__inner
+mail.ru##+js(setTimeout-defuser, rbParams)
+mail.ru##+js(setTimeout-defuser, document.title)
+mail.ru##+js(setTimeout-defuser, advBlock)
+mail.ru##+js(set-constant, Object.prototype.mimic, undefined)
+mail.ru##+js(set-constant, Object.prototype.initMimic, undefined)
+mail.ru##+js(set-constant, Object.prototype.hpConfig, undefined)
+mail.ru##+js(set-constant, Object.prototype.direct, undefined)
+news.mail.ru##+js(abort-on-property-read, myWidget)
 !
 ! Yandex
 !
@@ -175,6 +165,9 @@ lady.mail.ru##.article__embed
 ||info.price.nadavi.ru^
 ||www.info.price.nadavi.ru^
 nnmclub.to##.da-list
+www.vesti.ru###vgtrk-mini-player
+||browser.sentry-cdn.com^
+||d2wy8f7a9ursnm.cloudfront.net^
 !
 ! Cosmetic
 ! Rambler
@@ -849,147 +842,4 @@ megogo.net##div[class^="cookiesNotification"]
 leroymerlin.ru##uc-cookie-notification
 samsung.com#@#.cookie-notice
 s7.ru#@#.cookie-usage
-! Cosmetic
--eu-cookie-law-popup.
-/cookie-service/*
-/cookie/cookie.js|$script
-/cookieconsent.js
-/cookieinfo.js
-/eurocookie.
-/home/cookieconsent.min.js|$~third-party
-/scripts/cookieconsent/cookieconsent.min.js
-###accept_cookie
-###catapult-cookie-bar
-###clearfy-cookie
-###cookie-alert
-###cookie-banner
-###cookie-bar
-###cookie-block
-###cookie-compliance
-###cookie-consent-wrapper
-###cookie-law-info-bar
-###cookie-notice
-###cookie-notification
-###cookie-warning
-###cookieBanner
-###cookieBox
-###cookieConsent
-###cookieDisclaimerContainer
-###cookieNotice
-###cookieNotification
-###cookiePolicy
-###cookie_bar
-###cookie_confirm
-###cookie_policy
-###cookiebar
-###cookieconsent
-###cookiefooter
-###cookies-msg
-###cookies-using-message
-###cookies-wrap
-###cookies.cookies
-###cookies.notice
-###cookies.row
-###cookiesBar
-###cookiesInfo
-###easy-cookies-policy-main-wrapper
-###gdpr-cookie-accept
-###gdpr-cookie-message
-###pjAcceptCookieBar
-###root div[class*="cookies-policy"]
-###wp-gdpr-cookie-notice-wrap
-##.CookieBanner
-##.CookieNotifyWidget__wrapper
-##.Navbar-cookieCompliance
-##.agree-cookie-wrap
-##.alert-cookies
-##.b-cookie-notification
-##.c-cookies
-##.cc-window[aria-label="cookieconsent"]
-##.clearfy-cookie
-##.cookie-agree
-##.cookie-agreement
-##.cookie-alert
-##.cookie-bar:not(body):not(html)
-##.cookie-block
-##.cookie-box
-##.cookie-confirm
-##.cookie-confirm-wrap
-##.cookie-consent:not(html):not(body)
-##.cookie-label
-##.cookie-message
-##.cookie-notice:not(html):not(body)
-##.cookie-notification-modal
-##.cookie-notify
-##.cookie-pane
-##.cookie-pane--shown
-##.cookie-pop
-##.cookie-usage
-##.cookie-usage-helper
-##.cookie-wr
-##.cookie-wrap
-##.cookieBox
-##.cookiePolicy
-##.cookie__container
-##.cookie__wrapper
-##.cookie_agreement
-##.cookie_banner
-##.cookie_container
-##.cookie_notice
-##.cookie_wrap
-##.cookiealert
-##.cookieconsent
-##.cookielaw-setcookiepolicy-form
-##.cookienotify
-##.cookiepolicy
-##.cookies-alert
-##.cookies-banner
-##.cookies-bar
-##.cookies-container
-##.cookies-disclaimer
-##.cookies-info:not(html):not(body)
-##.cookies-message
-##.cookies-popup
-##.cookies-wrap
-##.cookiesBanner
-##.cookiesBlock
-##.cookies__container
-##.cookies__wrapper
-##.ds2-cookie-disclaimer
-##.ds2-cookiedisclaimer
-##.forum-user-signature img
-##.gdpr-consent-banner
-##.gdprPopup
-##.gpm-cookie-accepted
-##.has-brand .b-tophead__subscribe-dropdown
-##.jnews-cookie-law-policy
-##.js-cookie-bar
-##.js-cookie-container
-##.js-cookiemodal
-##.js-lwpcngNotice
-##.lwpcngNotice
-##.module_messages_cookies
-##.notice--cookie:not(body):not(html)
-##.noticeCookiesContent
-##.notification-cookies
-##.optanon-alert-box-wrapper
-##.orakul-grey-block
-##.penci-gprd-law
-##.penci-wrap-gprd-law
-##.popup-cookies
-##.postsignature img
-##.pp-cookies-notice
-##.thb-cookie-bar
-##.user_signature img
-##.usersig img
-##.visible.cookies
-##.widget_eu_cookie_law_widget
-##.youtube_box
-##cookies-gdpr
-##div[class="cookie-disclaimer"]
-##div[class^="app_gdpr"]
-##div[data-cookie-notification]
-##div[id="redim-cookiehint"]
-##.cookie-bottom-layer
-##.js-cookie-light
-##.cookie-notice-wrapper-newsletter
+www.neverware.com##.BUTTON.BOTTOM.LIGHT.BAR.sqs-cookie-banner-v2
