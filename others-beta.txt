@@ -8,7 +8,6 @@
 0.0.0.0 m.gmw.cn.wscdns.com
 0.0.0.0 h5.china.com.cn
 0.0.0.0 h5.china.com.cn.w.alikunlun.com
-0.0.0.0 rose.ixbt.com
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 www.rpc-php.trafficfactory.biz
 0.0.0.0 bit.ly
