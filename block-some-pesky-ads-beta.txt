@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 2.6
-! Last modified: 02 Nov 2020
+! Version: 2.9
+! Last modified: 15 Nov 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
@@ -136,6 +136,12 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 3dnews.ru##.at-share-btn-elements
 3dnews.ru###youtube-chunk-wrapper
 !
+! IXBT
+!
+www.ixbt.com##.br-mobile-pic-bg
+www.ixbt.com###m-20
+www.ixbt.com###m-30
+!
 ! Mail.ru
 !
 ||ad.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~otvet.mail.ru|~target.my.com
@@ -171,6 +177,10 @@ mail.ru##+js(set-constant, Object.prototype.initMimic, undefined)
 mail.ru##+js(set-constant, Object.prototype.hpConfig, undefined)
 mail.ru##+js(set-constant, Object.prototype.direct, undefined)
 news.mail.ru##+js(abort-on-property-read, myWidget)
+mnogo.ru^$third-party,domain=~e.mail.ru|~mail.google.com|~mail.rambler.ru|~mail.yandex.ru
+||mail.ru/res/$script,domain=~3igames.mail.ru|~auto.mail.ru|~biz.mail.ru|~bonus.mail.ru|~calendar.mail.ru|~cloud.mail.ru|~deti.mail.ru|~dobro.mail.ru|~e.mail.ru|~esports.mail.ru|~games.mail.ru|~gibdd.mail.ru|~go.mail.ru|~health.mail.ru|~hi-tech.mail.ru|~horo.mail.ru|~kino.mail.ru|~lady.mail.ru|~love.mail.ru|mail.ru|~mailblog.mail.ru|~mcs.mail.ru|~minigames.mail.ru|~my.mail.ru|~news.mail.ru|~octavius.mail.ru|~okminigames.mail.ru|~otvet.mail.ru|~pets.mail.ru|~pogoda.mail.ru|~realty.mail.ru|~top-fwz1.mail.ru|~top.mail.ru|~touch.mail.ru|~tv.mail.ru
+news.mail.ru##.mailru-visibility-check
+news.mail.ru##.p-directhack
 !
 ! Yandex
 !
@@ -188,7 +198,42 @@ news.mail.ru##+js(abort-on-property-read, myWidget)
 ||www.zen.yandex.com.tr^
 ||zen.yandex.com.fr^
 ||www.zen.yandex.com.fr^
-||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|overclockers.ru|prochtu.ru|rbkgames.com|remontcma.ru|rozetked.me|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|tut.by|vplate.ru|winnote.ru|wylsa.com|zinref.ru
+||market.yandex.ru/widget/$script,domain=1000000diy.ru|220.guru|3dnews.ru|bibe.ru|briefly.ru|cadelta.ru|cnews.ru|computerworld.ru|cross.expert|cubiq.ru|digger.ru|drive2.ru|electric-220.ru|expert-dacha.pro|f1comp.ru|fireman.club|housechief.ru|hype.tech|ichip.ru|iguides.ru|irecommend.ru|it-here.ru|itrew.ru|konstruktortestov.ru|kp.ru|kupidonia.ru|lavnik.net|mamsy.ru|megaobzor.com|migeek.ru|migid.ru|modxvm.com|newxboxone.ru|overclockers.ru|prochtu.ru|prosmarttv.ru|rbkgames.com|remontcma.ru|rozetked.me|russkiypro.ru|sad24.ru|servernews.ru|sovet-ingenera.com|stroy-podskazka.ru|tehnikoved.ru|tut.by|ukula.ru|vplate.ru|winnote.ru|wylsa.com|yablyk.com|zinref.ru
+||an.yandex.ru/count/$popup
+||sovetnik.market.yandex.ru^$third-party
+||sovetnik.yandex.net^$third-party
+||yandex.net/banner/
+||yandexo.ru/rek/
+||zen.yandex.*/widget-loader|$third-party
+||apiyandex.site^$third-party
+||mds.yandex.net/get-bstor/
+||st.yandexadexchange.net/
+||zen-test.yandex.ru^
+||market.yandex.ru/widget/$script,domain=go.mail.ru
+||yandex.net/get-direct$domain=~e.mail.ru
+||yandex.ru/browser-updater/
+||yandex-metrica.ru^$third-party
+||yandex.ru/setud/adlook/
+||bs.yandex.$~script
+||clck.yandex.ru^$~other
+||mc.yandex.ru^
+||metrika.yandex.$third-party
+||yandex.*/clck/
+||yandex.ru/click/
+||yandex.ru/metrika/
+yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz##.dist-popup
+! experiment
+||advertising.yandex.$domain=adv.ya.ru
+||advertising.yandex.$~third-party
+||an.yandex.ru/adfox/$xmlhttprequest,domain=shop.kp.ru
+||an.yandex.ru/crossdomain.xml
+||an.yandex.ru/vcset/139995?*&client_type=flash
+||site.yandex.net/*/js/all.js|$third-party,script
+||site.yandex.net/*/js/easyxdm.js|$third-party,script
+||site.yandex.net/*/js/opensearch.js|$third-party,script
+||site.yandex.net/*/js/suggest.js|$third-party,script
+||yandex.ru/metrika/informer.js
+||yandex.ru/search/site/?*search$third-party,script
 !
 !Others
 !
