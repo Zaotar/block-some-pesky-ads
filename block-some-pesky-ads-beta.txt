@@ -247,6 +247,7 @@ nnmclub.to##.da-list
 www.vesti.ru###vgtrk-mini-player
 ||browser.sentry-cdn.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
+ria.ru##.m-active.endless__item > .page__width.endless__item-content > .layout-article > .recommend__place
 !
 ! Cosmetic
 ! Rambler
