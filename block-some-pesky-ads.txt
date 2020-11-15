@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads
-! Version: 2.5
-! Last modified: 10 Oct 2020
+! Version: 2.6
+! Last modified: 02 Nov 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
@@ -87,6 +87,40 @@ youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
 youtube.com##.ytp-paid-content-overlay
 youtube.com###yt-lang-alert-container
+/AdotubeYouTubePlayer.
+||youtube2top.com^$third-party
+220youtube.com##.result__list-cntr
+||youtube.local^$third-party
+@@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
+||m.youtube.com/get_midroll_$domain=youtube.com
+||pagead2.googlesyndication.com^$domain=youtube.com
+||static.doubleclick.net^$domain=youtube.com
+||www.google.com/pagead/$domain=youtube.com
+||www.youtube.com/get_midroll_$domain=youtube.com
+youtube.com#?#ytd-rich-item-renderer:-abp-has(ytd-display-ad-renderer)
+youtube.com###feed-pyv-container
+youtube.com###feedmodule-PRO
+youtube.com###homepage-chrome-side-promo
+youtube.com###premium-yva
+youtube.com###promo-list
+youtube.com###search-pva
+youtube.com###shelf-pyv-container
+youtube.com###watch-branded-actions
+youtube.com###watch-buy-urls
+youtube.com##.GoogleActiveViewElement
+youtube.com##.carousel-offer-url-container
+youtube.com##.promoted-videos
+youtube.com##.searchView.list-view
+youtube.com##.sparkles-light-cta
+youtube.com##.watch-extra-info-column
+youtube.com##.watch-extra-info-right
+youtube.com##a[href^="http://www.youtube.com/cthru?"]
+youtube.com##a[href^="https://www.youtube.com/cthru?"]
+m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
+youtube.com##[class*="ytd-display-ad-"]
+youtube.com##[layout*="display-ad-"]
+youtube.com##ytd-companion-slot-renderer
+youtube.com##ytd-display-ad-renderer
 !
 ! Habr
 !
@@ -843,3 +877,6 @@ leroymerlin.ru##uc-cookie-notification
 samsung.com#@#.cookie-notice
 s7.ru#@#.cookie-usage
 www.neverware.com##.BUTTON.BOTTOM.LIGHT.BAR.sqs-cookie-banner-v2
+www.amd.com###cookieCompliance
+store.playstation.com###js-SIEWS1lib-header-Base
+www.playstation.com##.evidon-banner
