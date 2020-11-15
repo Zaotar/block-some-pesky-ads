@@ -925,3 +925,5 @@ www.neverware.com##.BUTTON.BOTTOM.LIGHT.BAR.sqs-cookie-banner-v2
 www.amd.com###cookieCompliance
 store.playstation.com###js-SIEWS1lib-header-Base
 www.playstation.com##.evidon-banner
+askubuntu.com##.z-banner.r0.l0.b0.ps-fixed.ff-sans.p8
+www.opera.com##.cookie-consent
