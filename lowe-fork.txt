@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Fri, 06 Nov 2020 13:22:37 GMT
+!Last modified: Wed, 18 Nov 2020 18:39:39 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3562
+!Entries:       3565
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus;showintro=0
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -35,6 +35,7 @@
 ||50websads.com^
 ||518ad.com^
 ||51yes.com^
+||5ijo.01net.com^
 ||5mcwl.pw^
 ||6ldu6qa.com^
 ||6sc.co^
@@ -239,7 +240,6 @@
 ||adcenter.net^
 ||adcentriconline.com^
 ||adclick.com^
-||adclient.uimserv.net^
 ||adclient1.tucows.com^
 ||adcolony.com^
 ||adcomplete.com^
@@ -288,7 +288,6 @@
 ||adimg.uimserv.net^
 ||adimg1.chosun.com^
 ||adimgs.sapo.pt^
-||adimpact.com^
 ||adincube.com^
 ||adinjector.net^
 ||adinterax.com^
@@ -579,7 +578,6 @@
 ||ads.liberte.pl^
 ||ads.lifethink.net^
 ||ads.linkedin.com^
-||ads.linuxfoundation.org^
 ||ads.livenation.com^
 ||ads.lordlucky.com^
 ||ads.ma7.tv^
@@ -955,7 +953,6 @@
 ||advertiseireland.com^
 ||advertisementafterthought.com^
 ||advertiserurl.com^
-||advertisespace.com^
 ||advertising.com^
 ||advertisingbanners.com^
 ||advertisingbox.com^
@@ -1469,6 +1466,7 @@
 ||cnomy.com^
 ||cnt.spbland.ru^
 ||cnt1.pocitadlo.cz^
+||cny.yoyo.org^
 ||code-server.biz^
 ||codeadnetwork.com^
 ||cognitiv.ai^
@@ -1507,6 +1505,7 @@
 ||convrse.media^
 ||cookies.cmpnet.com^
 ||coordinatedcub.com^
+||cootlogix.com^
 ||copperchickens.com^
 ||copycarpenter.com^
 ||copyrightaccesscontrols.com^
@@ -1521,7 +1520,6 @@
 ||counter.cnw.cz^
 ||counter.cz^
 ||counter.dreamhost.com^
-||counter.fateback.com^
 ||counter.mirohost.net^
 ||counter.mojgorod.ru^
 ||counter.nowlinux.com^
@@ -1754,7 +1752,6 @@
 ||exitexchange.com^
 ||exitfuel.com^
 ||exoclick.com^
-||exogripper.com^
 ||exosrv.com^
 ||experianmarketingservices.digital^
 ||explorads.com^
@@ -2343,6 +2340,7 @@
 ||mixedreading.com^
 ||mixpanel.com^
 ||mjxads.internet.com^
+||mkto-ab410147.com^
 ||mktoresp.com^
 ||ml314.com^
 ||mlm.de^
@@ -2650,6 +2648,7 @@
 ||porntrack.com^
 ||possessivebucket.com^
 ||possibleboats.com^
+||post.spmailtechno.com^
 ||postback.iqm.com^
 ||postrelease.com^
 ||posumeads.com^
@@ -2667,6 +2666,7 @@
 ||prmtracking.com^
 ||pro-advertising.com^
 ||pro-market.net^
+||producecopy.com^
 ||producer.getwisdom.io^
 ||proext.com^
 ||profero.com^
@@ -2766,6 +2766,7 @@
 ||ratings.lycos.com^
 ||rayjump.com^
 ||rb1.design.ru^
+||re-directme.com^
 ||reachjunction.com^
 ||reactx.com^
 ||readgoldfish.com^
@@ -2984,6 +2985,7 @@
 ||smartstream.tv^
 ||smartyads.com^
 ||smashsurprise.com^
+||smetrics.10daily.com.au^
 ||smetrics.bestbuy.com^
 ||smetrics.ctv.ca^
 ||smetrics.foxnews.com^
@@ -3416,6 +3418,7 @@
 ||visistat.com^
 ||visit.webhosting.yahoo.com^
 ||visitbox.de^
+||visitpath.com^
 ||visual-pagerank.fr^
 ||visualrevenue.com^
 ||vivtracking.com^
