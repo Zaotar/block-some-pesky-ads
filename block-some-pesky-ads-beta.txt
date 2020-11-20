@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 2.9
-! Last modified: 15 Nov 2020
+! Version: 2.9.1
+! Last modified: 20 Nov 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
@@ -135,6 +135,7 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 3dnews.ru##.sp-form-outer
 3dnews.ru##.at-share-btn-elements
 3dnews.ru###youtube-chunk-wrapper
+3dnews.ru###aio_rollup_container_id
 !
 ! IXBT
 !
