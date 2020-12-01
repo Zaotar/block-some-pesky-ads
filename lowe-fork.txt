@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Thu, 19 Nov 2020 11:24:03 GMT
+!Last modified: Mon, 30 Nov 2020 13:16:38 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3561
+!Entries:       3563
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -148,6 +148,7 @@
 ||ad.jamster.co.uk^
 ||ad.jetsoftware.com^
 ||ad.keenspace.com^
+||ad.kissanime.nz^
 ||ad.liveinternet.ru^
 ||ad.lupa.cz^
 ||ad.media-servers.net^
@@ -967,6 +968,7 @@
 ||advisormedia.cz^
 ||adviva.net^
 ||advnt.com^
+||adwebone.com^
 ||adwhirl.com^
 ||adwordsecommerce.com.br^
 ||adworldnetwork.com^
@@ -1056,6 +1058,7 @@
 ||analytics.cohesionapps.com^
 ||analytics.dnsfilter.com^
 ||analytics.ext.go-tellm.com^
+||analytics.fkz.re^
 ||analytics.google.com^
 ||analytics.htmedia.in^
 ||analytics.icons8.com^
@@ -1146,7 +1149,6 @@
 ||balloontexture.com^
 ||banik.redigy.cz^
 ||banner-exchange-24.de^
-||banner.ad.nu^
 ||banner.ambercoastcasino.com^
 ||banner.buempliz-online.ch^
 ||banner.casino.net^
@@ -1571,6 +1573,7 @@
 ||cyberbounty.com^
 ||d.adroll.com^
 ||d2cmedia.ca^
+||dabiaozhi.com^
 ||dakic-ia-300.com^
 ||damdoor.com^
 ||dancemistake.com^
@@ -2082,7 +2085,6 @@
 ||itfarm.com^
 ||itop.cz^
 ||its-that-easy.com^
-||itsptp.com^
 ||ivwbox.de^
 ||ivykiosk.com^
 ||iyfnzgb.com^
@@ -2224,7 +2226,6 @@
 ||lop.com^
 ||loudlunch.com^
 ||lp3tdqle.com^
-||ltmastos.com^
 ||lucidmedia.com^
 ||lucklayed.info^
 ||lytics.io^
@@ -2238,6 +2239,7 @@
 ||mackeeperapp.mackeeper.com^
 ||madclient.uimserv.net^
 ||madcpms.com^
+||madinad.com^
 ||madisonavenue.com^
 ||mads.cnet.com^
 ||madvertise.de^
@@ -2647,7 +2649,6 @@
 ||post.spmailtechno.com^
 ||postback.iqm.com^
 ||postrelease.com^
-||posumeads.com^
 ||pr-star.de^
 ||praddpro.de^
 ||prchecker.info^
@@ -2793,6 +2794,7 @@
 ||reflectivereward.com^
 ||reforge.in^
 ||regnow.com^
+||regularplants.com^
 ||reklam.rfsl.se^
 ||reklama.mironet.cz^
 ||reklama.reflektor.cz^
@@ -3251,6 +3253,7 @@
 ||track.tkbo.com^
 ||track.ultravpn.com^
 ||track.undressingpics.work^
+||track.vcdc.com^
 ||track.viewdeos.com^
 ||track1.viewdeos.com^
 ||trackalyzer.com^
@@ -3358,7 +3361,6 @@
 ||ultraoranges.com^
 ||unarmedindustry.com^
 ||undertone.com^
-||universcine.com^
 ||unknowntray.com^
 ||unless.com^
 ||unrulymedia.com^
