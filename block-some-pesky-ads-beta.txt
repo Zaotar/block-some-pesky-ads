@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 2.9.1
-! Last modified: 20 Nov 2020
+! Version: 2.9.5
+! Last modified: 07 Dec 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
@@ -87,11 +87,9 @@ youtube.com##.ytp-ce-element
 youtube.com##.ytp-pause-overlay
 youtube.com##.ytp-paid-content-overlay
 youtube.com###yt-lang-alert-container
-/AdotubeYouTubePlayer.
 ||youtube2top.com^$third-party
 220youtube.com##.result__list-cntr
 ||youtube.local^$third-party
-@@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
 ||m.youtube.com/get_midroll_$domain=youtube.com
 ||pagead2.googlesyndication.com^$domain=youtube.com
 ||static.doubleclick.net^$domain=youtube.com
@@ -139,9 +137,19 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 !
 ! IXBT
 !
-www.ixbt.com##.br-mobile-pic-bg
+! www.ixbt.com##.br-mobile-pic-bg
 www.ixbt.com###m-20
 www.ixbt.com###m-30
+ixbt.com###yandex_recommend
+ixbt.com##.Blocksmaster
+forum.ixbt.com##.b_footer
+ixbt.com,ixbt.market##.deskadv
+ixbt.com##a[data-menuitem="honor"]
+gametech.ru,ixbt.com##a[href*="ixbt.com/cgi-bin/click"]
+ixbt.com##div[class^="clickable_zone"]
+/multyadv.js$domain=ixbt.com
+||ixbt.com/branding/
+||rose.ixbt.com/banner/
 !
 ! Mail.ru
 !
@@ -929,3 +937,4 @@ store.playstation.com###js-SIEWS1lib-header-Base
 www.playstation.com##.evidon-banner
 askubuntu.com##.z-banner.r0.l0.b0.ps-fixed.ff-sans.p8
 www.opera.com##.cookie-consent
+osdn.net##.cookie-bar
