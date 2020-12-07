@@ -2,7 +2,7 @@
 ! Title: Block some pesky ads
 ! Version: 3.0
 ! Last modified: 07 Dec 2020
-! Homepage: https://github.com/Zaotar/block-some-pesky-ads/blob/master/block-some-pesky-ads.txt
+! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
 !
 ! Youtube
