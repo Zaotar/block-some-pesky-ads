@@ -137,7 +137,6 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 !
 ! IXBT
 !
-! www.ixbt.com##.br-mobile-pic-bg
 www.ixbt.com###m-20
 www.ixbt.com###m-30
 ixbt.com###yandex_recommend
