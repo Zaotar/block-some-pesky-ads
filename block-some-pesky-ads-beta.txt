@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 3.0.1
+! Version: 3.0.2
 ! Last modified: 10 Dec 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
@@ -190,6 +190,7 @@ mnogo.ru^$third-party,domain=~e.mail.ru|~mail.google.com|~mail.rambler.ru|~mail.
 news.mail.ru##.mailru-visibility-check
 news.mail.ru##.p-directhack
 games.mail.ru###modal-root
+hi-tech.mail.ru##.tooltip__box
 !
 ! Yandex
 !
@@ -257,6 +258,9 @@ www.vesti.ru###vgtrk-mini-player
 ||browser.sentry-cdn.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ria.ru##.m-active.endless__item > .page__width.endless__item-content > .layout-article > .recommend__place
+rutor.info###content > center
+rutor.info##div.sideblock2:nth-of-type(3)
+www.igromania.ru###mtwtvcont
 !
 ! Cosmetic
 ! Rambler
@@ -938,3 +942,4 @@ www.playstation.com##.evidon-banner
 askubuntu.com##.z-banner.r0.l0.b0.ps-fixed.ff-sans.p8
 www.opera.com##.cookie-consent
 osdn.net##.cookie-bar
+www.vmware.com###onetrust-banner-sdk > .ot-sdk-container
