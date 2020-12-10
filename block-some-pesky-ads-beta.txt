@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 2.9.5
-! Last modified: 07 Dec 2020
+! Version: 3.0.1
+! Last modified: 10 Dec 2020
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
@@ -189,6 +189,7 @@ mnogo.ru^$third-party,domain=~e.mail.ru|~mail.google.com|~mail.rambler.ru|~mail.
 ||mail.ru/res/$script,domain=~3igames.mail.ru|~auto.mail.ru|~biz.mail.ru|~bonus.mail.ru|~calendar.mail.ru|~cloud.mail.ru|~deti.mail.ru|~dobro.mail.ru|~e.mail.ru|~esports.mail.ru|~games.mail.ru|~gibdd.mail.ru|~go.mail.ru|~health.mail.ru|~hi-tech.mail.ru|~horo.mail.ru|~kino.mail.ru|~lady.mail.ru|~love.mail.ru|mail.ru|~mailblog.mail.ru|~mcs.mail.ru|~minigames.mail.ru|~my.mail.ru|~news.mail.ru|~octavius.mail.ru|~okminigames.mail.ru|~otvet.mail.ru|~pets.mail.ru|~pogoda.mail.ru|~realty.mail.ru|~top-fwz1.mail.ru|~top.mail.ru|~touch.mail.ru|~tv.mail.ru
 news.mail.ru##.mailru-visibility-check
 news.mail.ru##.p-directhack
+games.mail.ru###modal-root
 !
 ! Yandex
 !
