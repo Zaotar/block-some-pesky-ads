@@ -192,6 +192,10 @@ news.mail.ru##.p-directhack
 games.mail.ru###modal-root
 hi-tech.mail.ru##.tooltip__box
 news.mail.ru##.tooltip_width_huge.tooltip_collapse.tooltip_shown.tooltip_positioned.tooltip_arrow_top-left.tooltip > .tooltip__box
+! Coronavirus module
+news.mail.ru##.js-module.p-coronavirus-chart
+news.mail.ru##.margin_bottom_20.p-warning_corona.p-warning
+news.mail.ru##.margin_bottom_20.box_coronavirus-banner.box_relative.box_collapse.box
 !
 ! Yandex
 !
