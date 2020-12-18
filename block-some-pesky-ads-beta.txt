@@ -177,14 +177,6 @@ games.mail.ru##.b-header-agreement
 games.mail.ru##.informer__content
 ~e.mail.ru,mail.ru,sportmail.ru##.article__item_slot
 sportmail.ru##.cols__column_sidebar.cols__column_large_25.cols__column_medium_25.cols__column_small_23.cols__column > .cols__inner
-mail.ru##+js(setTimeout-defuser, rbParams)
-mail.ru##+js(setTimeout-defuser, document.title)
-mail.ru##+js(setTimeout-defuser, advBlock)
-mail.ru##+js(set-constant, Object.prototype.mimic, undefined)
-mail.ru##+js(set-constant, Object.prototype.initMimic, undefined)
-mail.ru##+js(set-constant, Object.prototype.hpConfig, undefined)
-mail.ru##+js(set-constant, Object.prototype.direct, undefined)
-news.mail.ru##+js(abort-on-property-read, myWidget)
 mnogo.ru^$third-party,domain=~e.mail.ru|~mail.google.com|~mail.rambler.ru|~mail.yandex.ru
 ||mail.ru/res/$script,domain=~3igames.mail.ru|~auto.mail.ru|~biz.mail.ru|~bonus.mail.ru|~calendar.mail.ru|~cloud.mail.ru|~deti.mail.ru|~dobro.mail.ru|~e.mail.ru|~esports.mail.ru|~games.mail.ru|~gibdd.mail.ru|~go.mail.ru|~health.mail.ru|~hi-tech.mail.ru|~horo.mail.ru|~kino.mail.ru|~lady.mail.ru|~love.mail.ru|mail.ru|~mailblog.mail.ru|~mcs.mail.ru|~minigames.mail.ru|~my.mail.ru|~news.mail.ru|~octavius.mail.ru|~okminigames.mail.ru|~otvet.mail.ru|~pets.mail.ru|~pogoda.mail.ru|~realty.mail.ru|~top-fwz1.mail.ru|~top.mail.ru|~touch.mail.ru|~tv.mail.ru
 news.mail.ru##.mailru-visibility-check
@@ -196,6 +188,8 @@ news.mail.ru##.tooltip_width_huge.tooltip_collapse.tooltip_shown.tooltip_positio
 news.mail.ru##.js-module.p-coronavirus-chart
 news.mail.ru##.margin_bottom_20.p-warning_corona.p-warning
 news.mail.ru##.margin_bottom_20.box_coronavirus-banner.box_relative.box_collapse.box
+!
+sportmail.ru##.article__container
 !
 ! Yandex
 !
