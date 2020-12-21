@@ -134,8 +134,6 @@
 0.0.0.0 beta.metrica.yandex.com
 0.0.0.0 beta.metrika.yandex.com
 0.0.0.0 browser-updater.yandex.net
-0.0.0.0 clck.yandex.com
-0.0.0.0 clck.yandex.ru
 0.0.0.0 direct.yandex.com
 0.0.0.0 external-promo-metrics.yandex.net
 0.0.0.0 media.metrica.yandex.com
