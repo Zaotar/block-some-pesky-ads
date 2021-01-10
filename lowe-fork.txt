@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Mon, 04 Jan 2021 09:35:40 GMT
+!Last modified: Thu, 07 Jan 2021 10:35:34 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
 !Entries:       3559
@@ -72,6 +72,7 @@
 ||abandonedaction.com^
 ||abc-ads.com^
 ||aboardlevel.com^
+||aboutads.gr^
 ||abruptroad.com^
 ||absentstream.com^
 ||absoluteclickscom.com^
@@ -147,7 +148,6 @@
 ||ad.jamster.co.uk^
 ||ad.jetsoftware.com^
 ||ad.keenspace.com^
-||ad.kissanime.nz^
 ||ad.liveinternet.ru^
 ||ad.lupa.cz^
 ||ad.media-servers.net^
@@ -172,7 +172,6 @@
 ||ad.seznam.cz^
 ||ad.simflight.com^
 ||ad.simgames.net^
-||ad.smartclip.net^
 ||ad.style^
 ||ad.tapthislink.com^
 ||ad.tbn.ru^
@@ -546,7 +545,6 @@
 ||ads.imgur.com^
 ||ads.independent.com.mt^
 ||ads.infi.net^
-||ads.internet24.se^
 ||ads.internic.co.il^
 ||ads.ipowerweb.com^
 ||ads.isoftmarketing.com^
@@ -794,6 +792,7 @@
 ||adsend.de^
 ||adsensecustomsearchads.com^
 ||adserve.ams.rhythmxchange.com^
+||adserve.gkeurope.de^
 ||adserve.io^
 ||adserve.jbs.org^
 ||adserver.71i.de^
@@ -805,6 +804,7 @@
 ||adserver.bdoce.cl^
 ||adserver.betandwin.de^
 ||adserver.bing.com^
+||adserver.bizedge.com^
 ||adserver.bizhat.com^
 ||adserver.break-even.it^
 ||adserver.cams.com^
@@ -834,6 +834,7 @@
 ||adserver.o2.pl^
 ||adserver.oddschecker.com^
 ||adserver.omroepzeeland.nl^
+||adserver.otthonom.hu^
 ||adserver.pampa.com.br^
 ||adserver.pl^
 ||adserver.portugalmail.net^
@@ -843,6 +844,7 @@
 ||adserver.sharewareonline.com^
 ||adserver.spankaway.com^
 ||adserver.theonering.net^
+||adserver.trojaner-info.de^
 ||adserver.twitpic.com^
 ||adserver.virginmedia.com^
 ||adserver.yahoo.com^
@@ -996,7 +998,6 @@
 ||affiliate.rusvpn.com^
 ||affiliate.travelnow.com^
 ||affiliate.treated.com^
-||affiliate.viator.com^
 ||affiliatefuture.com^
 ||affiliates.allposters.com^
 ||affiliates.babylon.com^
@@ -1816,7 +1817,6 @@
 ||freebanner.com^
 ||freecounterstat.com^
 ||freelogs.com^
-||freemaineads.com^
 ||freeonlineusers.com^
 ||freepay.com^
 ||freeskreen.com^
@@ -1977,6 +1977,7 @@
 ||hyperbanner.net^
 ||hypertracker.com^
 ||hyprmx.com^
+||hyros.com^
 ||hystericalhelp.com^
 ||i-clicks.net^
 ||i-i.lt^
@@ -2904,6 +2905,7 @@
 ||securemetrics.apple.com^
 ||sedoparking.com^
 ||sedotracker.com^
+||segmetrics.io^
 ||selectivesummer.com^
 ||semasio.net^
 ||sendmepixel.com^
@@ -3229,7 +3231,6 @@
 ||touchclarity.com^
 ||touchclarity.natwest.com^
 ||tour.brazzers.com^
-||tpnads.com^
 ||track.addevent.com^
 ||track.adform.net^
 ||track.anchorfree.com^
@@ -3341,7 +3342,6 @@
 ||turboadv.com^
 ||turn.com^
 ||tvmtracker.com^
-||twittad.com^
 ||twyn.com^
 ||tynt.com^
 ||typicalteeth.com^
