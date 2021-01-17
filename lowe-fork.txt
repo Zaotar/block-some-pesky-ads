@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Thu, 07 Jan 2021 10:35:34 GMT
+!Last modified: Fri, 15 Jan 2021 13:11:10 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3559
+!Entries:       3565
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -93,6 +93,7 @@
 ||acuityplatform.com^
 ||ad-balancer.at^
 ||ad-balancer.net^
+||ad-cupid.com^
 ||ad-delivery.net^
 ||ad-pay.de^
 ||ad-rotator.com^
@@ -133,7 +134,6 @@
 ||ad.flurry.com^
 ||ad.foxnetworks.com^
 ||ad.freecity.de^
-||ad.gate24.ch^
 ||ad.grafika.cz^
 ||ad.gt^
 ||ad.hbv.de^
@@ -842,7 +842,6 @@
 ||adserver.sanomawsoy.fi^
 ||adserver.sciflicks.com^
 ||adserver.sharewareonline.com^
-||adserver.spankaway.com^
 ||adserver.theonering.net^
 ||adserver.trojaner-info.de^
 ||adserver.twitpic.com^
@@ -864,6 +863,7 @@
 ||adsfac.eu^
 ||adsfac.net^
 ||adsfac.us^
+||adsfactor.net^
 ||adsfeed.brabys.com^
 ||adside.com^
 ||adsiduous.com^
@@ -1023,6 +1023,7 @@
 ||aistat.net^
 ||ak0gsh40.com^
 ||aktrack.pubmatic.com^
+||alchemist.go2cloud.org^
 ||alclick.com^
 ||alenty.com^
 ||alert.com.mt^
@@ -1106,6 +1107,7 @@
 ||at-adserver.alltop.com^
 ||atdmt.com^
 ||athena-ads.wikia.com^
+||ato.mx^
 ||attractiveafternoon.com^
 ||attribution.report^
 ||attributiontracker.com^
@@ -1175,7 +1177,6 @@
 ||bannerads.de^
 ||bannerboxes.com^
 ||bannercommunity.de^
-||bannerconnect.com^
 ||bannerconnect.net^
 ||bannergrabber.internet.gr^
 ||bannerimage.com^
@@ -1187,7 +1188,6 @@
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
 ||banners.asiafriendfinder.com^
-||banners.babylon-x.com^
 ||banners.bol.com.br^
 ||banners.cams.com^
 ||banners.clubseventeen.com^
@@ -2081,6 +2081,7 @@
 ||iyfnzgb.com^
 ||j93557g.com^
 ||jadeitite.com^
+||jaizouji.com^
 ||jauchuwa.net^
 ||jcount.com^
 ||jdoqocy.com^
@@ -2200,6 +2201,7 @@
 ||log.btopenworld.com^
 ||log.logrocket.io^
 ||log.pinterest.com^
+||log.videocampaign.co^
 ||logger.snackly.co^
 ||logs.datadoghq.com^
 ||logs.datadoghq.eu^
@@ -2259,6 +2261,7 @@
 ||matheranalytics.com^
 ||mathtag.com^
 ||matomo.activate.cz^
+||matomo.kmkb.ru^
 ||mautic.com^
 ||max.i12.de^
 ||maximiser.net^
@@ -3065,6 +3068,7 @@
 ||stats.mirrorfootball.co.uk^
 ||stats.olark.com^
 ||stats.pusher.com^
+||stats.rdphv.net^
 ||stats.self.com^
 ||stats.townnews.com^
 ||stats.unwired-i.net^
@@ -3244,6 +3248,7 @@
 ||track.hexcan.com^
 ||track.mailerlite.com^
 ||track.nuxues.com^
+||track.themaccleanup.info^
 ||track.tkbo.com^
 ||track.ultravpn.com^
 ||track.undressingpics.work^
@@ -3342,6 +3347,7 @@
 ||turboadv.com^
 ||turn.com^
 ||tvmtracker.com^
+||twittad.com^
 ||twyn.com^
 ||tynt.com^
 ||typicalteeth.com^
