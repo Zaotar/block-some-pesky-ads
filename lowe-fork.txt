@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Fri, 15 Jan 2021 13:11:10 GMT
+!Last modified: Mon, 18 Jan 2021 15:38:29 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3565
+!Entries:       3569
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -218,6 +218,7 @@
 ||adap.tv^
 ||adapt.tv^
 ||adaranth.com^
+||adbilty.me^
 ||adblade.com^
 ||adblade.org^
 ||adblockanalytics.com^
@@ -3066,6 +3067,7 @@
 ||stats.hyperinzerce.cz^
 ||stats.merriam-webster.com^
 ||stats.mirrorfootball.co.uk^
+||stats.nextgen-email.com^
 ||stats.olark.com^
 ||stats.pusher.com^
 ||stats.rdphv.net^
@@ -3421,6 +3423,7 @@
 ||visitpath.com^
 ||visual-pagerank.fr^
 ||visualrevenue.com^
+||vivads.net^
 ||vivtracking.com^
 ||vmmpxl.com^
 ||voicefive.com^
@@ -3519,6 +3522,7 @@
 ||xad.com^
 ||xapads.com^
 ||xchange.ro^
+||xcsypkknp.com^
 ||xertive.com^
 ||xfreeservice.com^
 ||xg4ken.com^
