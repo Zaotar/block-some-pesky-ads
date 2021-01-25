@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Mon, 18 Jan 2021 15:38:29 GMT
+!Last modified: Thu, 21 Jan 2021 13:53:20 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3569
+!Entries:       3567
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -775,7 +775,6 @@
 ||ads5.virtual-nights.com^
 ||ads6.gamecity.net^
 ||ads7.gamecity.net^
-||ads8.com^
 ||adsafeprotected.com^
 ||adsatt.abc.starwave.com^
 ||adsatt.abcnews.starwave.com^
@@ -1178,6 +1177,7 @@
 ||bannerads.de^
 ||bannerboxes.com^
 ||bannercommunity.de^
+||bannerconnect.com^
 ||bannerconnect.net^
 ||bannergrabber.internet.gr^
 ||bannerimage.com^
@@ -1318,6 +1318,8 @@
 ||broadboundary.com^
 ||broadcastbed.com^
 ||broaddoor.com^
+||browser-http-intake.logs.datadoghq.com^
+||browser-http-intake.logs.datadoghq.eu^
 ||bs.yandex.ru^
 ||btez8.xyz^
 ||btrll.com^
@@ -1470,7 +1472,6 @@
 ||colonize.com^
 ||comclick.com^
 ||comfortablecheese.com^
-||commindo-media-ressourcen.de^
 ||commissionmonster.com^
 ||commonswing.com^
 ||compactbanner.com^
@@ -2204,8 +2205,6 @@
 ||log.pinterest.com^
 ||log.videocampaign.co^
 ||logger.snackly.co^
-||logs.datadoghq.com^
-||logs.datadoghq.eu^
 ||logs.roku.com^
 ||logs.spilgames.com^
 ||logsss.com^
@@ -2508,7 +2507,6 @@
 ||openads.org^
 ||openadsnetwork.com^
 ||opentag-stats.qubit.com^
-||openx.actvtech.com^
 ||openx.angelsgroup.org.uk^
 ||openx.aosis.co.za^
 ||openx.cairo360.com^
@@ -2737,7 +2735,6 @@
 ||r.msn.com^
 ||r.scoota.co^
 ||radar.cedexis.com^
-||radarurl.com^
 ||radiate.com^
 ||rads.alfamedia.pl^
 ||rads.realadmin.pl^
@@ -2868,6 +2865,8 @@
 ||rtxplatform.com^
 ||ru4.com^
 ||rubiconproject.com^
+||rum-http-intake.logs.datadoghq.com^
+||rum-http-intake.logs.datadoghq.eu^
 ||runads.com^
 ||rundsp.com^
 ||ruthlessrobin.com^
@@ -3522,7 +3521,6 @@
 ||xad.com^
 ||xapads.com^
 ||xchange.ro^
-||xcsypkknp.com^
 ||xertive.com^
 ||xfreeservice.com^
 ||xg4ken.com^
