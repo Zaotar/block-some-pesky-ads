@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Thu, 21 Jan 2021 13:53:20 GMT
+!Last modified: Wed, 27 Jan 2021 12:39:59 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3567
+!Entries:       3571
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -842,6 +842,7 @@
 ||adserver.sanomawsoy.fi^
 ||adserver.sciflicks.com^
 ||adserver.sharewareonline.com^
+||adserver.spankaway.com^
 ||adserver.theonering.net^
 ||adserver.trojaner-info.de^
 ||adserver.twitpic.com^
@@ -865,6 +866,7 @@
 ||adsfac.us^
 ||adsfactor.net^
 ||adsfeed.brabys.com^
+||adshrink.it^
 ||adside.com^
 ||adsiduous.com^
 ||adskeeper.co.uk^
@@ -1189,6 +1191,7 @@
 ||banners.adultfriendfinder.com^
 ||banners.amigos.com^
 ||banners.asiafriendfinder.com^
+||banners.babylon-x.com^
 ||banners.bol.com.br^
 ||banners.cams.com^
 ||banners.clubseventeen.com^
@@ -1457,6 +1460,7 @@
 ||cluster.adultworld.com^
 ||clustrmaps.com^
 ||cmp.dmgmediaprivacy.co.uk^
+||cmp.osano.com^
 ||cmvrclicks000.com^
 ||cnomy.com^
 ||cnt.spbland.ru^
@@ -1953,7 +1957,6 @@
 ||hlok.qertewrt.com^
 ||hocgeese.com^
 ||hollandbusinessadvertising.nl^
-||hollps.win^
 ||homepageking.de^
 ||honeygoldfish.com^
 ||honorablehall.com^
@@ -3160,6 +3163,7 @@
 ||tcads.net^
 ||teads.tv^
 ||tealeaf.com^
+||tealium.cbsnews.com^
 ||tealium.com^
 ||tealiumiq.com^
 ||techclicks.net^
