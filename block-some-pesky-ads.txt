@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads
-! Version: 3.0
-! Last modified: 07 Dec 2020
+! Version: 3.1
+! Last modified: 14 Feb 2021
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
 !
@@ -177,18 +177,19 @@ games.mail.ru##.b-header-agreement
 games.mail.ru##.informer__content
 ~e.mail.ru,mail.ru,sportmail.ru##.article__item_slot
 sportmail.ru##.cols__column_sidebar.cols__column_large_25.cols__column_medium_25.cols__column_small_23.cols__column > .cols__inner
-mail.ru##+js(setTimeout-defuser, rbParams)
-mail.ru##+js(setTimeout-defuser, document.title)
-mail.ru##+js(setTimeout-defuser, advBlock)
-mail.ru##+js(set-constant, Object.prototype.mimic, undefined)
-mail.ru##+js(set-constant, Object.prototype.initMimic, undefined)
-mail.ru##+js(set-constant, Object.prototype.hpConfig, undefined)
-mail.ru##+js(set-constant, Object.prototype.direct, undefined)
-news.mail.ru##+js(abort-on-property-read, myWidget)
 mnogo.ru^$third-party,domain=~e.mail.ru|~mail.google.com|~mail.rambler.ru|~mail.yandex.ru
 ||mail.ru/res/$script,domain=~3igames.mail.ru|~auto.mail.ru|~biz.mail.ru|~bonus.mail.ru|~calendar.mail.ru|~cloud.mail.ru|~deti.mail.ru|~dobro.mail.ru|~e.mail.ru|~esports.mail.ru|~games.mail.ru|~gibdd.mail.ru|~go.mail.ru|~health.mail.ru|~hi-tech.mail.ru|~horo.mail.ru|~kino.mail.ru|~lady.mail.ru|~love.mail.ru|mail.ru|~mailblog.mail.ru|~mcs.mail.ru|~minigames.mail.ru|~my.mail.ru|~news.mail.ru|~octavius.mail.ru|~okminigames.mail.ru|~otvet.mail.ru|~pets.mail.ru|~pogoda.mail.ru|~realty.mail.ru|~top-fwz1.mail.ru|~top.mail.ru|~touch.mail.ru|~tv.mail.ru
 news.mail.ru##.mailru-visibility-check
 news.mail.ru##.p-directhack
+games.mail.ru###modal-root
+hi-tech.mail.ru##.tooltip__box
+news.mail.ru##.tooltip_width_huge.tooltip_collapse.tooltip_shown.tooltip_positioned.tooltip_arrow_top-left.tooltip > .tooltip__box
+! Coronavirus module
+news.mail.ru##.js-module.p-coronavirus-chart
+news.mail.ru##.margin_bottom_20.p-warning_corona.p-warning
+news.mail.ru##.margin_bottom_20.box_coronavirus-banner.box_relative.box_collapse.box
+!
+sportmail.ru##.article__container
 !
 ! Yandex
 !
@@ -256,6 +257,10 @@ www.vesti.ru###vgtrk-mini-player
 ||browser.sentry-cdn.com^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ria.ru##.m-active.endless__item > .page__width.endless__item-content > .layout-article > .recommend__place
+rutor.info###content > center
+rutor.info##div.sideblock2:nth-of-type(3)
+www.igromania.ru###mtwtvcont
+www.kommersant.ru##.subscription-popup-v2_gazette-popup.subscription-popup-v2
 !
 ! Cosmetic
 ! Rambler
@@ -937,3 +942,5 @@ www.playstation.com##.evidon-banner
 askubuntu.com##.z-banner.r0.l0.b0.ps-fixed.ff-sans.p8
 www.opera.com##.cookie-consent
 osdn.net##.cookie-bar
+www.vmware.com###onetrust-banner-sdk > .ot-sdk-container
+downdetector.ru###_evidon-barrier-wrapper
