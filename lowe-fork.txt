@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Wed, 27 Jan 2021 12:39:59 GMT
+!Last modified: Wed, 10 Feb 2021 18:16:46 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3571
+!Entries:       3569
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -191,7 +191,6 @@
 ||ad.xmovies8.si^
 ||ad.xrea.com^
 ||ad.yadro.ru^
-||ad.yourmedia.com^
 ||ad.zanox.com^
 ||ad0.bigmir.net^
 ||ad01.mediacorpsingapore.com^
@@ -731,7 +730,6 @@
 ||ads.wwe.biz^
 ||ads.xhamster.com^
 ||ads.xtra.co.nz^
-||ads.y-0.net^
 ||ads.yahoo.com^
 ||ads.yap.yahoo.com^
 ||ads.yimg.com^
@@ -841,6 +839,7 @@
 ||adserver.pressboard.ca^
 ||adserver.sanomawsoy.fi^
 ||adserver.sciflicks.com^
+||adserver.scr.sk^
 ||adserver.sharewareonline.com^
 ||adserver.spankaway.com^
 ||adserver.theonering.net^
@@ -932,6 +931,7 @@
 ||adv.hwupgrade.it^
 ||adv.livedoor.com^
 ||adv.mezon.ru^
+||adv.mpvc.it^
 ||adv.nexthardware.com^
 ||adv.webmd.com^
 ||adv.wp.pl^
@@ -1062,6 +1062,7 @@
 ||analytics.mailmunch.co^
 ||analytics.myfinance.com^
 ||analytics.mytvzion.pro^
+||analytics.ostr.io^
 ||analytics.phando.com^
 ||analytics.picsart.com^
 ||analytics.poolshool.com^
@@ -1178,7 +1179,6 @@
 ||banner10.zetasystem.dk^
 ||bannerads.de^
 ||bannerboxes.com^
-||bannercommunity.de^
 ||bannerconnect.com^
 ||bannerconnect.net^
 ||bannergrabber.internet.gr^
@@ -1510,7 +1510,6 @@
 ||coremetrics.com^
 ||cormast.com^
 ||cosmopolitads.com^
-||cost2buy.net^
 ||count.rin.ru^
 ||count.west263.com^
 ||counted.com^
@@ -1638,6 +1637,7 @@
 ||domainsponsor.com^
 ||domainsteam.de^
 ||domdex.com^
+||dotmetrics.net^
 ||doubleclick.com^
 ||doubleclick.de^
 ||doubleclick.net^
@@ -1956,7 +1956,7 @@
 ||hittail.com^
 ||hlok.qertewrt.com^
 ||hocgeese.com^
-||hollandbusinessadvertising.nl^
+||hollps.win^
 ||homepageking.de^
 ||honeygoldfish.com^
 ||honorablehall.com^
@@ -2456,7 +2456,6 @@
 ||ntv.io^
 ||ntvk1.ru^
 ||nuggad.net^
-||numax.nu-1.com^
 ||nuseek.com^
 ||nuttyorganization.com^
 ||nzaza.com^
@@ -2529,7 +2528,6 @@
 ||optmnstr.com^
 ||optmstr.com^
 ||optnmstr.com^
-||ostr.io^
 ||ota.cartrawler.com^
 ||otto-images.developershed.com^
 ||ouh3igaeb.com^
@@ -3437,7 +3435,6 @@
 ||voodoo-ads.io^
 ||vpon.com^
 ||vrs.cz^
-||vrtzcontextualads.com^
 ||vs.tucows.com^
 ||vtracy.de^
 ||vungle.com^
@@ -3450,6 +3447,7 @@
 ||wateryvan.com^
 ||wd-track.de^
 ||wdads.sx.atl.publicus.com^
+||wearbasin.com^
 ||web-redirecting.com^
 ||web-stat.com^
 ||web.informer.com^
