@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Mon, 15 Feb 2021 08:50:10 GMT
+!Last modified: Tue, 02 Mar 2021 15:09:35 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3571
+!Entries:       3565
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -281,12 +281,10 @@
 ||adimages.homestore.com^
 ||adimages.omroepzeeland.nl^
 ||adimages.sanomawsoy.fi^
-||adimg.cnet.com^
 ||adimg.com.com^
 ||adimg.uimserv.net^
 ||adimg1.chosun.com^
 ||adimgs.sapo.pt^
-||adincube.com^
 ||adinjector.net^
 ||adinterax.com^
 ||adisfy.com^
@@ -457,7 +455,6 @@
 ||ads.cybersales.cz^
 ||ads.dada.it^
 ||ads.dailycamera.com^
-||ads.datingyes.com^
 ||ads.delfin.bg^
 ||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
@@ -587,7 +584,6 @@
 ||ads.miarroba.com^
 ||ads.mic.com^
 ||ads.mmania.com^
-||ads.mobilautomaten.com^
 ||ads.mobilebet.com^
 ||ads.mopub.com^
 ||ads.motor-forum.nl^
@@ -671,7 +667,6 @@
 ||ads.soft32.com^
 ||ads.soweb.gr^
 ||ads.space.com^
-||ads.squarecrop.net^
 ||ads.stackoverflow.com^
 ||ads.sun.com^
 ||ads.suomiautomaatti.com^
@@ -815,7 +810,6 @@
 ||adserver.freecity.de^
 ||adserver.friendfinder.com^
 ||adserver.hardsextube.com^
-||adserver.hardwareanalysis.com^
 ||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
@@ -892,7 +886,6 @@
 ||adsrv2.swidnica24.pl^
 ||adsrvr.org^
 ||adsrvus.com^
-||adsstat.com^
 ||adstacks.in^
 ||adstage.io^
 ||adstanding.com^
@@ -913,6 +906,7 @@
 ||adtegrity.net^
 ||adthis.com^
 ||adthrive.com^
+||adthurst.com^
 ||adtiger.de^
 ||adtilt.com^
 ||adtng.com^
@@ -951,7 +945,6 @@
 ||advertising.com^
 ||advertisingbanners.com^
 ||advertisingbox.com^
-||advertisingtag.net^
 ||advertmarket.com^
 ||advertmedia.de^
 ||advertpro.ya.com^
@@ -1075,6 +1068,7 @@
 ||analyticsapi.happypancake.net^
 ||aniview.com^
 ||annonser.dagbladet.no^
+||annoyedairport.com^
 ||anrdoezrs.net^
 ||anstrex.com^
 ||anuncios.edicaoms.com.br^
@@ -1238,7 +1232,6 @@
 ||beacon.gu-web.net^
 ||beamincrease.com^
 ||bebi.com^
-||bedsbreath.com^
 ||beemray.com^
 ||begun.ru^
 ||behavioralengine.com^
@@ -1408,6 +1401,7 @@
 ||clevernt.com^
 ||click.a-ads.com^
 ||click.cartsguru.io^
+||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
 ||click.kmindex.ru^
@@ -1460,7 +1454,6 @@
 ||cluster.adultworld.com^
 ||clustrmaps.com^
 ||cmp.dmgmediaprivacy.co.uk^
-||cmp.osano.com^
 ||cmvrclicks000.com^
 ||cnomy.com^
 ||cnt.spbland.ru^
@@ -1476,6 +1469,7 @@
 ||colonize.com^
 ||comclick.com^
 ||comfortablecheese.com^
+||commindo-media-ressourcen.de^
 ||commissionmonster.com^
 ||commonswing.com^
 ||compactbanner.com^
@@ -1527,7 +1521,6 @@
 ||counter.yadro.ru^
 ||counters.honesty.com^
 ||counting.kmindex.ru^
-||counts.tucows.com^
 ||coupling-media.de^
 ||coxmt.com^
 ||cp.abbp1.pw^
@@ -1605,7 +1598,6 @@
 ||detailedglue.com^
 ||detailedgovernment.com^
 ||detectdiscovery.com^
-||dialerporn.com^
 ||dianomi.com^
 ||didtheyreadit.com^
 ||digital-ads.s3.amazonaws.com^
@@ -1633,6 +1625,7 @@
 ||dmtracking2.alibaba.com^
 ||do-global.com^
 ||docksalmon.com^
+||dogcollarfavourbluff.com^
 ||domaining.in^
 ||domainsponsor.com^
 ||domainsteam.de^
@@ -1675,7 +1668,6 @@
 ||economicpizzas.com^
 ||ecoupons.com^
 ||edaa.eu^
-||edgeio.com^
 ||effectivemeasure.com^
 ||effectivemeasure.net^
 ||efficaciouscactus.com^
@@ -2059,7 +2051,6 @@
 ||intelliads.com^
 ||intellitxt.com^
 ||intentmedia.com^
-||intentmedia.net^
 ||interactive.forthnet.gr^
 ||intergi.com^
 ||internetfuel.com^
@@ -2179,6 +2170,7 @@
 ||lightcushion.com^
 ||lightspeedcash.com^
 ||lijit.com^
+||line.jzs001.cn^
 ||link-booster.de^
 ||link4ads.com^
 ||linkadd.de^
@@ -2237,7 +2229,6 @@
 ||madcpms.com^
 ||madinad.com^
 ||madisonavenue.com^
-||mads.cnet.com^
 ||madvertise.de^
 ||magicadz.co^
 ||magnificentmist.com^
@@ -2509,6 +2500,7 @@
 ||openads.org^
 ||openadsnetwork.com^
 ||opentag-stats.qubit.com^
+||openx.actvtech.com^
 ||openx.angelsgroup.org.uk^
 ||openx.aosis.co.za^
 ||openx.cairo360.com^
@@ -2554,6 +2546,7 @@
 ||pagerank4you.com^
 ||pageranktop.com^
 ||paleleaf.com^
+||panickycurtain.com^
 ||paradoxfactor.com^
 ||parchedangle.com^
 ||parketsy.pro^
@@ -2609,7 +2602,6 @@
 ||pix.spot.im^
 ||pixel.adsafeprotected.com^
 ||pixel.condenastdigital.com^
-||pixel.digitru.st^
 ||pixel.keywee.co^
 ||pixel.mtrcs.samba.tv^
 ||pixel.sojern.com^
@@ -2723,6 +2715,7 @@
 ||quacksquirrel.com^
 ||quaintcan.com^
 ||quantcast.com^
+||quantcount.com^
 ||quantserve.com^
 ||quantummetric.com^
 ||quarterbean.com^
@@ -2737,6 +2730,7 @@
 ||r.msn.com^
 ||r.scoota.co^
 ||radar.cedexis.com^
+||radarurl.com^
 ||radiate.com^
 ||rads.alfamedia.pl^
 ||rads.realadmin.pl^
@@ -2801,7 +2795,6 @@
 ||relmaxtop.com^
 ||remarketingpixel.com^
 ||remistrainew.club^
-||remotead.cnet.com^
 ||remox.com^
 ||republika.onet.pl^
 ||research.de.com^
@@ -2877,6 +2870,7 @@
 ||s20dh7e9dh.com^
 ||s24hc8xzag.com^
 ||s2d6.com^
+||sa.api.intl.miui.com^
 ||sabio.us^
 ||sageanalyst.net^
 ||sail-horizon.com^
@@ -3286,6 +3280,7 @@
 ||tracking.lenddom.com^
 ||tracking.miui.com^
 ||tracking.olx-st.com^
+||tracking.orixa-media.com^
 ||tracking.publicidees.com^
 ||tracking.thinkabt.com^
 ||tracking01.walmart.com^
@@ -3388,7 +3383,6 @@
 ||uzk4umokyri3.com^
 ||v1.cnzz.com^
 ||v1adserver.com^
-||v1hcmqbaqw.ru^
 ||validclick.com^
 ||valuead.com^
 ||valueclick.com^
