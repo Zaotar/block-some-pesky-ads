@@ -1,4 +1,4 @@
-# Others 
+# Others beta
 0.0.0.0 googleadservices.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 beian.gov.cn
@@ -110,7 +110,6 @@
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 adsdk.yandex.ru
-0.0.0.0 redirect.appmetrica.yandex.ru
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 grade.market.yandex.ru
