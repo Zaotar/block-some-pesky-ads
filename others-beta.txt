@@ -14,6 +14,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 graph.facebook.com
 # mail 
 0.0.0.0 recostream.go.mail.ru
 0.0.0.0 top.mail.ru
@@ -155,6 +156,7 @@
 0.0.0.0 jstracer.yandex.ru
 0.0.0.0 m.zen.yandex.com
 0.0.0.0 jstracer.yandex.com
+0.0.0.0 trends.yandex.net
 # rambler
 0.0.0.0 cnt.rambler.ru
 0.0.0.0 counter.rambler.ru
