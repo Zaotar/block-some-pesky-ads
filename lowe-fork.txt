@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Tue, 02 Mar 2021 15:09:35 GMT
+!Last modified: Thu, 11 Mar 2021 09:09:40 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3565
+!Entries:       3567
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -25,6 +25,7 @@
 ||2o7.net^
 ||2znp09oa.com^
 ||30ads.com^
+||3337723.com^
 ||33across.com^
 ||360yield.com^
 ||3lift.com^
@@ -86,6 +87,7 @@
 ||acid-adserver.click^
 ||acridtwist.com^
 ||actionsplash.com^
+||actonsoftware.com^
 ||actualdeals.com^
 ||actuallysheep.com^
 ||actuallysnake.com^
@@ -732,7 +734,6 @@
 ||ads.yourfreedvds.com^
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
-||ads.zdnet.com^
 ||ads.zmarsa.com^
 ||ads.ztod.com^
 ||ads1-adnow.com^
@@ -809,7 +810,6 @@
 ||adserver.ekokatu.com^
 ||adserver.freecity.de^
 ||adserver.friendfinder.com^
-||adserver.hardsextube.com^
 ||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
@@ -818,7 +818,6 @@
 ||adserver.janes.com^
 ||adserver.lecool.com^
 ||adserver.libero.it^
-||adserver.madeby.ws^
 ||adserver.mobi^
 ||adserver.msmb.biz^
 ||adserver.news.com.au^
@@ -835,7 +834,6 @@
 ||adserver.sciflicks.com^
 ||adserver.scr.sk^
 ||adserver.sharewareonline.com^
-||adserver.spankaway.com^
 ||adserver.theonering.net^
 ||adserver.trojaner-info.de^
 ||adserver.twitpic.com^
@@ -981,7 +979,6 @@
 ||adzones.com^
 ||aerserv.com^
 ||af-ad.co.uk^
-||affbuzzads.com^
 ||affec.tv^
 ||affili.net^
 ||affiliate.1800flowers.com^
@@ -1028,6 +1025,7 @@
 ||alipromo.com^
 ||all4spy.com^
 ||allosponsor.com^
+||aloofvest.com^
 ||alphonso.tv^
 ||als-svc.nytimes.com^
 ||amazingcounters.com^
@@ -1075,7 +1073,6 @@
 ||anxiousapples.com^
 ||apathetictheory.com^
 ||api.intensifier.de^
-||api.jetlore.com^
 ||apolloprogram.io^
 ||app-analytics.snapchat.com^
 ||app.pendo.io^
@@ -1102,6 +1099,7 @@
 ||aswpapius.com^
 ||aswpsdkus.com^
 ||at-adserver.alltop.com^
+||at-o.net^
 ||atdmt.com^
 ||athena-ads.wikia.com^
 ||ato.mx^
@@ -1483,6 +1481,7 @@
 ||connextra.com^
 ||consciouschairs.com^
 ||consensad.com^
+||consensu.org^
 ||contadores.miarroba.com^
 ||contaxe.de^
 ||content.acc-hd.de^
@@ -1623,6 +1622,7 @@
 ||dmtracker.com^
 ||dmtracking.alibaba.com^
 ||dmtracking2.alibaba.com^
+||dnsdelegation.io^
 ||do-global.com^
 ||docksalmon.com^
 ||dogcollarfavourbluff.com^
@@ -2077,6 +2077,7 @@
 ||iyfnzgb.com^
 ||j93557g.com^
 ||jadeitite.com^
+||jads.co^
 ||jaizouji.com^
 ||jauchuwa.net^
 ||jcount.com^
@@ -2752,7 +2753,6 @@
 ||rate.ru^
 ||ratings.lycos.com^
 ||rayjump.com^
-||rb1.design.ru^
 ||re-directme.com^
 ||reachjunction.com^
 ||reactx.com^
@@ -3086,6 +3086,7 @@
 ||stickyadstv.com^
 ||stiffgame.com^
 ||storesurprise.com^
+||storetail.io^
 ||stormyachiever.com^
 ||storygize.net^
 ||stoveseashore.com^
@@ -3494,6 +3495,7 @@
 ||wirecomic.com^
 ||wisepops.com^
 ||witch-counter.de^
+||wizaly.com^
 ||wlmarketing.com^
 ||womanear.com^
 ||wonderlandads.com^
