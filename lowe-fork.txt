@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Thu, 11 Mar 2021 09:09:40 GMT
+!Last modified: Tue, 16 Mar 2021 13:51:24 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3567
+!Entries:       3561
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 !This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
 !Policy:        https://pgl.yoyo.org/adservers/policy.php
@@ -190,7 +190,6 @@
 ||ad.wsod.com^
 ||ad.wz.cz^
 ||ad.xiaomi.com^
-||ad.xmovies8.si^
 ||ad.xrea.com^
 ||ad.yadro.ru^
 ||ad.zanox.com^
@@ -818,6 +817,7 @@
 ||adserver.janes.com^
 ||adserver.lecool.com^
 ||adserver.libero.it^
+||adserver.madeby.ws^
 ||adserver.mobi^
 ||adserver.msmb.biz^
 ||adserver.news.com.au^
@@ -1113,7 +1113,6 @@
 ||audience2media.com^
 ||audienceinsights.com^
 ||audit.median.hu^
-||audit.quantcast.mgr.consensu.org^
 ||audit.webinform.hu^
 ||augur.io^
 ||auto-bannertausch.de^
@@ -1289,7 +1288,6 @@
 ||bongacash.com^
 ||boomads.com^
 ||boomtrain.com^
-||boost-my-pr.de^
 ||boredcrown.com^
 ||boringcoat.com^
 ||boudja.com^
@@ -1395,14 +1393,12 @@
 ||cjlog.com^
 ||cl0udh0st1ng.com^
 ||claria.com^
-||clearcomb.com^
 ||clevernt.com^
 ||click.a-ads.com^
 ||click.cartsguru.io^
 ||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
-||click.kmindex.ru^
 ||click.negociosdigitaisnapratica.com.br^
 ||click.twcwigs.com^
 ||click2freemoney.com^
@@ -1519,7 +1515,6 @@
 ||counter.sparklit.com^
 ||counter.yadro.ru^
 ||counters.honesty.com^
-||counting.kmindex.ru^
 ||coupling-media.de^
 ||coxmt.com^
 ||cp.abbp1.pw^
@@ -1554,6 +1549,7 @@
 ||culturedcrayon.com^
 ||cumbersomecloud.com^
 ||curtaincows.com^
+||custom.plausible.io^
 ||customad.cnn.com^
 ||cutecushion.com^
 ||cuteturkey.com^
@@ -1779,6 +1775,7 @@
 ||feebleshock.com^
 ||feedbackresearch.com^
 ||feedjit.com^
+||feedmob.com^
 ||ffxcam.fairfax.com.au^
 ||fimserve.com^
 ||findcommerce.com^
@@ -1815,7 +1812,6 @@
 ||freebanner.com^
 ||freecounterstat.com^
 ||freelogs.com^
-||freeonlineusers.com^
 ||freepay.com^
 ||freeskreen.com^
 ||freestats.com^
@@ -1896,9 +1892,7 @@
 ||gunggo.com^
 ||h-bid.com^
 ||h0.t.hubspotemail.net^
-||h3btqpy2abc3.com^
 ||h78xb.pw^
-||h92zbpn4zcv1.com^
 ||habitualhumor.com^
 ||hadskiz.com^
 ||haltingbadge.com^
@@ -2050,7 +2044,6 @@
 ||instrumentsponge.com^
 ||intelliads.com^
 ||intellitxt.com^
-||intentmedia.com^
 ||interactive.forthnet.gr^
 ||intergi.com^
 ||internetfuel.com^
@@ -2268,7 +2261,6 @@
 ||measuremap.com^
 ||media-adrunner.mycomputer.com^
 ||media-servers.net^
-||media.ftv-publicite.fr^
 ||media.funpic.de^
 ||media.net^
 ||media01.eu^
@@ -2503,7 +2495,6 @@
 ||opentag-stats.qubit.com^
 ||openx.actvtech.com^
 ||openx.angelsgroup.org.uk^
-||openx.aosis.co.za^
 ||openx.cairo360.com^
 ||openx.kgmedia.eu^
 ||openx.net^
@@ -2603,6 +2594,7 @@
 ||pix.spot.im^
 ||pixel.adsafeprotected.com^
 ||pixel.condenastdigital.com^
+||pixel.digitru.st^
 ||pixel.keywee.co^
 ||pixel.mtrcs.samba.tv^
 ||pixel.sojern.com^
@@ -3128,6 +3120,7 @@
 ||taboola.com^
 ||tag.links-analytics.com^
 ||tagan.adlightning.com^
+||tagcommander.com^
 ||tagger.opecloud.com^
 ||tags.tiqcdn.com^
 ||tagular.com^
@@ -3316,6 +3309,7 @@
 ||traktrafficflow.com^
 ||tranquilside.com^
 ||travis.bosscasinos.com^
+||trck.a8.net^
 ||trcking4wdm.de^
 ||trcklion.com^
 ||treasuredata.com^
@@ -3432,6 +3426,7 @@
 ||voodoo-ads.io^
 ||vpon.com^
 ||vrs.cz^
+||vrtzcontextualads.com^
 ||vs.tucows.com^
 ||vtracy.de^
 ||vungle.com^
@@ -3552,7 +3547,6 @@
 ||yoggrt.com^
 ||ypu.samsungelectronics.com^
 ||z3dmbpl6309s.com^
-||z501lpfg9x8v.com^
 ||z5x.net^
 ||zangocash.com^
 ||zanox-affiliate.de^
