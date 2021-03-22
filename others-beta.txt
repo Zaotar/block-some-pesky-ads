@@ -15,6 +15,10 @@
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 notify.bugsnag.com
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 api.bugsnag.com
 # mail 
 0.0.0.0 recostream.go.mail.ru
 0.0.0.0 top.mail.ru
