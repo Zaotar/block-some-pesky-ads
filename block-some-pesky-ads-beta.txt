@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 3.1.1
-! Last modified: 14 Feb 2021
+! Version: 3.2.1
+! Last modified: 1 Apr 2021
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
@@ -149,6 +149,7 @@ ixbt.com##div[class^="clickable_zone"]
 /multyadv.js$domain=ixbt.com
 ||ixbt.com/branding/
 ||rose.ixbt.com/banner/
+www.ixbt.com###m-10
 !
 ! Mail.ru
 !
@@ -184,12 +185,15 @@ news.mail.ru##.p-directhack
 games.mail.ru###modal-root
 hi-tech.mail.ru##.tooltip__box
 news.mail.ru##.tooltip_width_huge.tooltip_collapse.tooltip_shown.tooltip_positioned.tooltip_arrow_top-left.tooltip > .tooltip__box
-! Coronavirus module
-news.mail.ru##.js-module.p-coronavirus-chart
-news.mail.ru##.margin_bottom_20.p-warning_corona.p-warning
-news.mail.ru##.margin_bottom_20.box_coronavirus-banner.box_relative.box_collapse.box
 sportmail.ru##.article__container
 games.mail.ru##.link-game
+news.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
+sportmail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
+auto.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
+kino.mail.ru##.js-article-swipe__banner.m-component-slot_plug-x250.js-module
+hi-tech.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
+deti.mail.ru##.m-component-slot_plug-x250.popup-shown__hide.js-module
+health.mail.ru##.js-article-swipe__banner.m-component-slot_plug-x250.js-module.health-slot_empty_visible.health-slot
 !
 ! Yandex
 !
