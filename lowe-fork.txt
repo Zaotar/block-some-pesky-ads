@@ -1,14 +1,10 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Tue, 16 Mar 2021 13:51:24 GMT
+!Last modified: Fri, 02 Apr 2021 11:10:55 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3561
+!Entries:       3568
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
-!This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
-!Policy:        https://pgl.yoyo.org/adservers/policy.php
-!Other formats: https://pgl.yoyo.org/adservers/formats.php
-!
 ||1-1ads.com^
 ||101com.com^
 ||101order.com^
@@ -171,7 +167,6 @@
 ||ad.prv.pl^
 ||ad.reunion.com^
 ||ad.sensismediasmart.com.au^
-||ad.seznam.cz^
 ||ad.simflight.com^
 ||ad.simgames.net^
 ||ad.style^
@@ -265,7 +260,6 @@
 ||adform.com^
 ||adform.net^
 ||adformdsp.net^
-||adfries.info^
 ||adfs.senacrs.com.br^
 ||adgardener.com^
 ||adgoto.com^
@@ -456,6 +450,7 @@
 ||ads.cybersales.cz^
 ||ads.dada.it^
 ||ads.dailycamera.com^
+||ads.datingyes.com^
 ||ads.delfin.bg^
 ||ads.deltha.hu^
 ||ads.dennisnet.co.uk^
@@ -638,7 +633,6 @@
 ||ads.programattik.com^
 ||ads.psd2html.com^
 ||ads.pushplay.com^
-||ads.quasaraffiliates.com^
 ||ads.quoka.de^
 ||ads.radialserver.com^
 ||ads.radio1.lv^
@@ -909,7 +903,6 @@
 ||adtilt.com^
 ||adtng.com^
 ||adtology.com^
-||adtoma.com^
 ||adtrace.org^
 ||adtrade.net^
 ||adtrak.net^
@@ -1035,7 +1028,6 @@
 ||americash.com^
 ||amplitude.com^
 ||amung.us^
-||analyticin.online^
 ||analytics-production.hapyak.com^
 ||analytics.adpost.org^
 ||analytics.bitrix.info^
@@ -1073,6 +1065,7 @@
 ||anxiousapples.com^
 ||apathetictheory.com^
 ||api.intensifier.de^
+||api.kameleoon.com^
 ||apolloprogram.io^
 ||app-analytics.snapchat.com^
 ||app.pendo.io^
@@ -1372,7 +1365,6 @@
 ||cgicounter.puretec.de^
 ||chairscrack.com^
 ||chameleon.ad^
-||channel1vids.com^
 ||channelintelligence.com^
 ||chardwardse.club^
 ||chart.dk^
@@ -1399,7 +1391,9 @@
 ||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
+||click.kmindex.ru^
 ||click.negociosdigitaisnapratica.com.br^
+||click.redditmail.com^
 ||click.twcwigs.com^
 ||click2freemoney.com^
 ||clickability.com^
@@ -1515,6 +1509,7 @@
 ||counter.sparklit.com^
 ||counter.yadro.ru^
 ||counters.honesty.com^
+||counting.kmindex.ru^
 ||coupling-media.de^
 ||coxmt.com^
 ||cp.abbp1.pw^
@@ -1551,6 +1546,7 @@
 ||curtaincows.com^
 ||custom.plausible.io^
 ||customad.cnn.com^
+||customers.kameleoon.com^
 ||cutecushion.com^
 ||cuteturkey.com^
 ||cxense.com^
@@ -1558,6 +1554,7 @@
 ||d.adroll.com^
 ||d2cmedia.ca^
 ||dabiaozhi.com^
+||dacdn.visualwebsiteoptimizer.com^
 ||dakic-ia-300.com^
 ||damdoor.com^
 ||dancemistake.com^
@@ -1593,6 +1590,7 @@
 ||detailedglue.com^
 ||detailedgovernment.com^
 ||detectdiscovery.com^
+||dev.visualwebsiteoptimizer.com^
 ||dianomi.com^
 ||didtheyreadit.com^
 ||digital-ads.s3.amazonaws.com^
@@ -1757,6 +1755,7 @@
 ||facilitategrandfather.com^
 ||fadedprofit.com^
 ||fadedsnow.com^
+||fallaciousfifth.com^
 ||famousquarter.com^
 ||faracoon.com^
 ||farethief.com^
@@ -2090,7 +2089,7 @@
 ||justrelevant.com^
 ||justuno.com^
 ||k.iinfo.cz^
-||kameleoon.com^
+||kameleoon.eu^
 ||kanoodle.com^
 ||kargo.com^
 ||karonty.com^
@@ -2249,6 +2248,7 @@
 ||matheranalytics.com^
 ||mathtag.com^
 ||matomo.activate.cz^
+||matomo.hdweb.ru^
 ||matomo.kmkb.ru^
 ||mautic.com^
 ||max.i12.de^
@@ -3047,6 +3047,7 @@
 ||static.a-ads.com^
 ||static.fmpub.net^
 ||static.itrack.it^
+||static.kameleoon.com^
 ||staticads.btopenworld.com^
 ||statistik-gallup.net^
 ||statm.the-adult-company.com^
@@ -3405,6 +3406,7 @@
 ||videoamp.com^
 ||videoegg.com^
 ||videostats.kakao.com^
+||vidible.tv^
 ||vidora.com^
 ||view4cash.de^
 ||viglink.com^
@@ -3435,6 +3437,7 @@
 ||wa.and.co.uk^
 ||waardex.com^
 ||warlog.ru^
+||warmafterthought.com^
 ||waryfog.com^
 ||wateryvan.com^
 ||wd-track.de^
