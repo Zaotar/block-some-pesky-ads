@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Fri, 02 Apr 2021 11:10:55 GMT
+!Last modified: Fri, 16 Apr 2021 14:04:06 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3568
+!Entries:       3581
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
 ||1-1ads.com^
 ||101com.com^
@@ -151,7 +151,6 @@
 ||ad.media-servers.net^
 ||ad.mediastorm.hu^
 ||ad.mg^
-||ad.mgd.de^
 ||ad.mobstazinc.cn^
 ||ad.musicmatch.com^
 ||ad.myapple.pl^
@@ -185,6 +184,7 @@
 ||ad.wsod.com^
 ||ad.wz.cz^
 ||ad.xiaomi.com^
+||ad.xmovies8.si^
 ||ad.xrea.com^
 ||ad.yadro.ru^
 ||ad.zanox.com^
@@ -379,6 +379,7 @@
 ||ads.5ci.lt^
 ||ads.5min.at^
 ||ads.73dpi.com^
+||ads.a-snag-smartmoney.fyi^
 ||ads.aavv.com^
 ||ads.abovetopsecret.com^
 ||ads.aceweb.net^
@@ -616,6 +617,7 @@
 ||ads.oxyshop.cz^
 ||ads.passion.com^
 ||ads.pennet.com^
+||ads.pexi.nl^
 ||ads.pfl.ua^
 ||ads.phpclasses.org^
 ||ads.pinterest.com^
@@ -743,7 +745,6 @@
 ||ads2.gamecity.net^
 ||ads2.net-communities.co.uk^
 ||ads2.oneplace.com^
-||ads2.opensubtitles.org^
 ||ads2.rne.com^
 ||ads2.techads.info^
 ||ads2.virtual-nights.com^
@@ -903,6 +904,7 @@
 ||adtilt.com^
 ||adtng.com^
 ||adtology.com^
+||adtoma.com^
 ||adtrace.org^
 ||adtrade.net^
 ||adtrak.net^
@@ -917,6 +919,7 @@
 ||adv.livedoor.com^
 ||adv.mezon.ru^
 ||adv.mpvc.it^
+||adv.neverbuy.com^
 ||adv.nexthardware.com^
 ||adv.webmd.com^
 ||adv.wp.pl^
@@ -970,6 +973,7 @@
 ||adzestocp.com^
 ||adzone.temp.co.za^
 ||adzones.com^
+||adzrevads.com^
 ||aerserv.com^
 ||af-ad.co.uk^
 ||affec.tv^
@@ -1030,6 +1034,7 @@
 ||amung.us^
 ||analytics-production.hapyak.com^
 ||analytics.adpost.org^
+||analytics.algoepico.net^
 ||analytics.bitrix.info^
 ||analytics.cloudron.io^
 ||analytics.cohesionapps.com^
@@ -1041,6 +1046,7 @@
 ||analytics.icons8.com^
 ||analytics.inlinemanual.com^
 ||analytics.jst.ai^
+||analytics.justuno.com^
 ||analytics.live.com^
 ||analytics.mailmunch.co^
 ||analytics.myfinance.com^
@@ -1182,7 +1188,6 @@
 ||banners.czi.cz^
 ||banners.dine.com^
 ||banners.direction-x.com^
-||banners.freett.com^
 ||banners.friendfinder.com^
 ||banners.getiton.com^
 ||banners.golfasian.com^
@@ -1281,6 +1286,7 @@
 ||bongacash.com^
 ||boomads.com^
 ||boomtrain.com^
+||boost-my-pr.de^
 ||boredcrown.com^
 ||boringcoat.com^
 ||boudja.com^
@@ -1341,7 +1347,6 @@
 ||cashengines.com^
 ||cashfiesta.com^
 ||cashpartner.com^
-||cashstaging.app^
 ||cashstaging.me^
 ||casinopays.com^
 ||casinorewards.com^
@@ -1379,6 +1384,7 @@
 ||chinsnakes.com^
 ||chitika.net^
 ||cision.com^
+||citrusad.net^
 ||cityads.telus.net^
 ||cj.com^
 ||cjbmanagement.com^
@@ -1436,6 +1442,7 @@
 ||clk1015.com^
 ||clkrev.com^
 ||clksite.com^
+||clktrx.com^
 ||cloisteredhydrant.com^
 ||cloudcoins.biz^
 ||clrstm.com^
@@ -1555,6 +1562,7 @@
 ||d2cmedia.ca^
 ||dabiaozhi.com^
 ||dacdn.visualwebsiteoptimizer.com^
+||dacdn.vwo.com^
 ||dakic-ia-300.com^
 ||damdoor.com^
 ||dancemistake.com^
@@ -1811,6 +1819,7 @@
 ||freebanner.com^
 ||freecounterstat.com^
 ||freelogs.com^
+||freeonlineusers.com^
 ||freepay.com^
 ||freeskreen.com^
 ||freestats.com^
@@ -1967,7 +1976,6 @@
 ||hyperbanner.net^
 ||hypertracker.com^
 ||hyprmx.com^
-||hyros.com^
 ||hystericalhelp.com^
 ||i-clicks.net^
 ||i-i.lt^
@@ -2087,7 +2095,6 @@
 ||justicejudo.com^
 ||justpremium.com^
 ||justrelevant.com^
-||justuno.com^
 ||k.iinfo.cz^
 ||kameleoon.eu^
 ||kanoodle.com^
@@ -2384,6 +2391,7 @@
 ||mystat.pl^
 ||mysteriousmonth.com^
 ||mytop-in.net^
+||mytrackingservers.com^
 ||myvisualiq.net^
 ||n69.com^
 ||naj.sk^
@@ -2394,7 +2402,6 @@
 ||navegg.com^
 ||navigator.io^
 ||navrcholu.cz^
-||nbjmp.com^
 ||ncaudienceexchange.com^
 ||ndparking.com^
 ||nedstatbasic.net^
@@ -2481,7 +2488,6 @@
 ||online-metrix.net^
 ||online.miarroba.com^
 ||onlinecash.com^
-||onlinecashmethod.com^
 ||onlinerewardcenter.com^
 ||onscroll.com^
 ||onthe.io^
@@ -2722,6 +2728,9 @@
 ||r.logrocket.io^
 ||r.msn.com^
 ||r.scoota.co^
+||r1.visualwebsiteoptimizer.com^
+||r2.visualwebsiteoptimizer.com^
+||r3.visualwebsiteoptimizer.com^
 ||radar.cedexis.com^
 ||radarurl.com^
 ||radiate.com^
@@ -2761,6 +2770,7 @@
 ||realtechnetwork.com^
 ||realtracker.com^
 ||rebelsubway.com^
+||rec5.visualwebsiteoptimizer.com^
 ||receptiveink.com^
 ||receptivereaction.com^
 ||recoco.it^
@@ -2785,7 +2795,6 @@
 ||reklame.unwired-i.net^
 ||relevanz10.de^
 ||relmaxtop.com^
-||remarketingpixel.com^
 ||remistrainew.club^
 ||remox.com^
 ||republika.onet.pl^
@@ -3108,6 +3117,7 @@
 ||supertracking.net^
 ||supply.colossusssp.com^
 ||surfmusik-adserver.de^
+||surveygizmobeacon.s3.amazonaws.com^
 ||sw88.espn.com^
 ||swan-swan-goose.com^
 ||swimslope.com^
@@ -3142,6 +3152,7 @@
 ||target.microsoft.com^
 ||targeting.api.drift.com^
 ||targeting.nzme.arcpublishing.com^
+||targeting.voxus.tv^
 ||targetingnow.com^
 ||targetnet.com^
 ||targetpoint.com^
@@ -3179,6 +3190,7 @@
 ||themoneytizer.com^
 ||therapistla.com^
 ||thinkablerice.com^
+||thirdparty.bnc.lt^
 ||thirdrespect.com^
 ||thirstytwig.com^
 ||thomastorch.com^
@@ -3188,6 +3200,7 @@
 ||thruport.com^
 ||ti.domainforlite.com^
 ||tia.timeinc.net^
+||ticketaunt.com^
 ||ticklesign.com^
 ||ticksel.com^
 ||tidaltv.com^
@@ -3268,11 +3281,13 @@
 ||tracking.5-47737-bi.co.uk^
 ||tracking.epicgames.com^
 ||tracking.gajmp.com^
+||tracking.hyros.com^
 ||tracking.ibxlink.com^
 ||tracking.internetstores.de^
 ||tracking.intl.miui.com^
 ||tracking.jiffyworld.com^
 ||tracking.lenddom.com^
+||tracking.markethero.io^
 ||tracking.miui.com^
 ||tracking.olx-st.com^
 ||tracking.orixa-media.com^
@@ -3281,7 +3296,6 @@
 ||tracking01.walmart.com^
 ||tracking101.com^
 ||tracking22.com^
-||trackingfestival.com^
 ||trackingsoft.com^
 ||tracklink-tel.de^
 ||trackmysales.com^
@@ -3432,7 +3446,6 @@
 ||vs.tucows.com^
 ||vtracy.de^
 ||vungle.com^
-||vwo.com^
 ||w55c.net^
 ||wa.and.co.uk^
 ||waardex.com^
