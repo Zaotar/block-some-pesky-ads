@@ -187,7 +187,6 @@ games.mail.ru##.link-game
 news.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 sportmail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 auto.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
-tv.mail.ru##.js-article-swipe__banner.m-component-slot_plug-x250.js-module.health-slot_empty_visible.health-slot
 kino.mail.ru##.js-article-swipe__banner.m-component-slot_plug-x250.js-module
 hi-tech.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 deti.mail.ru##.m-component-slot_plug-x250.popup-shown__hide.js-module
