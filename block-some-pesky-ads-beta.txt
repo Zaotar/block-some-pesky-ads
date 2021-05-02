@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 3.2.3
-! Last modified: 10 Apr 2021
+! Version: 3.2.4
+! Last modified: 2 May 2021
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
@@ -130,6 +130,7 @@ m.habr.com##.tm-articles-list__promo-block.tm-promo-block
 3dnews.ru##.at-share-btn-elements
 3dnews.ru###youtube-chunk-wrapper
 3dnews.ru###aio_rollup_container_id
+3dnews.ru##.bn-Interscroller-window
 !
 ! IXBT
 !
@@ -191,6 +192,8 @@ kino.mail.ru##.js-article-swipe__banner.m-component-slot_plug-x250.js-module
 hi-tech.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 deti.mail.ru##.m-component-slot_plug-x250.popup-shown__hide.js-module
 health.mail.ru##.js-article-swipe__banner.m-component-slot_plug-x250.js-module.health-slot_empty_visible.health-slot
+tv.mail.ru##.m-component-slot_plug-x250.js-module
+pogoda.mail.ru##.m-component-slot_plug-x250.js-module.p-rb-slot
 !
 ! Yandex
 !
