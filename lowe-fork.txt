@@ -1,10 +1,13 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Sat, 05 Jun 2021 10:25:02 GMT
+!Last modified: Fri, 25 Jun 2021 13:32:59 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3631
+!Entries:       3627
 !Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
+!This URL:      https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus
+!Policy:        https://pgl.yoyo.org/adservers/policy.php
+!Other formats: https://pgl.yoyo.org/adservers/formats.php
 !
 ||1-1ads.com^
 ||101com.com^
@@ -70,6 +73,7 @@
 ||abackchain.com^
 ||abandonedaction.com^
 ||abc-ads.com^
+||ablink.comms.trainline.com^
 ||aboardlevel.com^
 ||aboutads.gr^
 ||abruptroad.com^
@@ -174,7 +178,6 @@
 ||ad.tapthislink.com^
 ||ad.tbn.ru^
 ||ad.technoratimedia.com^
-||ad.thewheelof.com^
 ||ad.turn.com^
 ||ad.tv2.no^
 ||ad.universcine.com^
@@ -466,7 +469,6 @@
 ||ads.digitalpoint.com^
 ||ads.directionsmag.com^
 ||ads.doit.com.cn^
-||ads.domain.com^
 ||ads.domeus.com^
 ||ads.dtpnetwork.biz^
 ||ads.eagletribune.com^
@@ -562,7 +564,6 @@
 ||ads.kompass.com^
 ||ads.krawall.de^
 ||ads.lapalingo.com^
-||ads.larryaffiliates.com^
 ||ads.leovegas.com^
 ||ads.lesbianpersonals.com^
 ||ads.liberte.pl^
@@ -809,6 +810,7 @@
 ||adserver.ekokatu.com^
 ||adserver.freecity.de^
 ||adserver.friendfinder.com^
+||adserver.generationiron.com^
 ||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
@@ -1141,7 +1143,6 @@
 ||ay.delivery^
 ||aztracking.net^
 ||ba.afl.rakuten.co.jp^
-||babs.tv2.dk^
 ||backbeatmedia.com^
 ||balloontexture.com^
 ||banik.redigy.cz^
@@ -1161,6 +1162,7 @@
 ||banner.goldenpalace.com^
 ||banner.icmedia.eu^
 ||banner.img.co.za^
+||banner.interich.com^
 ||banner.inyourpocket.com^
 ||banner.kiev.ua^
 ||banner.linux.se^
@@ -1409,11 +1411,11 @@
 ||claria.com^
 ||clevernt.com^
 ||click.a-ads.com^
+||click.airmalta-mail.com^
 ||click.cartsguru.io^
 ||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
-||click.kmindex.ru^
 ||click.negociosdigitaisnapratica.com.br^
 ||click.redditmail.com^
 ||click.twcwigs.com^
@@ -1449,6 +1451,7 @@
 ||clickxchange.com^
 ||clickyab.com^
 ||clickz.com^
+||clientgear.com^
 ||clientmetrics-pa.googleapis.com^
 ||clikerz.net^
 ||cliksolution.com^
@@ -1473,7 +1476,6 @@
 ||code-server.biz^
 ||codeadnetwork.com^
 ||cognitiv.ai^
-||cognitiveadscience.com^
 ||coin-hive.com^
 ||coinhive.com^
 ||cointraffic.io^
@@ -1533,7 +1535,6 @@
 ||counter.sparklit.com^
 ||counter.yadro.ru^
 ||counters.honesty.com^
-||counting.kmindex.ru^
 ||coupling-media.de^
 ||coxmt.com^
 ||cp.abbp1.pw^
@@ -1573,6 +1574,7 @@
 ||custom.plausible.io^
 ||customad.cnn.com^
 ||customers.kameleoon.com^
+||cutechin.com^
 ||cutecushion.com^
 ||cuteturkey.com^
 ||cxense.com^
@@ -1702,6 +1704,7 @@
 ||elitedollars.com^
 ||elitetoplist.com^
 ||elthamely.com^
+||em1.yoursantander.co.uk^
 ||emarketer.com^
 ||emebo.com^
 ||emebo.io^
@@ -1716,6 +1719,7 @@
 ||endurableshop.com^
 ||energeticladybug.com^
 ||engage.dnsfilter.com^
+||engage.webshrinker.com^
 ||engagebdr.com^
 ||engine.espace.netavenir.com^
 ||enginenetwork.com^
@@ -1794,7 +1798,6 @@
 ||fastclick.com^
 ||fastclick.com.edgesuite.net^
 ||fastclick.net^
-||fastgetsoftware.com^
 ||fastly-insights.com^
 ||faultycanvas.com^
 ||faultyfowl.com^
@@ -1872,6 +1875,7 @@
 ||gamesites100.net^
 ||gamesites200.com^
 ||gammamaximum.com^
+||gaug.es^
 ||gearwom.de^
 ||gekko.spiceworks.com^
 ||geo.digitalpoint.com^
@@ -2011,12 +2015,10 @@
 ||iadnet.com^
 ||iasds01.com^
 ||ibillboard.com^
-||iconadserver.com^
 ||iconpeak2trk.com^
 ||icptrack.com^
 ||id5-sync.com^
 ||idealadvertising.net^
-||identads.com^
 ||idevaffiliate.com^
 ||idtargeting.com^
 ||ientrymail.com^
@@ -2124,7 +2126,6 @@
 ||kameleoon.eu^
 ||kanoodle.com^
 ||kargo.com^
-||karonty.com^
 ||keymedia.hu^
 ||kindads.com^
 ||kissmetrics.com^
@@ -2156,6 +2157,7 @@
 ||launchbit.com^
 ||layer-ad.de^
 ||layer-ads.de^
+||lbn.ru^
 ||lead-analytics.nl^
 ||leadboltads.net^
 ||leadclick.com^
@@ -2259,7 +2261,6 @@
 ||magicadz.co^
 ||magnificentmist.com^
 ||mail-ads.google.com^
-||malaysia-online-bank-kasino.com^
 ||manageadv.cblogs.eu^
 ||marchex.com^
 ||marinsm.com^
@@ -2413,7 +2414,6 @@
 ||mycounter.ua^
 ||mydas.mobi^
 ||mylink-today.com^
-||mymoneymakingapp.com^
 ||mypagerank.net^
 ||mypagerank.ru^
 ||mypowermall.com^
@@ -2496,6 +2496,7 @@
 ||obscenesidewalk.com^
 ||observantice.com^
 ||oclasrv.com^
+||odbierz-bony.ovp.pl^
 ||oewa.at^
 ||offaces-butional.com^
 ||offer.fyber.com^
@@ -2589,7 +2590,6 @@
 ||partnercash.de^
 ||partners.priceline.com^
 ||passeura.com^
-||passion-4.net^
 ||paycounter.com^
 ||paypopup.com^
 ||pbnet.ru^
@@ -2638,6 +2638,7 @@
 ||pixel.watch^
 ||pixel.yabidos.com^
 ||placed.com^
+||plausibleio.workers.dev^
 ||play4traffic.com^
 ||playhaven.com^
 ||pleasantpump.com^
@@ -2655,7 +2656,6 @@
 ||popup.msn.com^
 ||popupmoney.com^
 ||popupnation.com^
-||popups.infostart.com^
 ||popuptraffic.com^
 ||porngraph.com^
 ||porntrack.com^
@@ -3293,7 +3293,6 @@
 ||track.gawker.com^
 ||track.hexcan.com^
 ||track.mailerlite.com^
-||track.nuxues.com^
 ||track.themaccleanup.info^
 ||track.tkbo.com^
 ||track.ultravpn.com^
