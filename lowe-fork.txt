@@ -1,10 +1,11 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Fri, 25 Jun 2021 13:32:59 GMT
+!Last modified: Thu, 29 Jul 2021 09:04:19 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3627
-!Credits:       Peter Lowe - pgl@yoyo.org - pgl on github - https://pgl.yoyo.org/
+!Entries:       3620
+!Credits:       Peter Lowe
+!
 ||1-1ads.com^
 ||101com.com^
 ||101order.com^
@@ -133,7 +134,6 @@
 ||ad.exyws.org^
 ||ad.flurry.com^
 ||ad.foxnetworks.com^
-||ad.freecity.de^
 ||ad.grafika.cz^
 ||ad.gt^
 ||ad.hbv.de^
@@ -368,6 +368,7 @@
 ||adreporting.com^
 ||adrevolver.com^
 ||adriver.ru^
+||adrolays.de^
 ||adrotate.de^
 ||adrotic.girlonthenet.com^
 ||adrta.com^
@@ -498,7 +499,6 @@
 ||ads.fortunecity.com^
 ||ads.fotosidan.se^
 ||ads.foxnetworks.com^
-||ads.freecity.de^
 ||ads.friendfinder.com^
 ||ads.gamecity.net^
 ||ads.gamershell.com^
@@ -506,7 +506,6 @@
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
 ||ads.gaming1.com^
-||ads.gawker.com^
 ||ads.gaypoint.hu^
 ||ads.geekswithblogs.net^
 ||ads.getlucky.com^
@@ -531,6 +530,7 @@
 ||ads.hollywood.com^
 ||ads.horsehero.com^
 ||ads.horyzon-media.com^
+||ads.hsoub.com^
 ||ads.ibest.com.br^
 ||ads.ibryte.com^
 ||ads.icq.com^
@@ -616,6 +616,7 @@
 ||ads.outpersonals.com^
 ||ads.oxyshop.cz^
 ||ads.passion.com^
+||ads.paymonex.net^
 ||ads.pennet.com^
 ||ads.pexi.nl^
 ||ads.pfl.ua^
@@ -744,6 +745,7 @@
 ||ads2.contentabc.com^
 ||ads2.femmefab.nl^
 ||ads2.gamecity.net^
+||ads2.hsoub.com^
 ||ads2.net-communities.co.uk^
 ||ads2.oneplace.com^
 ||ads2.rne.com^
@@ -804,9 +806,9 @@
 ||adserver.digitoday.com^
 ||adserver.echdk.pl^
 ||adserver.ekokatu.com^
-||adserver.freecity.de^
 ||adserver.friendfinder.com^
 ||adserver.generationiron.com^
+||adserver.gilligan.tech^
 ||adserver.html.it^
 ||adserver.hwupgrade.it^
 ||adserver.ilango.de^
@@ -832,8 +834,10 @@
 ||adserver.sciflicks.com^
 ||adserver.scr.sk^
 ||adserver.sharewareonline.com^
+||adserver.smgfiles.com^
 ||adserver.theonering.net^
 ||adserver.trojaner-info.de^
+||adserver.tupolska.com^
 ||adserver.twitpic.com^
 ||adserver.virginmedia.com^
 ||adserver.yahoo.com^
@@ -910,7 +914,6 @@
 ||adtoma.com^
 ||adtrace.org^
 ||adtrade.net^
-||adtrak.net^
 ||adtriplex.com^
 ||adultadvertising.com^
 ||adv-adserver.com^
@@ -1017,7 +1020,6 @@
 ||alchemist.go2cloud.org^
 ||alclick.com^
 ||alenty.com^
-||alert.com.mt^
 ||alertafterthought.com^
 ||alexa-sitestats.s3.amazonaws.com^
 ||alexametrics.com^
@@ -1043,6 +1045,7 @@
 ||analytics.cloudron.io^
 ||analytics.cohesionapps.com^
 ||analytics.dnsfilter.com^
+||analytics.emarketer.com^
 ||analytics.ext.go-tellm.com^
 ||analytics.fkz.re^
 ||analytics.google.com^
@@ -1079,6 +1082,7 @@
 ||anuncios.edicaoms.com.br^
 ||anxiousapples.com^
 ||apathetictheory.com^
+||api.amplitude.com^
 ||api.intensifier.de^
 ||api.kameleoon.com^
 ||apolloprogram.io^
@@ -1412,6 +1416,7 @@
 ||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
+||click.kmindex.ru^
 ||click.negociosdigitaisnapratica.com.br^
 ||click.redditmail.com^
 ||click.twcwigs.com^
@@ -1460,6 +1465,7 @@
 ||clktrx.com^
 ||cloisteredhydrant.com^
 ||cloudcoins.biz^
+||cloudflareinsights.com^
 ||clrstm.com^
 ||cluster.adultworld.com^
 ||clustrmaps.com^
@@ -1531,6 +1537,7 @@
 ||counter.sparklit.com^
 ||counter.yadro.ru^
 ||counters.honesty.com^
+||counting.kmindex.ru^
 ||coupling-media.de^
 ||coxmt.com^
 ||cp.abbp1.pw^
@@ -1546,6 +1553,7 @@
 ||craktraffic.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
+||cratecamera.com^
 ||crawlability.com^
 ||crawlclocks.com^
 ||crazyegg.com^
@@ -1630,7 +1638,6 @@
 ||discountclick.com^
 ||discreetfield.com^
 ||dispensablestranger.com^
-||displayadsmedia.com^
 ||disqusads.com^
 ||dist.belnk.com^
 ||distillery.wistia.com^
@@ -1701,7 +1708,6 @@
 ||elitetoplist.com^
 ||elthamely.com^
 ||em1.yoursantander.co.uk^
-||emarketer.com^
 ||emebo.com^
 ||emebo.io^
 ||emerse.com^
@@ -1716,6 +1722,7 @@
 ||energeticladybug.com^
 ||engage.dnsfilter.com^
 ||engage.webshrinker.com^
+||engage.windows.com^
 ||engagebdr.com^
 ||engine.espace.netavenir.com^
 ||enginenetwork.com^
@@ -2091,7 +2098,6 @@
 ||irchan.com^
 ||ireklama.cz^
 ||is-tracking-pixel-api-prod.appspot.com^
-||itfarm.com^
 ||itop.cz^
 ||its-that-easy.com^
 ||itsptp.com^
@@ -2122,6 +2128,7 @@
 ||kameleoon.eu^
 ||kanoodle.com^
 ||kargo.com^
+||karonty.com^
 ||keymedia.hu^
 ||kindads.com^
 ||kissmetrics.com^
@@ -2142,8 +2149,6 @@
 ||kubient.com^
 ||l1.britannica.com^
 ||l6b587txj1.com^
-||ladsreds.com^
-||ladsup.com^
 ||lakequincy.com^
 ||lameletters.com^
 ||lanistaads.com^
@@ -2164,7 +2169,6 @@
 ||leaplunchroom.com^
 ||lemmatechnologies.com^
 ||lettucelimit.com^
-||levelrate.de^
 ||lever-analytics.com^
 ||lfeeder.com^
 ||lfstmedia.com^
@@ -2425,7 +2429,6 @@
 ||naradxb.com^
 ||nastydollars.com^
 ||nativeroll.tv^
-||naturalbid.com^
 ||navegg.com^
 ||navigator.io^
 ||navrcholu.cz^
@@ -2565,7 +2568,6 @@
 ||p.nag.ru^
 ||p2r14.com^
 ||padsbrown.com^
-||padssup.com^
 ||pagead.l.google.com^
 ||pagefair.com^
 ||pagefair.net^
@@ -2653,7 +2655,6 @@
 ||popupmoney.com^
 ||popupnation.com^
 ||popuptraffic.com^
-||porngraph.com^
 ||porntrack.com^
 ||possessivebucket.com^
 ||possibleboats.com^
@@ -2836,7 +2837,6 @@
 ||revcatch.com^
 ||revcontent.com^
 ||reveal.clearbit.com^
-||revenue.net^
 ||revenuedirect.com^
 ||revenuehits.com^
 ||revive.docmatic.org^
@@ -2897,7 +2897,6 @@
 ||s.adroll.com^
 ||s1-adfly.com^
 ||s20dh7e9dh.com^
-||s24hc8xzag.com^
 ||s2d6.com^
 ||sa.api.intl.miui.com^
 ||sabio.us^
@@ -2954,6 +2953,7 @@
 ||sexinyourcity.com^
 ||sexlist.com^
 ||sextracker.com^
+||shakegoldfish.com^
 ||shakesea.com^
 ||shakesuggestion.com^
 ||shakytaste.com^
@@ -3015,7 +3015,6 @@
 ||smilingwaves.com^
 ||smrtb.com^
 ||snapads.com^
-||sneakystamp.com^
 ||snoobi.com^
 ||socialspark.com^
 ||softclick.com.br^
@@ -3238,6 +3237,7 @@
 ||ticketaunt.com^
 ||ticklesign.com^
 ||ticksel.com^
+||tics.techdirt.com^
 ||tidaltv.com^
 ||tidint.pro^
 ||tinybar.com^
@@ -3286,13 +3286,11 @@
 ||track.flexlinkspro.com^
 ||track.freemmo2017.com^
 ||track.game18click.com^
-||track.gawker.com^
 ||track.hexcan.com^
 ||track.mailerlite.com^
 ||track.themaccleanup.info^
 ||track.tkbo.com^
 ||track.ultravpn.com^
-||track.undressingpics.work^
 ||track.unear.net^
 ||track.vcdc.com^
 ||track.viewdeos.com^
@@ -3322,7 +3320,6 @@
 ||tracking.internetstores.de^
 ||tracking.intl.miui.com^
 ||tracking.jiffyworld.com^
-||tracking.lenddom.com^
 ||tracking.markethero.io^
 ||tracking.miui.com^
 ||tracking.olx-st.com^
@@ -3374,7 +3371,6 @@
 ||trickycelery.com^
 ||triplelift.com^
 ||triptease.io^
-||trix.net^
 ||trk.bc.shutterfly.com^
 ||trk.bee-data.com^
 ||trk.enemy-adult-scared-there.xyz^
@@ -3540,7 +3536,6 @@
 ||whispa.com^
 ||whisperingcrib.com^
 ||whoisonline.net^
-||wholesaletraffic.info^
 ||widespace.com^
 ||widget.privy.com^
 ||widgetbucks.com^
@@ -3630,5 +3625,4 @@
 ||zpu.samsungelectronics.com^
 ||zqtk.net^
 ||zukxd6fkxqn.com^
-||zy16eoat1w.com^
 ||zzhc.vnet.cn^
