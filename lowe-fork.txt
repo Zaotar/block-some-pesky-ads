@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Wed, 11 Aug 2021 08:07:57 GMT
+!Last modified: Mon, 23 Aug 2021 07:18:46 GMT
 !Homepage:      https://pgl.yoyo.org/adservers/
 !Format:        adblockplus
-!Entries:       3627
+!Entries:       3622
 !Credits:       Peter Lowe
 !
 ||1-1ads.com^
@@ -32,7 +32,6 @@
 ||4jnzhl0d0.com^
 ||50websads.com^
 ||518ad.com^
-||51yes.com^
 ||5ijo.01net.com^
 ||5mcwl.pw^
 ||6ldu6qa.com^
@@ -103,7 +102,6 @@
 ||ad-space.net^
 ||ad-tech.com^
 ||ad-up.com^
-||ad.100.tbn.ru^
 ||ad.71i.de^
 ||ad.a-ads.com^
 ||ad.a8.net^
@@ -140,7 +138,6 @@
 ||ad.hodomobile.com^
 ||ad.hyena.cz^
 ||ad.iinfo.cz^
-||ad.ilove.ch^
 ||ad.infoseek.com^
 ||ad.intl.xiaomi.com^
 ||ad.jacotei.com.br^
@@ -172,7 +169,6 @@
 ||ad.simgames.net^
 ||ad.style^
 ||ad.tapthislink.com^
-||ad.tbn.ru^
 ||ad.technoratimedia.com^
 ||ad.turn.com^
 ||ad.tv2.no^
@@ -180,7 +176,6 @@
 ||ad.usatoday.com^
 ||ad.virtual-nights.com^
 ||ad.wavu.hu^
-||ad.way.cz^
 ||ad.weatherbug.com^
 ||ad.wsod.com^
 ||ad.wz.cz^
@@ -442,7 +437,6 @@
 ||ads.cheabit.com^
 ||ads.citymagazine.si^
 ||ads.clasificadox.com^
-||ads.clearchannel.com^
 ||ads.co.com^
 ||ads.colombiaonline.com^
 ||ads.com.com^
@@ -512,7 +506,6 @@
 ||ads.geekswithblogs.net^
 ||ads.getlucky.com^
 ||ads.gld.dk^
-||ads.glispa.com^
 ||ads.gmodules.com^
 ||ads.goyk.com^
 ||ads.gplusmedia.com^
@@ -648,7 +641,6 @@
 ||ads.rediff.com^
 ||ads.redlightcenter.com^
 ||ads.revjet.com^
-||ads.satyamonline.com^
 ||ads.saymedia.com^
 ||ads.schmoozecom.net^
 ||ads.scifi.com^
@@ -674,7 +666,6 @@
 ||ads.supplyframe.com^
 ||ads.syscdn.de^
 ||ads.tahono.com^
-||ads.themovienation.com^
 ||ads.thestar.com^
 ||ads.thrillsaffiliates.com^
 ||ads.tiktok.com^
@@ -761,7 +752,6 @@
 ||ads3.contentabc.com^
 ||ads3.gamecity.net^
 ||ads3.virtual-nights.com^
-||ads4.clearchannel.com^
 ||ads4.gamecity.net^
 ||ads4.virtual-nights.com^
 ||ads4homes.com^
@@ -1088,6 +1078,7 @@
 ||api.amplitude.com^
 ||api.intensifier.de^
 ||api.kameleoon.com^
+||api.rudderlabs.com^
 ||apolloprogram.io^
 ||app-ab33.marketo.com^
 ||app-analytics.snapchat.com^
@@ -1207,7 +1198,6 @@
 ||banners.freett.com^
 ||banners.friendfinder.com^
 ||banners.getiton.com^
-||banners.golfasian.com^
 ||banners.iq.pl^
 ||banners.isoftmarketing.com^
 ||banners.linkbuddies.com^
@@ -1250,6 +1240,7 @@
 ||behavioralengine.com^
 ||belstat.com^
 ||belstat.nl^
+||benfly.net^
 ||berp.com^
 ||bestboundary.com^
 ||bestsearch.net^
@@ -1477,12 +1468,13 @@
 ||cnt.spbland.ru^
 ||cnt1.pocitadlo.cz^
 ||cny.yoyo.org^
-||code-server.biz^
 ||codeadnetwork.com^
 ||cognitiv.ai^
 ||coin-hive.com^
 ||coinhive.com^
 ||cointraffic.io^
+||collector-dev.cdp-dev.cnn.com^
+||collector.cdp.cnn.com^
 ||colonize.com^
 ||comclick.com^
 ||comfortablecheese.com^
@@ -1592,9 +1584,11 @@
 ||dacdn.visualwebsiteoptimizer.com^
 ||dacdn.vwo.com^
 ||dakic-ia-300.com^
+||damageddistance.com^
 ||damdoor.com^
 ||dancemistake.com^
 ||dapper.net^
+||dapperfloor.com^
 ||dashbida.com^
 ||dashingdirt.com^
 ||dashingsweater.com^
@@ -2173,6 +2167,7 @@
 ||leaplunchroom.com^
 ||lemmatechnologies.com^
 ||lettucelimit.com^
+||levelrate.de^
 ||lever-analytics.com^
 ||lfeeder.com^
 ||lfstmedia.com^
@@ -2240,7 +2235,6 @@
 ||look.ichlnk.com^
 ||look.opskln.com^
 ||look.udncoeln.com^
-||look.ufinkln.com^
 ||loopme.com^
 ||lop.com^
 ||loudlunch.com^
@@ -2432,6 +2426,7 @@
 ||naradxb.com^
 ||nastydollars.com^
 ||nativeroll.tv^
+||naturalbid.com^
 ||navegg.com^
 ||navigator.io^
 ||navrcholu.cz^
@@ -2658,6 +2653,7 @@
 ||popupmoney.com^
 ||popupnation.com^
 ||popuptraffic.com^
+||porngraph.com^
 ||porntrack.com^
 ||possessivebucket.com^
 ||possibleboats.com^
@@ -2697,7 +2693,6 @@
 ||propellerads.com^
 ||propellerclick.com^
 ||proper.io^
-||props.id^
 ||prosper.on-line-casino.ca^
 ||protectcrev.com^
 ||protectsubrev.com^
@@ -2739,7 +2734,6 @@
 ||pymx5.com^
 ||q.azcentral.com^
 ||q1connect.com^
-||qcontentdelivery.info^
 ||qctop.com^
 ||qnsr.com^
 ||quacksquirrel.com^
@@ -2856,7 +2850,6 @@
 ||richmails.com^
 ||richmedia.yimg.com^
 ||richstring.com^
-||richwebmaster.com^
 ||rightstats.com^
 ||rinconpx.net^
 ||ringsrecord.com^
@@ -2906,6 +2899,7 @@
 ||sail-horizon.com^
 ||samsungacr.com^
 ||samsungads.com^
+||sanity-dataplane.rudderstack.com^
 ||saysidewalk.com^
 ||sbx.pagesjaunes.fr^
 ||sc-analytics.appspot.com^
@@ -3140,6 +3134,7 @@
 ||sugarcurtain.com^
 ||sugoicounter.com^
 ||sulkybutter.com^
+||sulkycook.com^
 ||summerhamster.com^
 ||summerobject.com^
 ||sumo.com^
@@ -3326,6 +3321,7 @@
 ||tracking.internetstores.de^
 ||tracking.intl.miui.com^
 ||tracking.jiffyworld.com^
+||tracking.lenddom.com^
 ||tracking.markethero.io^
 ||tracking.miui.com^
 ||tracking.olx-st.com^
@@ -3357,7 +3353,6 @@
 ||trafficspaces.net^
 ||trafficstrategies.com^
 ||trafficswarm.com^
-||traffictrader.net^
 ||trafficz.com^
 ||traffiq.com^
 ||trafic.ro^
@@ -3442,7 +3437,6 @@
 ||valueclick.com^
 ||valueclickmedia.com^
 ||valuecommerce.com^
-||valuesponsor.com^
 ||vanfireworks.com^
 ||variablefitness.com^
 ||vcommission.com^
@@ -3478,7 +3472,6 @@
 ||visualrevenue.com^
 ||vivads.net^
 ||vivtracking.com^
-||vmmpxl.com^
 ||voicefive.com^
 ||voicevegetable.com^
 ||voluum.com^
@@ -3626,10 +3619,12 @@
 ||zenzuu.com^
 ||zeus.developershed.com^
 ||zeusclicks.com^
+||zion-telemetry.api.cnn.io^
 ||zlp6s.pw^
 ||zm232.com^
 ||zmedia.com^
 ||zpu.samsungelectronics.com^
 ||zqtk.net^
 ||zukxd6fkxqn.com^
+||zy16eoat1w.com^
 ||zzhc.vnet.cn^
