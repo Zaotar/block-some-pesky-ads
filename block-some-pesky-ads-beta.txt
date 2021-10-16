@@ -1,11 +1,22 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 3.3.1
-! Last modified: 26 Jun 2021
+! Version: 3.4.1
+! Last modified: 16 Oct 2021
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
 ! Youtube
+!
+!
+! Video ads
+!
+||music.youtube.com^$csp=worker-src 'none'
+||www.youtube.com^$csp=worker-src 'none'
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.adPlacements)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, null)
 !
 _reklama_$domain=~youtube.com
 ##.youtubeSuperLeaderBoardAdHolder
