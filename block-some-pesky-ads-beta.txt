@@ -1,12 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: Block some pesky ads beta
-! Version: 3.4.1
-! Last modified: 16 Oct 2021
+! Version: 3.4.2
+! Last modified: 17 Oct 2021
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/beta
 ! License: https://mit-license.org/
 !
 ! Youtube
-!
 !
 ! Video ads
 !
@@ -129,6 +128,10 @@ youtube.com#?#ytd-popup-container > tp-yt-paper-dialog:-abp-has(> yt-upsell-dial
 m.habr.com##.tm-projects-blocks_vacancies.tm-articles-list__promo-block.tm-projects-blocks
 m.habr.com##.tm-projects-blocks_courses.tm-articles-list__promo-block.tm-projects-blocks
 m.habr.com##.tm-articles-list__promo-block.tm-promo-block
+habr.com##.tm-project-block_variant-salary.tm-project-block
+habr.com##.tm-article-feed-blocks > .tm-block_spacing-bottom.tm-block
+habr.com##.tm-project-block_variant-vacancies.tm-project-block
+habr.com##.tm-article-feed-blocks
 !
 ! 3DNews
 !
