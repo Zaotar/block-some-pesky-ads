@@ -1,9 +1,10 @@
 [Adblock Plus 1.1]
 ! Title: Peter Lowe filter list (ABP format) fork
-!Last modified: Mon, 04 Oct 2021 17:34:00 GMT
-!Entries:       3679
-!Credits:       Peter Lowe
+!Last modified: Thu, 28 Oct 2021 10:02:36 GMT
+!Entries:       3675
+!Credits:       Peter Lowe 
 !
+||1-1ads.com^
 ||101com.com^
 ||101order.com^
 ||123freeavatars.com^
@@ -499,6 +500,7 @@
 ||ads.gaming-universe.de^
 ||ads.gaming1.com^
 ||ads.gaypoint.hu^
+||ads.geekswithblogs.net^
 ||ads.getlucky.com^
 ||ads.gld.dk^
 ||ads.gmodules.com^
@@ -540,7 +542,6 @@
 ||ads.joaffs.com^
 ||ads.jobsite.co.uk^
 ||ads.jpost.com^
-||ads.junctionbox.com^
 ||ads.justhungry.com^
 ||ads.kabooaffiliates.com^
 ||ads.kaktuz.net^
@@ -566,7 +567,6 @@
 ||ads.mediasmart.es^
 ||ads.medienhaus.de^
 ||ads.meetcelebs.com^
-||ads.metaplug.com^
 ||ads.mgnetwork.com^
 ||ads.miarroba.com^
 ||ads.mic.com^
@@ -720,7 +720,6 @@
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
 ||ads.zmarsa.com^
-||ads.ztod.com^
 ||ads1-adnow.com^
 ||ads1.mediacapital.pt^
 ||ads1.msn.com^
@@ -792,7 +791,6 @@
 ||adserver.diariodosertao.com.br^
 ||adserver.digitoday.com^
 ||adserver.echdk.pl^
-||adserver.ekokatu.com^
 ||adserver.friendfinder.com^
 ||adserver.generationiron.com^
 ||adserver.gilligan.tech^
@@ -1046,7 +1044,6 @@
 ||analytics.mailmunch.co^
 ||analytics.mobile.yandex.net^
 ||analytics.myfinance.com^
-||analytics.mytvzion.pro^
 ||analytics.ostr.io^
 ||analytics.phando.com^
 ||analytics.picsart.com^
@@ -1076,7 +1073,6 @@
 ||api.kameleoon.com^
 ||api.rudderlabs.com^
 ||apolloprogram.io^
-||app-ab33.marketo.com^
 ||app-analytics.snapchat.com^
 ||app.pendo.io^
 ||appboycdn.com^
@@ -1334,7 +1330,6 @@
 ||buzzonclick.com^
 ||bwp.download.com^
 ||c.bigmir.net^
-||c1.nowlinux.com^
 ||c1exchange.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
@@ -1391,11 +1386,11 @@
 ||checkm8.com^
 ||checkstat.nl^
 ||cheerfulrange.com^
+||cherriescare.com^
 ||chewcoat.com^
 ||chickensstation.com^
 ||chinsnakes.com^
 ||chitika.net^
-||cision.com^
 ||citrusad.net^
 ||cityads.telus.net^
 ||cj.com^
@@ -1409,6 +1404,7 @@
 ||click.airmalta-mail.com^
 ||click.bkdpt.com^
 ||click.cartsguru.io^
+||click.cision.com^
 ||click.email.bbc.com^
 ||click.email.sonos.com^
 ||click.fool.com^
@@ -1529,7 +1525,6 @@
 ||counter.dreamhost.com^
 ||counter.mirohost.net^
 ||counter.mojgorod.ru^
-||counter.nowlinux.com^
 ||counter.rambler.ru^
 ||counter.search.bg^
 ||counter.snackly.co^
@@ -1558,12 +1553,10 @@
 ||crawlclocks.com^
 ||crazyegg.com^
 ||crazypopups.com^
-||creafi-online-media.com^
 ||creatives.livejasmin.com^
 ||criteo.com^
 ||criteo.net^
 ||critictruck.com^
-||croissed.info^
 ||crowdgravity.com^
 ||crsspxl.com^
 ||crta.dailymail.co.uk^
@@ -1595,7 +1588,6 @@
 ||dancemistake.com^
 ||dapper.net^
 ||dapperfloor.com^
-||dashbida.com^
 ||dashingdirt.com^
 ||dashingsweater.com^
 ||data.namesakeoscilloscopemarquis.com^
@@ -1637,6 +1629,7 @@
 ||directaclick.com^
 ||directivepub.com^
 ||directleads.com^
+||directorym.com^
 ||directtrack.com^
 ||discountclick.com^
 ||discreetfield.com^
@@ -1826,6 +1819,8 @@
 ||findyourcasino.com^
 ||fineoffer.net^
 ||fingahvf.top^
+||fireworkadservices.com^
+||fireworkanalytics.com^
 ||first.nova.cz^
 ||firstlightera.com^
 ||fixel.ai^
@@ -1878,6 +1873,7 @@
 ||fuzzybasketball.com^
 ||fuzzyflavor.com^
 ||fuzzyweather.com^
+||fwcdn2.com^
 ||fxstyle.net^
 ||ga.clearbit.com^
 ||ga87z2o.com^
@@ -2050,7 +2046,6 @@
 ||img.prohardver.hu^
 ||imgpromo.easyrencontre.com^
 ||immensehoney.com^
-||imonitor.nethost.cz^
 ||imonomy.com^
 ||importedincrease.com^
 ||impossibleexpansion.com^
@@ -2211,6 +2206,7 @@
 ||lightcast.leadscoringcenter.com^
 ||lightcushion.com^
 ||lightspeedcash.com^
+||lightstep.medium.systems^
 ||lijit.com^
 ||link-booster.de^
 ||link4ads.com^
@@ -2258,7 +2254,6 @@
 ||loudlunch.com^
 ||lp3tdqle.com^
 ||lucidmedia.com^
-||lucklayed.info^
 ||luckyorange.com^
 ||lytics.io^
 ||lzjl.com^
@@ -2377,6 +2372,7 @@
 ||mktoresp.com^
 ||ml314.com^
 ||mlm.de^
+||mlsend.com^
 ||mltrk.io^
 ||mmismm.com^
 ||mmstat.com^
@@ -2769,6 +2765,7 @@
 ||q1connect.com^
 ||qctop.com^
 ||qnsr.com^
+||qrlsx.com^
 ||quacksquirrel.com^
 ||quaintcan.com^
 ||quantcast.com^
@@ -2940,6 +2937,7 @@
 ||scambiobanner.aruba.it^
 ||scanscout.com^
 ||scarcesign.com^
+||scarfsmash.com^
 ||scatteredheat.com^
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
@@ -2964,7 +2962,6 @@
 ||securemetrics.apple.com^
 ||sedoparking.com^
 ||sedotracker.com^
-||segmetrics.io^
 ||selectivesummer.com^
 ||semasio.net^
 ||sendmepixel.com^
@@ -2980,7 +2977,6 @@
 ||servethis.com^
 ||services.hearstmags.com^
 ||serving-sys.com^
-||servingmillions.com^
 ||sessioncam.com^
 ||sexcounter.com^
 ||sexinyourcity.com^
@@ -3304,7 +3300,6 @@
 ||top100.mafia.ru^
 ||top123.ro^
 ||top20free.com^
-||top90.ro^
 ||topbucks.com^
 ||topforall.com^
 ||topgamesites.net^
@@ -3333,6 +3328,7 @@
 ||track.game18click.com^
 ||track.hexcan.com^
 ||track.mailerlite.com^
+||track.segmetrics.io^
 ||track.software-codes.com^
 ||track.themaccleanup.info^
 ||track.tkbo.com^
@@ -3368,6 +3364,7 @@
 ||tracking.jiffyworld.com^
 ||tracking.markethero.io^
 ||tracking.miui.com^
+||tracking.netalerts.io^
 ||tracking.olx-st.com^
 ||tracking.orixa-media.com^
 ||tracking.publicidees.com^
@@ -3659,7 +3656,6 @@
 ||youradexchange.com^
 ||ypu.samsungelectronics.com^
 ||z3dmbpl6309s.com^
-||z5x.net^
 ||zangocash.com^
 ||zanox-affiliate.de^
 ||zanox.com^
