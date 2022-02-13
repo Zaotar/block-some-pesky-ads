@@ -1,4 +1,4 @@
-# Others beta
+# Others
 # Google
 0.0.0.0 googleadservices.com
 0.0.0.0 tpc.googlesyndication.com
