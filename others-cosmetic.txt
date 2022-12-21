@@ -182,24 +182,15 @@ www.apkmirror.com##.ains-apkm_app_page_top.ains-32.ains > .google-ad-leaderboard
 www.apkmirror.com##.ains-apkm_app_page_bottom.ains-33.ains > .google-ad-leaderboard.gooWidget > .adslot.adsbygoogle
 www.apkmirror.com##.google-ad-square-sidebar.gooWidget > .adslot.adsbygoogle
 www.apkmirror.com##.google-ad-leaderboard.gooWidget > .adslot.adsbygoogle
-||static.xvideos-cdn.net/xv98/ads/
-xvideos.com,nyafilmer.*#%#//scriptlet('abort-on-property-read', 'popns')
-xvideos.com#%#//scriptlet('remove-class', 'has-banner', '#page > #main > #profile-title')
-xvideos.com#%#Object.defineProperty(window, 'openpop', { get: function() { return; } });
-xvideos.com#%#Object.defineProperty(Object.prototype, 'config/ads', { get: function() { return false; } });
-xvideos.*###ad-footer
-xvideos.com###ad-footer
-xvideos.com##div[class^="foot"]
-xvideos.*###video-ad + div[class]
-xvideos.com##.banner-game
-||xvideos-cdn.com/*/js/static/header/sda/ppsuma*.js
-||static-ss.xvideos-cdn.com/*/js/skins/min/default.pp.static.js
 ||xvideos.com/zoneload/
-||xvideos.es/zoneload/
-||xvideos.name/*.php
-||xvideos.name/7b3bf680a29d.js
+xvideos.com##.player-video.xv-cams-block
+xvideos.com##[href*="base64"]
 xvideos.com##[href*="data:"]
 xvideos.com##img[src*="blob:" i]:not(video)
+xvideos.com#?#:-abp-properties(*data:image*)
+xvideos.com#?#:-abp-properties(base64)
+xvideos.com#?#:-abp-properties(data:)
+xvideos.com#?#:-abp-properties(image/)
 servernews.ru##.top-banner
 www.accuweather.com##.hourly-ad.top.unrendered.glacier-ad
 www.accuweather.com##.hourly-ad.middle.unrendered.glacier-ad
