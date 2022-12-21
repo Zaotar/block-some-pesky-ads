@@ -173,6 +173,7 @@ cnews.ru##.yandex_banner
 nnmclub.to##.da-list
 www.vesti.ru###vgtrk-mini-player
 ria.ru##.m-active.endless__item > .page__width.endless__item-content > .layout-article > .recommend__place
+ria.ru##.c_banners
 rutor.info###content > center
 rutor.info##div.sideblock2:nth-of-type(3)
 www.igromania.ru###mtwtvcont
@@ -214,12 +215,11 @@ bbc.co.uk##[amp-access="toggles.ads.enabled"]
 bbc.com##section[data-e2e="advertisement"]
 bbc.com#?##sticky-mpu:-abp-has(.dotcom-ad-inner)
 bbc.com#?#li[class*="-ListItem"]:-abp-has(div.dotcom-ad)
-
-
-
-
-
-
+xda-developers.com###xda_alert_bar
+forum.xda-developers.com##.notices--thnoticesplus_topbar
+xda-developers.com##.spon_banner
+||xda-developers.com/app/plugins/xda-kco-affiliate/
+forum.xda-developers.com##.spot
 
 
 
