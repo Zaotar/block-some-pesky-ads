@@ -1,17 +1,6 @@
-# Block some pesky ads
+# Others-cosmetic
 
-Combined from several filter lists to avoid some pesky ads on sites in Russia in addition with other filter lists.
-For example, can be used with optimized Adguard filters without need to use giant Easylist or Adguard English filter.
-
-Block some ads from:
-- Youtube (includes video ads blocking)
-- Yandex (not 100%, but blocks a lot of annoying things). Beware! Totally blocks Yandex Zen!
-- Mail.ru (not 100%, but blocks a lot of annoying things). Beware! Totally blocks viqeo.tv and newstube video!
-- Rambler
-- some cosmetic rules for ad banners and cookie popups blocking.
-
-# N.B. This is beta branch. Something might go wrong.
-
+Some cosmetic adblock rules
 
 # Installation
 
