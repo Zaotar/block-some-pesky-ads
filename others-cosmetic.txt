@@ -1,45 +1,42 @@
 [Adblock Plus 2.0]
 ! Title: others-cosmetic
-! Version: 1.0
+! Version: 1.1
 ! Last modified: 21 Dec 2022
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/others-cosmetic
 ! License: https://mit-license.org/
 !
 ! Youtube
 !
-youtube.com#?##contents > ytd-rich-item-renderer:-abp-has( > #content > ytd-ad-slot-renderer)
-youtube.com#?#ytd-rich-grid-renderer ytd-rich-item-renderer div > ytd-display-ad-renderer:upward(2)
-||youtube.com/embed/*?*&origin=*.filma24.*&widgetid$domain=filma24.*
-ssyoutube.com#%#//scriptlet('prevent-window-open')
-youtube.com##ytd-video-masthead-ad-advertiser-info-renderer
-youtube.com###offer-module
-youtube.com###promotion-shelf
-youtube.com###related > ytd-watch-next-secondary-results-renderer > #items > ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer
-youtube.com##ytd-search-pyv-renderer
-youtube.com##ytm-promoted-sparkles-web-renderer
-youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'ytInitialPlayerResponse.adPlacements', 'undefined')
-youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('set-constant', 'playerResponse.adPlacements', 'undefined')
-youtubekids.com,youtube-nocookie.com,youtube.com#%#//scriptlet('json-prune', '0.playerResponse.adPlacements 0.playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds')
-||youtube.com/get_video_info?*=adunit&$important
-||youtube.com/get_video_info?$~third-party,badfilter
-||youtube.com/embed/$domain=onionplay.*
-youtube-nocookie.com##.ytp-ad-progress-list
-@@||ytimg.com^*_banner$domain=youtube.com
-@@||youtube.com/live_chat?$stealth
-@@||youtube.googleapis.com/embed^$stealth
 _reklama_$domain=~youtube.com
 youtube.com#@#.overlay-ads
 youtube.com#@#.video-ads
+||youtube.com/ad_companion
 ||youtube.com/pagead/
 @@||youtube.com/get_video_info?$xmlhttprequest,domain=music.youtube.com|tv.youtube.com
+||m.youtube.com/get_midroll_$domain=youtube.com
 ||www.youtube.com/get_midroll_$domain=youtube.com
+||youtube.com/get_video_info?*adunit$~third-party
 youtube.com###YtKevlarVisibilityIdentifier
+youtube.com###YtSparklesVisibilityIdentifier
+youtube.com###feed-pyv-container
 youtube.com###masthead-ad
 youtube.com###merch-shelf
 youtube.com###pla-shelf
 youtube.com###player-ads
+youtube.com###premium-yva
+youtube.com###promo-info
+youtube.com###promo-list
+youtube.com###search-pva
+youtube.com###shelf-pyv-container
+youtube.com###video-masthead
+youtube.com###watch-buy-urls
+youtube.com##.GoogleActiveViewElement
 youtube.com##.banner-promo-style-type-masthead-v2
+youtube.com##.companion-ad-container
+youtube.com##.list-view[style="margin: 7px 0pt;"]
 youtube.com##.promoted-sparkles-text-search-root-container
+youtube.com##.promoted-videos
+youtube.com##.searchView.list-view
 youtube.com##.sparkles-light-cta
 youtube.com##.ytd-action-companion-ad-renderer
 youtube.com##.ytd-carousel-ad-renderer
@@ -52,14 +49,22 @@ youtube.com##.ytd-promoted-video-renderer
 youtube.com##.ytd-search-pyv-renderer
 youtube.com##.ytd-video-masthead-ad-primary-video-overlay-renderer
 youtube.com##.ytd-video-masthead-ad-v3-renderer
+youtube.com##.ytp-ad-action-interstitial-background-container
+youtube.com##.ytp-ad-action-interstitial-slot
 youtube.com##.ytp-ad-button
 youtube.com##.ytp-ad-overlay-container
 youtube.com##.ytp-ad-player-overlay-flyout-cta
 youtube.com##.ytp-ad-progress
 youtube.com##.ytp-ad-progress-list
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
+youtube.com##[class^="ytd-display-ad-"]
 youtube.com##[layout*="display-ad-"]
+youtube.com##a[href^="http://www.youtube.com/cthru?"]
+youtube.com##a[href^="https://www.youtube.com/cthru?"]
+m.youtube.com##a[onclick*="\"ping_url\":\"http://www.google.com/aclk?"]
 youtube.com##ytd-compact-promoted-video-renderer
+youtube.com##ytd-companion-slot-renderer
+youtube.com##ytd-display-ad-renderer
 youtube.com##ytd-promoted-sparkles-text-search-renderer
 youtube.com##ytd-promoted-sparkles-web-renderer
 youtube.com##ytd-single-option-survey-renderer
@@ -67,6 +72,7 @@ youtube.com##ytd-video-masthead-ad-v3-renderer
 youtube.com##ytm-companion-slot
 youtube.com##ytm-promoted-sparkles-text-search-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
+@@||tv.youtube.com^$generichide
 @@||youtube.com/ads/preferences/$popup
 !
 ! Habr
