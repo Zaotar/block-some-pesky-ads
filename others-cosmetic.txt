@@ -179,10 +179,12 @@ rutor.info##div.sideblock2:nth-of-type(3)
 www.igromania.ru###mtwtvcont
 www.kommersant.ru##.subscription-popup-v2_gazette-popup.subscription-popup-v2
 www.kodap.ru##.widget_style3d_box_shadow.leadia_widget
-www.apkmirror.com##.ains-apkm_app_page_top.ains-32.ains > .google-ad-leaderboard.gooWidget > .adslot.adsbygoogle
-www.apkmirror.com##.ains-apkm_app_page_bottom.ains-33.ains > .google-ad-leaderboard.gooWidget > .adslot.adsbygoogle
-www.apkmirror.com##.google-ad-square-sidebar.gooWidget > .adslot.adsbygoogle
-www.apkmirror.com##.google-ad-leaderboard.gooWidget > .adslot.adsbygoogle
+apkmirror.com#@#.adsbygoogle
+apkmirror.com#@#.adslot
+apkmirror.com##.ai_widget
+apkmirror.com##.google-ad-leaderboard
+apkmirror.com##.ains-apkm_outbrain_ad
+@@||apkmirror.com^$generichide
 ||xvideos.com/zoneload/
 xvideos.com##.player-video.xv-cams-block
 xvideos.com##[href*="base64"]
@@ -201,6 +203,7 @@ www.accuweather.com##.content-module.top.unrendered.glacier-ad
 www.accuweather.com##.content-module.native.unrendered.glacier-ad
 www.accuweather.com##.content-module.middle.unrendered.glacier-ad
 www.accuweather.com##.content-module.bottom.unrendered.glacier-ad
+accuweather.com###top
 rg.ru##.needsclick
 rutube.ru##.app-download-topbar-module__appDownloadTopBar
 ||cnn.com/ad/
@@ -220,12 +223,9 @@ forum.xda-developers.com##.notices--thnoticesplus_topbar
 xda-developers.com##.spon_banner
 ||xda-developers.com/app/plugins/xda-kco-affiliate/
 forum.xda-developers.com##.spot
-
-
-
-
-
-
-
-
-
+askubuntu.com##.js-consent-banner.r16.l16.b16.bar-lg.fc-white.bg-black-750.sm\:p16.p32.sm\:w-auto.ws4.z-nav-fixed.ps-fixed.ff-sans
+ubuntu.com##.cookie-policy
+www.songsterr.com###showroom
+duckduckgo.com##.js-results-ads
+duckduckgo.com##.js-sidebar-ads > .nrn-react-div
+duckduckgo.com##.results--ads
