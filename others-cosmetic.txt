@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: others-cosmetic
-! Version: 1.1
-! Last modified: 21 Dec 2022
+! Version: 1.2
+! Last modified: 23 Dec 2022
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/others-cosmetic
 ! License: https://mit-license.org/
 !
@@ -166,6 +166,7 @@ cnews.ru##.yandex_banner
 !
 ||rpc-php.trafficfactory.biz^
 ||www.rpc-php.trafficfactory.biz^
+||trafficfactory.biz^$third-party
 ||e-katalog.ru^
 ||www.e-katalog.ru^
 ||info.price.nadavi.ru^
@@ -186,14 +187,25 @@ apkmirror.com##.google-ad-leaderboard
 apkmirror.com##.ains-apkm_outbrain_ad
 @@||apkmirror.com^$generichide
 ||xvideos.com/zoneload/
+||xvideos.es/zoneload/
+||xvideos.name/*.php
+||xvideos.name/7b3bf680a29d.js
 xvideos.com##.player-video.xv-cams-block
 xvideos.com##[href*="base64"]
 xvideos.com##[href*="data:"]
 xvideos.com##img[src*="blob:" i]:not(video)
 xvideos.com#?#:-abp-properties(*data:image*)
 xvideos.com#?#:-abp-properties(base64)
-xvideos.com#?#:-abp-properties(data:)
+xvideos.com#?#:-abp-properties(data:)||static.xvideos-cdn.net/xv98/ads/
 xvideos.com#?#:-abp-properties(image/)
+||static.xvideos-cdn.net/xv98/ads/
+xvideos.*###ad-footer
+xvideos.com###ad-footer
+xvideos.com##div[class^="foot"]
+xvideos.*###video-ad + div[class]
+xvideos.com##.banner-game
+||xvideos-cdn.com/*/js/static/header/sda/ppsuma*.js
+||static-ss.xvideos-cdn.com/*/js/skins/min/default.pp.static.js
 servernews.ru##.top-banner
 www.accuweather.com##.hourly-ad.top.unrendered.glacier-ad
 www.accuweather.com##.hourly-ad.middle.unrendered.glacier-ad
@@ -229,3 +241,10 @@ www.songsterr.com###showroom
 duckduckgo.com##.js-results-ads
 duckduckgo.com##.js-sidebar-ads > .nrn-react-div
 duckduckgo.com##.results--ads
+||cdn.comss.net/action/ya-antiphishing.jpg
+||cdn.comss.net/action/yandex
+||comss.ru/ads/
+comss.ru#?#body > div[class="container"][style^="padding-top:"][-ext-has=">p>span:contains(Реклама)"]
+comss.ru#?#body > div.container[style^="padding-top:"] > p > span:contains(Объявления):upward(2)
+comss.ru##.toppage
+comss.ru##a[href^="http://external.comss.ru/url.php?url=http://goo.gl/"]
