@@ -139,6 +139,8 @@ games.mail.ru##.link-game
 news.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 sportmail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 auto.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
+lady.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
+news.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 kino.mail.ru##.js-article-swipe__banner.m-component-slot_plug-x250.js-module
 hi-tech.mail.ru##.m-component-slot_plug-x250.js-article-swipe__banner.js-module
 deti.mail.ru##.m-component-slot_plug-x250.popup-shown__hide.js-module
@@ -148,6 +150,8 @@ pogoda.mail.ru##.m-component-slot_plug-x250.js-module.p-rb-slot
 tv.mail.ru##.popup-shown__hide
 auto.mail.ru##.m-component-slot_plug-x250.js-module
 sportmail.ru##.m-component-slot_plug-x250.js-module
+lady.mail.ru##.m-component-slot_plug-x250.js-module
+news.mail.ru##.m-component-slot_plug-x250.js-module
 !
 ! Rambler
 !
