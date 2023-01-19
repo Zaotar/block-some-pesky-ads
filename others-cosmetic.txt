@@ -208,6 +208,9 @@ xvideos.com###ad-footer
 xvideos.com##div[class^="foot"]
 xvideos.*###video-ad + div[class]
 xvideos.com##.banner-game
+www.xvideos.com###ad-header-mobile-contener
+www.xvideos.com##.videoad-base
+www.xvideos.com##.video-ad-support-mobile.video-ad.thumb-block > .thumb-inside
 ||xvideos-cdn.com/*/js/static/header/sda/ppsuma*.js
 ||static-ss.xvideos-cdn.com/*/js/skins/min/default.pp.static.js
 servernews.ru##.top-banner
