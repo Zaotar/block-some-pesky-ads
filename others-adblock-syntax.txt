@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Others Adblock syntax
-! Version: 1.1
-! Last modified: 21 Dec 2022
+! Version: 1.2
+! Last modified: 06 Oct 2024
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads
 ! License: https://mit-license.org/
 !
