@@ -131,7 +131,6 @@
 ||stat.radar.imgsmail.ru^
 ||top5.mail.ru^
 ||top-staging.mail.ru^
-||trk.mail.ru^
 ||xray.mail.ru^
 ||relap.io^
 ||yadro.ru^
