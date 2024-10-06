@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: others-cosmetic
-! Version: 1.3
-! Last modified: 04 Jan 2023
+! Version: 1.4
+! Last modified: 06 Oct 2024
 ! Homepage: https://github.com/Zaotar/block-some-pesky-ads/tree/others-cosmetic
 ! License: https://mit-license.org/
 !
@@ -112,6 +112,9 @@ ixbt.com##div[class^="clickable_zone"]
 ||rose.ixbt.com/banner/
 www.ixbt.com###m-10
 www.ixbt.com##.needsclick
+www.ixbt.com###m10 > div
+ixbt.games##.gdpr-text
+ixbt.games##.gdpr-root
 !
 ! Mail.ru
 !
@@ -152,6 +155,9 @@ auto.mail.ru##.m-component-slot_plug-x250.js-module
 sportmail.ru##.m-component-slot_plug-x250.js-module
 lady.mail.ru##.m-component-slot_plug-x250.js-module
 news.mail.ru##.m-component-slot_plug-x250.js-module
+mail.ru##.ads_overflow-disabled.ads-top__fixed-after-rates.ads-top__fixed.svelte-8q9mna
+mail.ru##.ads-bottom.svelte-8q9mna
+news.mail.ru##.e4a131a559
 !
 ! Rambler
 !
@@ -213,6 +219,11 @@ www.xvideos.com##.videoad-base
 www.xvideos.com##.video-ad-support-mobile.video-ad.thumb-block > .thumb-inside
 ||xvideos-cdn.com/*/js/static/header/sda/ppsuma*.js
 ||static-ss.xvideos-cdn.com/*/js/skins/min/default.pp.static.js
+www.xvideos.com##.exo-native-widget-outer-container
+www.xvideos.com##.tb_full_init.thumb-nat-exo-ad.thumb-nat-ad.thumb-ad.thumb-block
+www.xv-ru.com###ad-header-mobile-contener > .ad-support-mobile.is-filled.exo-ad-ins-container
+www.xv-ru.com##.video-ad-support-mobile.video-ad.thumb-block > .thumb-inside
+www.xv-ru.com##.videoad-base
 servernews.ru##.top-banner
 www.accuweather.com##.hourly-ad.top.unrendered.glacier-ad
 www.accuweather.com##.hourly-ad.middle.unrendered.glacier-ad
@@ -255,3 +266,4 @@ comss.ru#?#body > div[class="container"][style^="padding-top:"][-ext-has=">p>spa
 comss.ru#?#body > div.container[style^="padding-top:"] > p > span:contains(Объявления):upward(2)
 comss.ru##.toppage
 comss.ru##a[href^="http://external.comss.ru/url.php?url=http://goo.gl/"]
+yandex.ru##.Advert_relativeLoaded__3ffEg.MainScreen_advFullWidth__1EYWs.Advert_fullScreenContainer__2yjdq.Card_container__3BCzV
