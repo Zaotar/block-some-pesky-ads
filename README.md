@@ -1,4 +1,4 @@
-# Others Adblock syntax
+# Adblock Countets fork
 
 Use with Ublock, Adguard etc.
 
@@ -8,8 +8,8 @@ Add file to your preferred adblocker which use Adblock filtering rules.
 
 Click the link below
 
-https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/others-adblock-syntax/others-adblock-syntax.txt&title=Others%20Adblock%20syntax
+https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/refs/heads/counters-fork/counters-fork.txt&title=Counters%20fork
 
 Or copy/paste direct link
 
-https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/others-adblock-syntax/others-adblock-syntax.txt
+https://raw.githubusercontent.com/Zaotar/block-some-pesky-ads/refs/heads/counters-fork/counters-fork.txt
