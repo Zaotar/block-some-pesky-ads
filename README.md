@@ -1,4 +1,4 @@
-# Adblock Countets fork
+# Adblock Counters fork
 
 Use with Ublock, Adguard etc.
 
